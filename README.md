@@ -14,9 +14,9 @@ Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değe
 
 ## 🌟 Öne Çıkan Özellikler
 
-* **🧹 Normalize Edilmiş Temiz Veri:** Web kazıma kaynaklı *"Photos, engines & full specs"* gibi çöp metinler, bozuk üretim yılları ve mükerrer kayıtlar elenmiş; 3.545 benzersiz model elde edilmiştir.
+* **🧹 Normalize Edilmiş Temiz Veri:** 5.489 ham veritabanı kaydı taranmış; web kazıma kaynaklı *"Photos, engines & full specs"* gibi çöp metinler, bozuk üretim yılları ve aynı modelin kasa yılı kopyaları (1.944 mükerrer kayıt) ayıklanarak **3.545 benzersiz model** elde edilmiştir.
 * **🇹🇷 Türkiye Pazarı Odaklı Hiyerarşi:** Togg, Tofaş, Volkswagen Jetta, Renault Megane/Clio, Fiat Egea gibi Türkiye'de çok satan tüm modeller için **Marka ➔ Ana Model Serisi ➔ Kasa / Versiyon** kademeli seçim hiyerarşisi içerir.
-* **⚡ 31 Popüler Model Serisi İçin Hazır Trim Paketi:** 1.2 TSI, 1.4 TSI DSG, 1.6 TDI, EcoBoost, Hybrid gibi hazır teknik motor, şanzıman ve yakıt kombinasyonları.
+* **⚡ 107 Hazır Trim & Motor Paketi:** 31 popüler model ailesi altında 1.2 TSI, 1.4 TSI DSG, 1.6 TDI, EcoBoost, Hybrid gibi hazır teknik motor, şanzıman ve yakıt kombinasyonları (toplam 107 hazır donanım paketi).
 * **🔒 Supabase / PostgreSQL RLS Koruması:** `schema.sql` ve `dump.sql` tabloları, veritabanına aktarıldığında anonim yazma riskini engelleyen varsayılan **Row Level Security (RLS)** kurallarıyla birlikte gelir.
 * **💾 Çoklu Format:** İster JSON, ister PostgreSQL / Supabase SQL dump, isterseniz Pandas/Excel uyumlu CSV olarak kullanın.
 
@@ -27,10 +27,11 @@ Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değe
 | Metrik | Sayı | Açıklama |
 | :--- | :--- | :--- |
 | **Marka Sayısı** | **94** | Global süper sporlardan (Ferrari, Porsche) yerel markalara (Togg, Tofaş) kadar |
-| **Tekil Model Sayısı** | **3.545** | Mükerrer kayıtlardan arındırılmış temiz aktif ve geçmiş modeller |
+| **Ham Veri Kaydı** | **5.489** | Temizleme öncesi ham veritabanı satır sayısı |
+| **Tekil & Temiz Model** | **3.545** | Mükerrer üretim yılı kopyalarından arındırılmış net model sayısı |
 | **Model Ailesi** | **114** | Jetta, Passat, Golf, C-Serisi, 3 Serisi, Egea gibi ana seriler |
 | **Kasa & Versiyon** | **424** | Doğrudan seçilebilir kasa ve gövde varyantları |
-| **Hazır Trim Grubu** | **31** | Popüler modeller için motor hacmi, yakıt ve şanzıman presetleri |
+| **Hazır Trim Paketi** | **107** | 31 popüler model grubu altında motor hacmi, yakıt ve şanzıman presetleri |
 
 ---
 
