@@ -1,6 +1,6 @@
 id,name,slug,category,country,logo_url
 "c5b003fe-f3cf-4413-9a92-e3353dd27df3","Acura","acura","premium","Japonya","https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/acura.png"
-"bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5","Alfa Romeo","alfa-repo","standard","","https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/alfa-romeo.png"
+"bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5","Alfa Romeo","alfa-romeo","standard","","https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/alfa-romeo.png"
 "e234023e-6fc5-4f46-9e52-03230d067c11","Aston Martin","aston-martin","standard","","https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/aston-martin.png"
 "eaeb6d3d-a1af-4a93-88eb-2dd5f66c9e95","Audi","audi","standard","","https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/audi.png"
 "003816aa-6d52-4f0f-b51b-6280d8965739","Bentley","bentley","standard","","https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/bentley.png"

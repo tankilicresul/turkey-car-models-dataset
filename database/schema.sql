@@ -20,3 +20,22 @@ CREATE TABLE IF NOT EXISTS catalog_models (
 
 CREATE INDEX IF NOT EXISTS idx_catalog_models_brand_id ON catalog_models(brand_id);
 CREATE INDEX IF NOT EXISTS idx_catalog_models_name ON catalog_models(canonical_name);
+
+-- Row Level Security (RLS) - Read-only for public access
+ALTER TABLE catalog_brands ENABLE ROW LEVEL SECURITY;
+ALTER TABLE catalog_models ENABLE ROW LEVEL SECURITY;
+
+DO $$ 
+BEGIN
+    IF NOT EXISTS (
+        SELECT 1 FROM pg_policies WHERE tablename = 'catalog_brands' AND policyname = 'Public read-only'
+    ) THEN
+        CREATE POLICY "Public read-only" ON catalog_brands FOR SELECT USING (true);
+    END IF;
+
+    IF NOT EXISTS (
+        SELECT 1 FROM pg_policies WHERE tablename = 'catalog_models' AND policyname = 'Public read-only'
+    ) THEN
+        CREATE POLICY "Public read-only" ON catalog_models FOR SELECT USING (true);
+    END IF;
+END $$;

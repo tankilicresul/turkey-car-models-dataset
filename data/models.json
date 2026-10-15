@@ -1,24 +1,10 @@
 [
   {
-    "id": "d6cf782b-8ba7-4599-82c4-f4f98305b440",
-    "brand_id": "aaad8d25-e77a-4fea-8daa-672ebedb664a",
-    "brand_name": "Nissan",
-    "brand_slug": "nissan",
-    "model_name": "-R -"
-  },
-  {
-    "id": "78317ed3-9ee9-448d-812a-f9d1a6f4a57c",
-    "brand_id": "aaad8d25-e77a-4fea-8daa-672ebedb664a",
-    "brand_name": "Nissan",
-    "brand_slug": "nissan",
-    "model_name": "-R"
-  },
-  {
     "id": "e60cb0a4-4efc-4d52-a1b2-e36fa0c7db72",
     "brand_id": "aaad8d25-e77a-4fea-8daa-672ebedb664a",
     "brand_name": "Nissan",
     "brand_slug": "nissan",
-    "model_name": "-R Nismo"
+    "model_name": "R Nismo"
   },
   {
     "id": "21d5a957-f5a4-4ae3-91d0-7798a5aa80b2",
@@ -46,7 +32,7 @@
     "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
     "brand_name": "Hyundai",
     "brand_slug": "hyundai",
-    "model_name": "/ Tiburon"
+    "model_name": "Tiburon"
   },
   {
     "id": "f08e9984-cef1-4768-88a2-728b9e409b28",
@@ -591,28 +577,28 @@
     "id": "e16dc93d-2851-498a-9850-a7a56709aad1",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "145"
   },
   {
     "id": "5ea5f26b-6313-4982-9ffd-de31d5dd7113",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "146"
   },
   {
     "id": "c5b72c12-6048-425a-8ff5-0858aa44f39a",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "147"
   },
   {
     "id": "63ba0d51-9be5-4ecc-adb1-85ced5322297",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "147 GTA"
   },
   {
@@ -675,42 +661,42 @@
     "id": "dac3598f-9fba-41b9-a3ec-c9a38822f1fc",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "155"
   },
   {
     "id": "bfd92837-0b0c-425b-bd90-6e1bedfc4280",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "156"
   },
   {
     "id": "8f721019-825b-46b2-9fe8-16f74507c837",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "156 GTA"
   },
   {
     "id": "31eeb9ee-e2f4-46e9-a230-607f74e49a33",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "156 Sportwagon"
   },
   {
     "id": "de8ac772-2b7f-4fbd-8d00-a187122c7041",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "156 Sportwagon GTA"
   },
   {
     "id": "d1c96aa7-c94e-46d3-8a41-2ba7830618d5",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "159"
   },
   {
@@ -724,7 +710,7 @@
     "id": "375b0c64-fa10-461f-8463-076a815e3008",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "159 Sportwagon"
   },
   {
@@ -752,14 +738,14 @@
     "id": "24ae7c46-735d-4483-9238-dc06f52b3e3a",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "164"
   },
   {
     "id": "64d009dd-2a16-4685-a26a-73129eded6c3",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "166"
   },
   {
@@ -843,14 +829,14 @@
     "id": "e03a30f2-0925-45b7-bfe9-0dff35dcdf8f",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "1900 Berlina"
   },
   {
     "id": "651614fe-6477-4c12-a917-6914b01869fb",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "1900 Super Sprint"
   },
   {
@@ -869,13 +855,6 @@
   },
   {
     "id": "c9461c72-1c65-4f6a-9156-3b6248db0e56",
-    "brand_id": "254cd861-fa2d-4bd0-a41b-c20f49e2d825",
-    "brand_name": "Mazda",
-    "brand_slug": "mazda",
-    "model_name": "2 / Demio -"
-  },
-  {
-    "id": "3198d918-6b09-4eed-9f52-3cb1c277dbff",
     "brand_id": "254cd861-fa2d-4bd0-a41b-c20f49e2d825",
     "brand_name": "Mazda",
     "brand_slug": "mazda",
@@ -948,7 +927,7 @@
     "id": "0d5b829c-3d0e-468b-b3a8-e0344a217c98",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "2000 Berlina"
   },
   {
@@ -1082,13 +1061,6 @@
     "brand_id": "13ff8898-4063-4aad-9375-d88187d61119",
     "brand_name": "Peugeot",
     "brand_slug": "peugeot",
-    "model_name": "207 -"
-  },
-  {
-    "id": "d1d63f87-f023-4011-9e79-9a25966c9003",
-    "brand_id": "13ff8898-4063-4aad-9375-d88187d61119",
-    "brand_name": "Peugeot",
-    "brand_slug": "peugeot",
     "model_name": "207"
   },
   {
@@ -1214,7 +1186,7 @@
     "id": "a8c1655a-be53-445a-8a93-634e9930d2fb",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "24 HP"
   },
   {
@@ -1277,7 +1249,7 @@
     "id": "ff5fc131-e7b2-432c-aa6a-2f87f411ab7e",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "2600 Spider"
   },
   {
@@ -1565,13 +1537,6 @@
     "brand_id": "13ff8898-4063-4aad-9375-d88187d61119",
     "brand_name": "Peugeot",
     "brand_slug": "peugeot",
-    "model_name": "308 -"
-  },
-  {
-    "id": "670e65a7-6c67-4248-8201-066e81dd9594",
-    "brand_id": "13ff8898-4063-4aad-9375-d88187d61119",
-    "brand_name": "Peugeot",
-    "brand_slug": "peugeot",
     "model_name": "308"
   },
   {
@@ -1711,21 +1676,21 @@
     "id": "687cb72f-a838-421a-b623-cab2f2b3b4d5",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "33"
   },
   {
     "id": "d7a0ec70-fa48-4e7e-9436-572c378ea0ab",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "33 Giardinetta"
   },
   {
     "id": "4b196f9f-4a6e-4671-a379-bee0a00c2401",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "33 Stradale"
   },
   {
@@ -2173,14 +2138,14 @@
     "id": "d3d09425-8ed5-4061-91d7-0a0e8fca8b59",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "4C"
   },
   {
     "id": "1851546f-8cc4-4f9d-9ef8-32493019b6f4",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "4C Spider"
   },
   {
@@ -2943,21 +2908,21 @@
     "id": "bd701db9-8da4-4dbe-b30e-c8e76a6d35c8",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "6C 1500"
   },
   {
     "id": "b534d910-7821-4b6e-a425-4c33709193e1",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "6C 1750 Grand Sport"
   },
   {
     "id": "3e693e9f-045f-45fd-9ca7-d37b89d49e5e",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "6C 2500 Super Sport"
   },
   {
@@ -3055,7 +3020,7 @@
     "id": "e280c3f2-b699-476f-86d9-f77ac471fe63",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "75"
   },
   {
@@ -3258,21 +3223,21 @@
     "id": "bd69d05d-7323-47a2-acb6-afa91d2bca97",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "8C 2300"
   },
   {
     "id": "f020fe4c-812a-4e0e-ab01-14c6993856cf",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "8C 2900 B"
   },
   {
     "id": "b40f6afa-682d-4876-882e-d2b11d9777b8",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "8C Competizione"
   },
   {
@@ -4112,49 +4077,49 @@
     "id": "fc6a9494-489a-4504-af84-ee9292f29f6d",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfa 6"
   },
   {
     "id": "a210a4e4-480a-4342-a85a-5c3ad62a09ce",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfasud"
   },
   {
     "id": "b2e5cb59-a1e1-4ebc-ab68-a1045e3bccb5",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfasud Giardinetta"
   },
   {
     "id": "903e8451-d513-44dd-af71-becc072a3ce4",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfasud Sprint"
   },
   {
     "id": "5be4217c-d1f5-43cc-8aaa-56befb988ed4",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfasud TI"
   },
   {
     "id": "1c06485c-5dbb-4fd3-a742-ec161197fd6c",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfetta"
   },
   {
     "id": "6444a2eb-b1d3-4314-a458-bb87b6e7bd79",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfetta GTV"
   },
   {
@@ -4434,7 +4399,7 @@
     "id": "7a1c580f-a30d-40d1-8468-0f877d7f1165",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Arna"
   },
   {
@@ -5323,7 +5288,7 @@
     "id": "32e8569d-f911-4827-b8ea-0ac87bdebbc2",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Brera"
   },
   {
@@ -5912,7 +5877,7 @@
     "brand_id": "cab994d8-42be-47ea-87bc-121fadc5d4f1",
     "brand_name": "Porsche",
     "brand_slug": "porsche",
-    "model_name": "Cayenne E-"
+    "model_name": "Cayenne E"
   },
   {
     "id": "9b6ce4ec-0958-48c2-afd6-5f5cd8a6c943",
@@ -5940,7 +5905,7 @@
     "brand_id": "cab994d8-42be-47ea-87bc-121fadc5d4f1",
     "brand_name": "Porsche",
     "brand_slug": "porsche",
-    "model_name": "Cayenne S E-"
+    "model_name": "Cayenne S E"
   },
   {
     "id": "f7c28885-897a-48be-a96e-c9f3edea1fb2",
@@ -5961,7 +5926,7 @@
     "brand_id": "cab994d8-42be-47ea-87bc-121fadc5d4f1",
     "brand_name": "Porsche",
     "brand_slug": "porsche",
-    "model_name": "Cayenne Turbo E-"
+    "model_name": "Cayenne Turbo E"
   },
   {
     "id": "f545bc34-ddaf-4aef-86d5-ca581f71dade",
@@ -5982,7 +5947,7 @@
     "brand_id": "cab994d8-42be-47ea-87bc-121fadc5d4f1",
     "brand_name": "Porsche",
     "brand_slug": "porsche",
-    "model_name": "Cayenne Turbo S E-"
+    "model_name": "Cayenne Turbo S E"
   },
   {
     "id": "59875f82-6b3b-4c52-b9a7-e0283dbcf2e3",
@@ -6955,13 +6920,6 @@
     "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
     "brand_name": "Renault",
     "brand_slug": "renault",
-    "model_name": "Clio -"
-  },
-  {
-    "id": "19ef61a9-bae0-4bdf-8393-06adddd8c5f8",
-    "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
-    "brand_name": "Renault",
-    "brand_slug": "renault",
     "model_name": "Clio"
   },
   {
@@ -7647,7 +7605,7 @@
     "id": "41ce370b-2908-4b61-bc80-4e242919bddb",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Crosswagon Q4"
   },
   {
@@ -10797,77 +10755,77 @@
     "id": "37ff3e52-1f51-47f0-95df-7e0a595888b8",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia 1300 GTA Junior"
   },
   {
     "id": "32703204-9113-4f71-9926-bc5774cd4ab4",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia"
   },
   {
     "id": "e21c20c1-763e-45b0-9656-38396ee93f0c",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia Berlina"
   },
   {
     "id": "583fa870-cac4-430f-ac22-f8d528a9cbc5",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia GTA"
   },
   {
     "id": "fc2e48b7-25b3-4588-9ee2-b9ca46b89b70",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia Quadrifoglio"
   },
   {
     "id": "759e5cbf-c8d1-40a3-ae97-f887a4e8d392",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia Veloce"
   },
   {
     "id": "555be9c3-58de-44dd-8320-84ace38962cb",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulietta"
   },
   {
     "id": "cad4310c-30bd-4f26-8c29-83f611a1bc07",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulietta Berlina"
   },
   {
     "id": "bb5c4332-4a78-4490-a292-9aa507c2c20b",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulietta Quadrifoglio Verde"
   },
   {
     "id": "b15b5eca-bd41-44d3-b63b-48c0a24f1d47",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulietta Spider"
   },
   {
     "id": "16884658-fa15-4aa1-b679-ee032698a844",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulietta Sprint"
   },
   {
@@ -11658,7 +11616,7 @@
     "id": "629618de-038d-456f-b360-f6c99e7bca3c",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "GTV"
   },
   {
@@ -12876,7 +12834,7 @@
     "id": "ee715fbc-8d1e-4273-a059-f50b81f31a1f",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Junior"
   },
   {
@@ -16271,21 +16229,21 @@
     "id": "d389bb0b-4a0d-46f9-9854-f73803170efb",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "MiTo"
   },
   {
     "id": "3d1de922-3af4-430a-8990-8a439ec542bb",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "MiTo Quadrifoglio Verde"
   },
   {
     "id": "7808645e-81bc-4d5e-b1aa-0dde4b612aed",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "MiTo Veloce"
   },
   {
@@ -16565,7 +16523,7 @@
     "id": "eb2fefc0-aadf-44eb-a69e-722a894aed87",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Montreal"
   },
   {
@@ -17679,7 +17637,7 @@
     "brand_id": "cab994d8-42be-47ea-87bc-121fadc5d4f1",
     "brand_name": "Porsche",
     "brand_slug": "porsche",
-    "model_name": "Panamera 4 E-"
+    "model_name": "Panamera 4 E"
   },
   {
     "id": "cb4df4d0-9818-4a5c-bea2-d66e6fb73145",
@@ -17721,7 +17679,7 @@
     "brand_id": "cab994d8-42be-47ea-87bc-121fadc5d4f1",
     "brand_name": "Porsche",
     "brand_slug": "porsche",
-    "model_name": "Panamera 4S E-"
+    "model_name": "Panamera 4S E"
   },
   {
     "id": "de888752-9e92-4839-8ae0-337186b7463d",
@@ -17770,7 +17728,7 @@
     "brand_id": "cab994d8-42be-47ea-87bc-121fadc5d4f1",
     "brand_name": "Porsche",
     "brand_slug": "porsche",
-    "model_name": "Panamera S E-"
+    "model_name": "Panamera S E"
   },
   {
     "id": "a1031ef4-29b4-45a0-827a-34abd51cea68",
@@ -17784,7 +17742,7 @@
     "brand_id": "cab994d8-42be-47ea-87bc-121fadc5d4f1",
     "brand_name": "Porsche",
     "brand_slug": "porsche",
-    "model_name": "Panamera Turbo E-"
+    "model_name": "Panamera Turbo E"
   },
   {
     "id": "19cbd685-9022-45b9-a427-692ee104ce8f",
@@ -17798,7 +17756,7 @@
     "brand_id": "cab994d8-42be-47ea-87bc-121fadc5d4f1",
     "brand_name": "Porsche",
     "brand_slug": "porsche",
-    "model_name": "Panamera Turbo S E-"
+    "model_name": "Panamera Turbo S E"
   },
   {
     "id": "d8dc45eb-a76b-4597-a593-aebec7697d02",
@@ -19407,14 +19365,14 @@
     "id": "d7e02f8d-193f-4707-a9a7-183d65ddbe7c",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "RL"
   },
   {
     "id": "05fc8b45-9341-4d5e-b9d7-04152dc9ac42",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "RL Super Sport"
   },
   {
@@ -19428,7 +19386,7 @@
     "id": "f3c07c1d-c8b2-408b-984b-2914b4cf7b36",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "RM Sport"
   },
   {
@@ -21150,14 +21108,14 @@
     "id": "4543d11e-77fb-472e-984c-7b34723bacd6",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Spider"
   },
   {
     "id": "84790ddc-bf2a-4cf6-93cb-c2cc50f827b3",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Spider Series II"
   },
   {
@@ -21185,7 +21143,7 @@
     "id": "74319979-b810-44b4-a518-eb8cb64b8214",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Sport Wagon"
   },
   {
@@ -21241,7 +21199,7 @@
     "id": "01bfa64d-353f-4a73-a5a8-81e0e3f374e1",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Sprint"
   },
   {
@@ -21381,14 +21339,14 @@
     "id": "b8c74d8e-267b-4468-bcee-d046375546c9",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Stelvio"
   },
   {
     "id": "598f755d-f5ac-46b0-b3a4-3129b07260ba",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Stelvio Quadrifoglio"
   },
   {
@@ -22634,7 +22592,7 @@
     "id": "8a78e03c-129a-4d4c-9bb1-0efad852fb87",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Tonale"
   },
   {
@@ -22662,7 +22620,7 @@
     "id": "c8a688da-4c51-4133-a9bf-2def27c9b3da",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Torpedo 20-30 HP"
   },
   {

@@ -2,22 +2,22 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Brands](https://img.shields.io/badge/Brands-94-crimson.svg)](#)
-[![Models](https://img.shields.io/badge/Models-5%2C489%2B-blue.svg)](#)
+[![Models](https://img.shields.io/badge/Models-3%2C545%2B-blue.svg)](#)
 [![Formats](https://img.shields.io/badge/Formats-JSON%20%7C%20SQL%20%7C%20CSV-green.svg)](#)
 [![Maintained by ST Motors](https://img.shields.io/badge/Powered%20By-ST%20Motors-B70116.svg)](https://www.stmotorss.com)
 
-Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değerleme motorları, sigorta/kasko teklif platformları ve yapay zeka (RAG/LLM) projeleri için **özel olarak temizlenmiş, normalize edilmiş ve hiyerarşik olarak yapılandırılmış** en kapsamlı açık kaynak araç veri seti.
+Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değerleme motorları, sigorta/kasko teklif platformları ve yapay zeka (RAG/LLM) projeleri için **özel olarak normalize edilmiş, tekilleştirilmiş ve hiyerarşik olarak yapılandırılmış** açık kaynak araç veri seti.
 
-> 💎 **Bu veri seti [ST Motors](https://www.stmotorss.com) premium otomobil değerleme altyapısı için derlenmiş ve açık kaynak topluluğunun kullanımına sunulmuştur.**
+> 💎 **Bu veri seti [ST Motors](https://www.stmotorss.com) otomobil kataloğu altyapısı standartlarına göre düzenlenmiş ve açık kaynak topluluğunun kullanımına sunulmuştur.**
 
 ---
 
-## 🌟 Neden Bu Veri Seti?
+## 🌟 Öne Çıkan Özellikler
 
-* **🧹 Scraper Pisliklerinden Sıfır Kalıntı:** Web kazıma kaynaklı *"Photos, engines & full specs"* gibi çöp metinler, bozuk üretim yılları ve çift kayıtlar tamamen temizlenmiştir.
+* **🧹 Normalize Edilmiş Temiz Veri:** Web kazıma kaynaklı *"Photos, engines & full specs"* gibi çöp metinler, bozuk üretim yılları ve mükerrer kayıtlar elenmiş; 3.545 benzersiz model elde edilmiştir.
 * **🇹🇷 Türkiye Pazarı Odaklı Hiyerarşi:** Togg, Tofaş, Volkswagen Jetta, Renault Megane/Clio, Fiat Egea gibi Türkiye'de çok satan tüm modeller için **Marka ➔ Ana Model Serisi ➔ Kasa / Versiyon** kademeli seçim hiyerarşisi içerir.
-* **⚡ 107 Hazır Trim & Motor Paketi:** 1.2 TSI, 1.4 TSI DSG, 1.6 TDI, EcoBoost, Hybrid gibi hazır teknik motor, şanzıman ve yakıt kombinasyonları.
-* **🖼️ Doğrulanmış Logo URL'leri:** 94 markanın yüksek kaliteli vektör (SVG) ve optimize CDN PNG logoları test edilmiş ve eşlenmiştir.
+* **⚡ 31 Popüler Model Serisi İçin Hazır Trim Paketi:** 1.2 TSI, 1.4 TSI DSG, 1.6 TDI, EcoBoost, Hybrid gibi hazır teknik motor, şanzıman ve yakıt kombinasyonları.
+* **🔒 Supabase / PostgreSQL RLS Koruması:** `schema.sql` ve `dump.sql` tabloları, veritabanına aktarıldığında anonim yazma riskini engelleyen varsayılan **Row Level Security (RLS)** kurallarıyla birlikte gelir.
 * **💾 Çoklu Format:** İster JSON, ister PostgreSQL / Supabase SQL dump, isterseniz Pandas/Excel uyumlu CSV olarak kullanın.
 
 ---
@@ -27,10 +27,10 @@ Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değe
 | Metrik | Sayı | Açıklama |
 | :--- | :--- | :--- |
 | **Marka Sayısı** | **94** | Global süper sporlardan (Ferrari, Porsche) yerel markalara (Togg, Tofaş) kadar |
-| **Model Sayısı** | **5.489+** | Aktif ve geçmiş tüm binek, SUV ve ticari modeller |
+| **Tekil Model Sayısı** | **3.545** | Mükerrer kayıtlardan arındırılmış temiz aktif ve geçmiş modeller |
 | **Model Ailesi** | **114** | Jetta, Passat, Golf, C-Serisi, 3 Serisi, Egea gibi ana seriler |
-| **Kasa & Versiyon** | **424** | Doğrudan seçilebilir kasa varyantları |
-| **Hazır Trim Paketi** | **107** | Motor hacmi, yakıt ve şanzımanı otomatik dolduran hazır paketler |
+| **Kasa & Versiyon** | **424** | Doğrudan seçilebilir kasa ve gövde varyantları |
+| **Hazır Trim Grubu** | **31** | Popüler modeller için motor hacmi, yakıt ve şanzıman presetleri |
 
 ---
 
@@ -38,13 +38,13 @@ Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değe
 
 ```bash
 ├── data/
-│   ├── brands.json                  # 94 Marka (isim, slug, menşei, logo)
-│   ├── models.json                  # 5.489 Model (marka ilişkili)
+│   ├── brands.json                  # 94 Marka (isim, slug, menşei, logo CDN)
+│   ├── models.json                  # 3.545 Tekil Model (marka ilişkili)
 │   ├── brand-model-families.json    # Kademeli model serileri ve varyantları
 │   └── popular-vehicle-trims.json   # Popüler donanım ve motor paketleri
 ├── database/
-│   ├── schema.sql                   # Tablo yapıları (PostgreSQL / Supabase)
-│   └── dump.sql                     # Tek tıkla veritabanına aktarılabilir SQL
+│   ├── schema.sql                   # Tablo yapıları + RLS Politikaları
+│   └── dump.sql                     # Tek tıkla veritabanına aktarılabilir tam SQL dökümü
 ├── csv/
 │   ├── brands.csv
 │   └── models.csv
@@ -81,6 +81,8 @@ psql -h your-db-host -U postgres -d your_db -f database/dump.sql
 
 ---
 
-## 📜 Lisans & Atıf
+## ⚖️ Yasal Bildirim & Telif Hakları (Trademark & Attribution)
 
-Bu proje **MIT Lisansı** ile korunmaktadır. Ticari ve kişisel tüm projelerinizde dilediğiniz gibi ücretsiz kullanabilirsiniz. Projelerinizde kaynak olarak [ST Motors](https://www.stmotorss.com) bağlantısını belirtmeniz rica olunur.
+1. **Ticari Markalar (Trademarks):** Bu veri setinde yer alan tüm otomobil marka isimleri, model adları, amblem ve logolar ilgili üretici şirketlerin tescilli ticari markalarıdır. Bu veriler yalnızca tanıtım, referans, eğitim ve adil kullanım (Fair Use) kapsamında bilgi amaçlı listelenmiştir. ST Motors bu markaların hiçbirinin resmi temsilcisi veya telif sahibi olduğunu iddia etmez.
+2. **Upstream Logo Kaynağı:** CDN logo yönlendirmeleri açık kaynaklı [filippofilip95/car-logos-dataset](https://github.com/filippofilip95/car-logos-dataset) (MIT Lisansı) projesinden referans alınmıştır.
+3. **Yazılım & Şema Lisansı:** Veritabanı şemaları, JSON veri hiyerarşisi ve dönüştürme scriptleri **MIT Lisansı** ile lisanslanmıştır. Projelerinizde kaynak olarak [ST Motors](https://www.stmotorss.com) bağlantısını belirtmeniz rica olunur.

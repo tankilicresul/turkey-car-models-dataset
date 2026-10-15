@@ -1,5 +1,4 @@
 -- Turkey Car Catalog Complete Dump
--- Generated: 2026-10-15T16:15:31.464Z
 -- Powered by ST Motors (https://www.stmotorss.com)
 
 BEGIN;
@@ -27,11 +26,30 @@ CREATE TABLE IF NOT EXISTS catalog_models (
 CREATE INDEX IF NOT EXISTS idx_catalog_models_brand_id ON catalog_models(brand_id);
 CREATE INDEX IF NOT EXISTS idx_catalog_models_name ON catalog_models(canonical_name);
 
+-- Row Level Security (RLS) - Read-only for public access
+ALTER TABLE catalog_brands ENABLE ROW LEVEL SECURITY;
+ALTER TABLE catalog_models ENABLE ROW LEVEL SECURITY;
+
+DO $$ 
+BEGIN
+    IF NOT EXISTS (
+        SELECT 1 FROM pg_policies WHERE tablename = 'catalog_brands' AND policyname = 'Public read-only'
+    ) THEN
+        CREATE POLICY "Public read-only" ON catalog_brands FOR SELECT USING (true);
+    END IF;
+
+    IF NOT EXISTS (
+        SELECT 1 FROM pg_policies WHERE tablename = 'catalog_models' AND policyname = 'Public read-only'
+    ) THEN
+        CREATE POLICY "Public read-only" ON catalog_models FOR SELECT USING (true);
+    END IF;
+END $$;
+
 
 -- BRANDS (94 Brands)
 INSERT INTO catalog_brands (id, canonical_name, slug, category, country, logo_url) VALUES
   ('c5b003fe-f3cf-4413-9a92-e3353dd27df3', 'Acura', 'acura', 'premium', 'Japonya', 'https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/acura.png'),
-  ('bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5', 'Alfa Romeo', 'alfa-repo', 'standard', NULL, 'https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/alfa-romeo.png'),
+  ('bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5', 'Alfa Romeo', 'alfa-romeo', 'standard', NULL, 'https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/alfa-romeo.png'),
   ('e234023e-6fc5-4f46-9e52-03230d067c11', 'Aston Martin', 'aston-martin', 'standard', NULL, 'https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/aston-martin.png'),
   ('eaeb6d3d-a1af-4a93-88eb-2dd5f66c9e95', 'Audi', 'audi', 'standard', NULL, 'https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/audi.png'),
   ('003816aa-6d52-4f0f-b51b-6280d8965739', 'Bentley', 'bentley', 'standard', NULL, 'https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/bentley.png'),
@@ -126,15 +144,13 @@ INSERT INTO catalog_brands (id, canonical_name, slug, category, country, logo_ur
   ('06b8c82c-cd40-41fa-b205-0aef3cab60d4', 'Zeekr', 'zeekr', 'premium', 'Çin', 'https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/zeekr.png')
 ON CONFLICT (id) DO UPDATE SET canonical_name = EXCLUDED.canonical_name, logo_url = EXCLUDED.logo_url;
 
--- MODELS (3551 Models)
+-- MODELS (3545 Models)
 INSERT INTO catalog_models (id, brand_id, canonical_name) VALUES
-  ('d6cf782b-8ba7-4599-82c4-f4f98305b440', 'aaad8d25-e77a-4fea-8daa-672ebedb664a', '-R -'),
-  ('78317ed3-9ee9-448d-812a-f9d1a6f4a57c', 'aaad8d25-e77a-4fea-8daa-672ebedb664a', '-R'),
-  ('e60cb0a4-4efc-4d52-a1b2-e36fa0c7db72', 'aaad8d25-e77a-4fea-8daa-672ebedb664a', '-R Nismo'),
+  ('e60cb0a4-4efc-4d52-a1b2-e36fa0c7db72', 'aaad8d25-e77a-4fea-8daa-672ebedb664a', 'R Nismo'),
   ('21d5a957-f5a4-4ae3-91d0-7798a5aa80b2', 'e9701643-becb-43a8-a35e-e99b030f47d9', '"Grosser Mercedes" F'),
   ('01f3b793-3973-44ea-93dd-b8526b0f8e02', 'e9701643-becb-43a8-a35e-e99b030f47d9', '"Grosser Mercedes" W07 Pullman'),
   ('5f4ab5d9-cad6-4374-a802-eca0504274d7', 'e9701643-becb-43a8-a35e-e99b030f47d9', '"Ponton"'),
-  ('e0ea9208-b33b-40a6-ac42-436f4f265308', 'c605d04f-002a-4a35-ae3b-3c5d69f6bb81', '/ Tiburon'),
+  ('e0ea9208-b33b-40a6-ac42-436f4f265308', 'c605d04f-002a-4a35-ae3b-3c5d69f6bb81', 'Tiburon'),
   ('f08e9984-cef1-4768-88a2-728b9e409b28', '4edfcaf9-1a3e-448e-bfe5-ecf4c3d4ca2c', '#1'),
   ('a4f857c6-d56a-43bb-ab10-ced13e154877', '4edfcaf9-1a3e-448e-bfe5-ecf4c3d4ca2c', '#3'),
   ('bbac89d1-c453-430b-a161-393a2a6c7201', '06b8c82c-cd40-41fa-b205-0aef3cab60d4', '001'),
@@ -252,8 +268,7 @@ INSERT INTO catalog_models (id, brand_id, canonical_name) VALUES
   ('651614fe-6477-4c12-a917-6914b01869fb', 'bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5', '1900 Super Sprint'),
   ('606f17c6-0ddd-4644-a749-e38bf05fe9bf', 'd7e33cf3-9bcb-45a2-9877-78649cd5b565', '195 Inter'),
   ('4ed31816-8752-4c52-8024-3ddb7b1cd0f9', 'd7e33cf3-9bcb-45a2-9877-78649cd5b565', '195 S'),
-  ('c9461c72-1c65-4f6a-9156-3b6248db0e56', '254cd861-fa2d-4bd0-a41b-c20f49e2d825', '2 / Demio -'),
-  ('3198d918-6b09-4eed-9f52-3cb1c277dbff', '254cd861-fa2d-4bd0-a41b-c20f49e2d825', '2 / Demio'),
+  ('c9461c72-1c65-4f6a-9156-3b6248db0e56', '254cd861-fa2d-4bd0-a41b-c20f49e2d825', '2 / Demio'),
   ('6af0c1ff-6b10-4d6f-94d9-8b7ff4f121b9', 'b34c5a1b-8c5b-4cda-a6c5-f2a21b65d40d', '2 Series'),
   ('e521abdf-124e-4fd2-bce2-dee5768a303d', 'b34c5a1b-8c5b-4cda-a6c5-f2a21b65d40d', '2 Series Active Tourer'),
   ('ac7a01c0-28c3-496d-abc8-45355b2958ab', 'b34c5a1b-8c5b-4cda-a6c5-f2a21b65d40d', '2 Series Gran Tourer'),
@@ -282,8 +297,7 @@ INSERT INTO catalog_models (id, brand_id, canonical_name) VALUES
   ('f4481e28-83c9-4b58-a89e-5772c45d9461', '13ff8898-4063-4aad-9375-d88187d61119', '206 RC'),
   ('7f849608-c005-4efe-81fb-864ef33e3cfa', '13ff8898-4063-4aad-9375-d88187d61119', '206 SW'),
   ('7c6e31ca-9270-45ec-ba27-03c7637a5642', '13ff8898-4063-4aad-9375-d88187d61119', '206+'),
-  ('b353215c-b1d4-4914-a939-3ac954363735', '13ff8898-4063-4aad-9375-d88187d61119', '207 -'),
-  ('d1d63f87-f023-4011-9e79-9a25966c9003', '13ff8898-4063-4aad-9375-d88187d61119', '207'),
+  ('b353215c-b1d4-4914-a939-3ac954363735', '13ff8898-4063-4aad-9375-d88187d61119', '207'),
   ('a8c85126-5137-4408-a2fa-6f1868a137fb', '13ff8898-4063-4aad-9375-d88187d61119', '207 CC'),
   ('b9de9f0d-0673-4a28-b4d8-0ae6412feb7a', '13ff8898-4063-4aad-9375-d88187d61119', '207 RC'),
   ('f2abaafe-fbf0-40c7-9ba3-e26d399cc3f1', '13ff8898-4063-4aad-9375-d88187d61119', '207 SW Outdoor'),
@@ -351,8 +365,7 @@ INSERT INTO catalog_models (id, brand_id, canonical_name) VALUES
   ('61265c1e-85e8-43e3-bfec-756d9503df09', '13ff8898-4063-4aad-9375-d88187d61119', '307 Break'),
   ('3130f9e7-acbc-463e-b12a-31967dde08be', '13ff8898-4063-4aad-9375-d88187d61119', '307 CC'),
   ('3ba7a6fd-18c4-4948-8c8c-d6b178237ad7', '13ff8898-4063-4aad-9375-d88187d61119', '307 SW'),
-  ('2468873d-5a83-481c-83fa-d3ba9b4e8b61', '13ff8898-4063-4aad-9375-d88187d61119', '308 -'),
-  ('670e65a7-6c67-4248-8201-066e81dd9594', '13ff8898-4063-4aad-9375-d88187d61119', '308'),
+  ('2468873d-5a83-481c-83fa-d3ba9b4e8b61', '13ff8898-4063-4aad-9375-d88187d61119', '308'),
   ('4bda1de2-1efa-40ac-aae3-8da3ada2133e', '13ff8898-4063-4aad-9375-d88187d61119', '308 CC'),
   ('60d41c24-0e26-4b11-b805-177d82293768', 'd7e33cf3-9bcb-45a2-9877-78649cd5b565', '308 GTB'),
   ('7abf6281-f74e-40b4-ba3c-cdd0558b096a', 'd7e33cf3-9bcb-45a2-9877-78649cd5b565', '308 GTBi'),
@@ -972,17 +985,17 @@ INSERT INTO catalog_models (id, brand_id, canonical_name) VALUES
   ('9173b16d-36c2-4557-8dc8-5d22f47ef36a', '9c6f0ba0-5451-4196-ab09-357bfc11e464', 'Cavalier'),
   ('57d1626b-2f14-4c17-bece-bd74e4baf5b0', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne'),
   ('e8d57b6a-0876-4c0f-9342-e52d945c04d9', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne Diesel'),
-  ('28ede483-cb34-4ace-aac4-414723a7c109', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne E-'),
+  ('28ede483-cb34-4ace-aac4-414723a7c109', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne E'),
   ('9b6ce4ec-0958-48c2-afd6-5f5cd8a6c943', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne GTS'),
   ('556b0073-7f3c-4c7b-978a-48efd166cfee', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne S'),
   ('231bf415-0655-43d8-91e6-bfae087a80f1', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne S Diesel'),
-  ('dc5caca3-f654-4b84-8b27-2259d8ff909c', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne S E-'),
+  ('dc5caca3-f654-4b84-8b27-2259d8ff909c', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne S E'),
   ('f7c28885-897a-48be-a96e-c9f3edea1fb2', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne S TransSyberia'),
   ('879fb035-96f6-4fbe-910a-7e9ce80e6689', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne Turbo'),
-  ('7235e39e-5220-4494-a798-21512e468632', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne Turbo E-'),
+  ('7235e39e-5220-4494-a798-21512e468632', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne Turbo E'),
   ('f545bc34-ddaf-4aef-86d5-ca581f71dade', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne Turbo E- with Package'),
   ('ca54c420-bdd6-42fb-8d12-9b3d7c252198', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne Turbo S'),
-  ('3c848dc1-e354-41ff-b72c-1c4df34d4018', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne Turbo S E-'),
+  ('3c848dc1-e354-41ff-b72c-1c4df34d4018', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayenne Turbo S E'),
   ('59875f82-6b3b-4c52-b9a7-e0283dbcf2e3', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayman GT4'),
   ('02a20117-724f-42d5-97b9-498de1a1c5f7', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayman GTS 4.0'),
   ('9b34683c-c276-46ea-8cd0-e7d04ed0e41c', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Cayman GTS'),
@@ -1121,8 +1134,7 @@ INSERT INTO catalog_models (id, brand_id, canonical_name) VALUES
   ('b71c9763-b5d4-44a3-a11d-884d5487acee', 'e9701643-becb-43a8-a35e-e99b030f47d9', 'CLA'),
   ('6640ae41-b928-433c-905d-4c2493c5206f', 'e9701643-becb-43a8-a35e-e99b030f47d9', 'CLA Shooting Brake'),
   ('c280e04b-431e-4b2d-b804-cb2cb918302a', 'e9701643-becb-43a8-a35e-e99b030f47d9', 'CLE'),
-  ('e63c9d6f-190d-4924-a447-00abb283bc83', '2e8974f8-fdae-43c6-987d-c9a12d26a428', 'Clio -'),
-  ('19ef61a9-bae0-4bdf-8393-06adddd8c5f8', '2e8974f8-fdae-43c6-987d-c9a12d26a428', 'Clio'),
+  ('e63c9d6f-190d-4924-a447-00abb283bc83', '2e8974f8-fdae-43c6-987d-c9a12d26a428', 'Clio'),
   ('6480d281-e2cb-4a3a-9a95-8a2bf5de6977', '2e8974f8-fdae-43c6-987d-c9a12d26a428', 'Clio Renault Sport'),
   ('4dd0d7bd-3eaa-4dc4-96f3-aec66df9db3b', '2e8974f8-fdae-43c6-987d-c9a12d26a428', 'Clio RS'),
   ('ee93beb0-8f2e-4e34-911a-0c68f387b298', '2e8974f8-fdae-43c6-987d-c9a12d26a428', 'Clio Symbol/Thalia'),
@@ -2653,24 +2665,24 @@ INSERT INTO catalog_models (id, brand_id, canonical_name) VALUES
   ('ed002bcb-f205-45d5-94dd-fb90dbce6b94', 'c605d04f-002a-4a35-ae3b-3c5d69f6bb81', 'Palisade'),
   ('65695278-b1a1-4acb-980c-eb0c38a66b27', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera'),
   ('b2a432ff-3bfe-448d-a3cf-c68ac97d6868', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4'),
-  ('ff817d72-9dc3-4339-b546-438a38744eb7', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4 E-'),
+  ('ff817d72-9dc3-4339-b546-438a38744eb7', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4 E'),
   ('cb4df4d0-9818-4a5c-bea2-d66e6fb73145', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4 E- Sport Turismo'),
   ('f9aa2838-1426-43ff-90ed-80e49d9120b1', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4 Sport Turismo'),
   ('238838ac-ab31-4d0f-b8f5-fe16dc32feec', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4S'),
   ('f7907632-5fc7-4f83-91b4-2dae8ff75a42', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4S Diesel'),
   ('14d99145-3260-4a55-90ea-d91616e97743', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4S Diesel Sport Turismo'),
-  ('b4a79390-b64b-4e2c-9684-d384693ff5ac', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4S E-'),
+  ('b4a79390-b64b-4e2c-9684-d384693ff5ac', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4S E'),
   ('de888752-9e92-4839-8ae0-337186b7463d', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4S E- Executive'),
   ('71808ebd-c888-47d0-aebb-a5969412fdb1', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera 4S Sport Turismo'),
   ('6779deb1-0553-41db-9b1a-e5952d0457d8', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera Diesel'),
   ('c155f0e2-c6c1-4248-bb65-c17427b96b30', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera GTS'),
   ('f429b108-1ca7-4ed5-a4d1-82d015a1d540', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera GTS Sport Turismo'),
   ('94402b97-7f02-4d83-984a-d5c1f5594ead', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera S'),
-  ('49a22222-e652-42bd-99c4-c5112fbcd649', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera S E-'),
+  ('49a22222-e652-42bd-99c4-c5112fbcd649', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera S E'),
   ('a1031ef4-29b4-45a0-827a-34abd51cea68', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera Turbo'),
-  ('7d1d2ddc-9453-4208-b3ea-3b36610e1646', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera Turbo E-'),
+  ('7d1d2ddc-9453-4208-b3ea-3b36610e1646', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera Turbo E'),
   ('19cbd685-9022-45b9-a427-692ee104ce8f', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera Turbo S'),
-  ('c3382c1d-c1e2-42f3-93fd-692c9a53ef86', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera Turbo S E-'),
+  ('c3382c1d-c1e2-42f3-93fd-692c9a53ef86', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera Turbo S E'),
   ('d8dc45eb-a76b-4597-a593-aebec7697d02', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera Turbo S E- Sport Turismo'),
   ('a8b05e1b-50fa-4ee1-a962-6e8ebebd15b5', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera Turbo S Sport Turismo'),
   ('77df177e-a058-41b8-8bb5-b564840af7c0', 'cab994d8-42be-47ea-87bc-121fadc5d4f1', 'Panamera Turbo Sport Turismo'),
