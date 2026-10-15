@@ -4,11 +4,11 @@
 [![Brands](https://img.shields.io/badge/Brands-94-crimson.svg)](#)
 [![Models](https://img.shields.io/badge/Models-5%2C489%2B-blue.svg)](#)
 [![Formats](https://img.shields.io/badge/Formats-JSON%20%7C%20SQL%20%7C%20CSV-green.svg)](#)
-[![Maintained by ST Motors](https://img.shields.io/badge/Powered%20By-ST%20Motors-B70116.svg)](https://stmotors.com.tr)
+[![Maintained by ST Motors](https://img.shields.io/badge/Powered%20By-ST%20Motors-B70116.svg)](https://www.stmotorss.com)
 
 Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değerleme motorları, sigorta/kasko teklif platformları ve yapay zeka (RAG/LLM) projeleri için **özel olarak temizlenmiş, normalize edilmiş ve hiyerarşik olarak yapılandırılmış** en kapsamlı açık kaynak araç veri seti.
 
-> 💎 **Bu veri seti [ST Motors](https://stmotors.com.tr) premium otomobil değerleme altyapısı için derlenmiş ve açık kaynak topluluğunun kullanımına sunulmuştur.**
+> 💎 **Bu veri seti [ST Motors](https://www.stmotorss.com) premium otomobil değerleme altyapısı için derlenmiş ve açık kaynak topluluğunun kullanımına sunulmuştur.**
 
 ---
 
@@ -83,4 +83,4 @@ psql -h your-db-host -U postgres -d your_db -f database/dump.sql
 
 ## 📜 Lisans & Atıf
 
-Bu proje **MIT Lisansı** ile korunmaktadır. Ticari ve kişisel tüm projelerinizde dilediğiniz gibi ücretsiz kullanabilirsiniz. Projelerinizde kaynak olarak [ST Motors](https://stmotors.com.tr) bağlantısını belirtmeniz rica olunur.
+Bu proje **MIT Lisansı** ile korunmaktadır. Ticari ve kişisel tüm projelerinizde dilediğiniz gibi ücretsiz kullanabilirsiniz. Projelerinizde kaynak olarak [ST Motors](https://www.stmotorss.com) bağlantısını belirtmeniz rica olunur.

@@ -1,6 +1,6 @@
 -- Turkey Car Catalog Complete Dump
 -- Generated: 2026-10-15T16:15:31.464Z
--- Powered by ST Motors (https://stmotors.com.tr)
+-- Powered by ST Motors (https://www.stmotorss.com)
 
 BEGIN;
 
