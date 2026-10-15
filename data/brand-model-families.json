@@ -1,0 +1,2542 @@
+{
+  "volkswagen": [
+    {
+      "id": "passat",
+      "name": "Passat",
+      "badge": "Sedan / Variant",
+      "variants": [
+        {
+          "fullName": "Passat",
+          "label": "Passat Sedan"
+        },
+        {
+          "fullName": "Passat Variant",
+          "label": "Variant (Station)"
+        },
+        {
+          "fullName": "Passat Alltrack",
+          "label": "Alltrack"
+        }
+      ]
+    },
+    {
+      "id": "jetta",
+      "name": "Jetta",
+      "badge": "Sedan",
+      "variants": [
+        {
+          "fullName": "Jetta",
+          "label": "Jetta (Standart)"
+        },
+        {
+          "fullName": "Jetta 1.2 TSI",
+          "label": "1.2 TSI"
+        },
+        {
+          "fullName": "Jetta 1.4 TSI",
+          "label": "1.4 TSI"
+        },
+        {
+          "fullName": "Jetta 1.6 TDI",
+          "label": "1.6 TDI"
+        },
+        {
+          "fullName": "Jetta 1.6 Düz",
+          "label": "1.6 Primeline / Düz"
+        }
+      ]
+    },
+    {
+      "id": "golf",
+      "name": "Golf",
+      "badge": "Hatchback",
+      "variants": [
+        {
+          "fullName": "Golf",
+          "label": "Golf (Standart)"
+        },
+        {
+          "fullName": "Golf GTI",
+          "label": "GTI"
+        },
+        {
+          "fullName": "Golf R",
+          "label": "Golf R"
+        },
+        {
+          "fullName": "Golf Variant",
+          "label": "Golf Variant"
+        }
+      ]
+    },
+    {
+      "id": "polo",
+      "name": "Polo",
+      "badge": "Kompakt HB",
+      "variants": [
+        {
+          "fullName": "Polo",
+          "label": "Polo (Standart)"
+        },
+        {
+          "fullName": "Polo GTI",
+          "label": "Polo GTI"
+        }
+      ]
+    },
+    {
+      "id": "tiguan",
+      "name": "Tiguan",
+      "badge": "Orta SUV",
+      "variants": [
+        {
+          "fullName": "Tiguan",
+          "label": "Tiguan (Standart)"
+        },
+        {
+          "fullName": "Tiguan Allspace",
+          "label": "Allspace (7 Kişilik)"
+        },
+        {
+          "fullName": "Tiguan eHybrid",
+          "label": "eHybrid"
+        }
+      ]
+    },
+    {
+      "id": "t_roc",
+      "name": "T-Roc",
+      "badge": "Crossover SUV",
+      "variants": [
+        {
+          "fullName": "T-Roc",
+          "label": "T-Roc (Standart)"
+        },
+        {
+          "fullName": "T-Roc R",
+          "label": "T-Roc R"
+        },
+        {
+          "fullName": "T-Roc Cabriolet",
+          "label": "Cabriolet"
+        }
+      ]
+    },
+    {
+      "id": "taigo_tcross",
+      "name": "Taigo & T-Cross",
+      "badge": "Şehir SUV",
+      "variants": [
+        {
+          "fullName": "Taigo",
+          "label": "Taigo (SUV Coupe)"
+        },
+        {
+          "fullName": "T-Cross",
+          "label": "T-Cross"
+        }
+      ]
+    },
+    {
+      "id": "arteon",
+      "name": "Arteon",
+      "badge": "Fastback / Lüks",
+      "variants": [
+        {
+          "fullName": "Arteon",
+          "label": "Arteon Fastback"
+        },
+        {
+          "fullName": "Arteon Shooting Brake",
+          "label": "Shooting Brake"
+        },
+        {
+          "fullName": "Arteon R",
+          "label": "Arteon R"
+        }
+      ]
+    },
+    {
+      "id": "touareg",
+      "name": "Touareg",
+      "badge": "Büyük Lüks SUV",
+      "variants": [
+        {
+          "fullName": "Touareg",
+          "label": "Touareg (Standart)"
+        },
+        {
+          "fullName": "Touareg V6 TDI",
+          "label": "V6 3.0 TDI"
+        },
+        {
+          "fullName": "Touareg R",
+          "label": "Touareg R"
+        }
+      ]
+    },
+    {
+      "id": "cc_passat_cc",
+      "name": "CC & Passat CC",
+      "badge": "4-Kapı Coupe",
+      "variants": [
+        {
+          "fullName": "CC",
+          "label": "Volkswagen CC"
+        },
+        {
+          "fullName": "Passat CC",
+          "label": "Passat CC"
+        }
+      ]
+    },
+    {
+      "id": "scirocco",
+      "name": "Scirocco",
+      "badge": "Spor Coupe",
+      "variants": [
+        {
+          "fullName": "Scirocco",
+          "label": "Scirocco (Standart)"
+        },
+        {
+          "fullName": "Scirocco 1.4 TSI",
+          "label": "1.4 TSI Sportline"
+        },
+        {
+          "fullName": "Scirocco 2.0 TSI",
+          "label": "2.0 TSI"
+        },
+        {
+          "fullName": "Scirocco R",
+          "label": "Scirocco R"
+        }
+      ]
+    },
+    {
+      "id": "caddy",
+      "name": "Caddy",
+      "badge": "Hafif Ticari / Aile",
+      "variants": [
+        {
+          "fullName": "Caddy",
+          "label": "Caddy (Standart)"
+        },
+        {
+          "fullName": "Caddy Maxi",
+          "label": "Caddy Maxi"
+        },
+        {
+          "fullName": "Caddy Alltrack",
+          "label": "Caddy Alltrack"
+        }
+      ]
+    },
+    {
+      "id": "transporter_caravelle",
+      "name": "Transporter & Caravelle",
+      "badge": "Ticari / VIP Minibüs",
+      "variants": [
+        {
+          "fullName": "Transporter",
+          "label": "Transporter City Van"
+        },
+        {
+          "fullName": "Caravelle",
+          "label": "Caravelle (VIP)"
+        },
+        {
+          "fullName": "Multivan",
+          "label": "Multivan"
+        }
+      ]
+    },
+    {
+      "id": "amarok",
+      "name": "Amarok",
+      "badge": "Pick-Up",
+      "variants": [
+        {
+          "fullName": "Amarok",
+          "label": "Amarok (Standart)"
+        },
+        {
+          "fullName": "Amarok V6 3.0 TDI",
+          "label": "V6 3.0 TDI Highline / Aventura"
+        },
+        {
+          "fullName": "Amarok Canyon",
+          "label": "Canyon"
+        }
+      ]
+    },
+    {
+      "id": "beetle_bora",
+      "name": "Beetle & Bora",
+      "badge": "Klasik / İkonik",
+      "variants": [
+        {
+          "fullName": "Beetle",
+          "label": "Beetle / Vosvos"
+        },
+        {
+          "fullName": "Bora",
+          "label": "Bora"
+        }
+      ]
+    },
+    {
+      "id": "id_ev",
+      "name": "ID Serisi (Elektrik)",
+      "badge": "Tam Elektrik",
+      "variants": [
+        {
+          "fullName": "ID.4",
+          "label": "ID.4"
+        },
+        {
+          "fullName": "ID.3",
+          "label": "ID.3"
+        },
+        {
+          "fullName": "ID.7",
+          "label": "ID.7"
+        },
+        {
+          "fullName": "ID. Buzz",
+          "label": "ID. Buzz"
+        }
+      ]
+    }
+  ],
+  "bmw": [
+    {
+      "id": "1_serisi",
+      "name": "1 Serisi",
+      "badge": "Hatchback",
+      "variants": [
+        {
+          "fullName": "1 Serisi",
+          "label": "118i / 116d"
+        },
+        {
+          "fullName": "118i",
+          "label": "118i M Sport"
+        },
+        {
+          "fullName": "116d",
+          "label": "116d Sport Line"
+        },
+        {
+          "fullName": "120i",
+          "label": "120i"
+        },
+        {
+          "fullName": "M135i xDrive",
+          "label": "M135i xDrive"
+        }
+      ]
+    },
+    {
+      "id": "2_serisi",
+      "name": "2 Serisi",
+      "badge": "Gran Coupe / Coupe",
+      "variants": [
+        {
+          "fullName": "2 Serisi Gran Coupe",
+          "label": "218i Gran Coupe"
+        },
+        {
+          "fullName": "218i Gran Coupe",
+          "label": "218i M Sport"
+        },
+        {
+          "fullName": "216d Gran Coupe",
+          "label": "216d Gran Coupe"
+        },
+        {
+          "fullName": "2 Serisi Active Tourer",
+          "label": "Active Tourer"
+        },
+        {
+          "fullName": "2 Serisi Coupe",
+          "label": "Coupe"
+        },
+        {
+          "fullName": "M2",
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "3_serisi",
+      "name": "3 Serisi",
+      "badge": "Sedan",
+      "variants": [
+        {
+          "fullName": "3 Serisi",
+          "label": "3 Serisi (Standart)"
+        },
+        {
+          "fullName": "320i",
+          "label": "320i M Sport"
+        },
+        {
+          "fullName": "320i Sedan",
+          "label": "320i Sedan"
+        },
+        {
+          "fullName": "320d xDrive",
+          "label": "320d xDrive"
+        },
+        {
+          "fullName": "330i xDrive",
+          "label": "330i xDrive"
+        },
+        {
+          "fullName": "3 Serisi Touring",
+          "label": "3 Serisi Touring"
+        },
+        {
+          "fullName": "M3",
+          "label": "M3 Competition"
+        }
+      ]
+    },
+    {
+      "id": "4_serisi",
+      "name": "4 Serisi",
+      "badge": "Gran Coupe / Coupe",
+      "variants": [
+        {
+          "fullName": "4 Serisi Gran Coupe",
+          "label": "420i Gran Coupe"
+        },
+        {
+          "fullName": "420i Gran Coupe",
+          "label": "420i M Sport"
+        },
+        {
+          "fullName": "420i Coupe",
+          "label": "420i Coupe"
+        },
+        {
+          "fullName": "430i xDrive",
+          "label": "430i xDrive"
+        },
+        {
+          "fullName": "4 Serisi Cabrio",
+          "label": "Cabriolet"
+        },
+        {
+          "fullName": "M4",
+          "label": "M4 Competition"
+        }
+      ]
+    },
+    {
+      "id": "5_serisi",
+      "name": "5 Serisi",
+      "badge": "Business Sedan",
+      "variants": [
+        {
+          "fullName": "5 Serisi",
+          "label": "5 Serisi (Standart)"
+        },
+        {
+          "fullName": "520i",
+          "label": "520i M Sport / Luxury"
+        },
+        {
+          "fullName": "520d xDrive",
+          "label": "520d xDrive"
+        },
+        {
+          "fullName": "530i xDrive",
+          "label": "530i xDrive"
+        },
+        {
+          "fullName": "5 Serisi Touring",
+          "label": "Touring"
+        },
+        {
+          "fullName": "M5",
+          "label": "M5 Competition"
+        }
+      ]
+    },
+    {
+      "id": "7_8_serisi",
+      "name": "7 & 8 Serisi",
+      "badge": "Üst Segment",
+      "variants": [
+        {
+          "fullName": "7 Serisi",
+          "label": "740d xDrive / 730d"
+        },
+        {
+          "fullName": "740d xDrive",
+          "label": "740d xDrive"
+        },
+        {
+          "fullName": "8 Serisi Gran Coupe",
+          "label": "840i Gran Coupe"
+        },
+        {
+          "fullName": "8 Serisi Coupe",
+          "label": "840d xDrive Coupe"
+        },
+        {
+          "fullName": "M8 Gran Coupe",
+          "label": "M8 Gran Coupe"
+        }
+      ]
+    },
+    {
+      "id": "x_suv",
+      "name": "X Serisi (SUV)",
+      "badge": "SUV / Crossover",
+      "variants": [
+        {
+          "fullName": "X1",
+          "label": "X1 sDrive18i / xDrive20d"
+        },
+        {
+          "fullName": "X2",
+          "label": "X2 sDrive18i"
+        },
+        {
+          "fullName": "X3",
+          "label": "X3 sDrive20i / xDrive20d"
+        },
+        {
+          "fullName": "X4",
+          "label": "X4 xDrive20d"
+        },
+        {
+          "fullName": "X5",
+          "label": "X5 xDrive40d / xDrive30d"
+        },
+        {
+          "fullName": "X6",
+          "label": "X6 xDrive40d / xDrive30d"
+        },
+        {
+          "fullName": "X7",
+          "label": "X7 xDrive40d"
+        },
+        {
+          "fullName": "XM",
+          "label": "XM V8 Hybrid"
+        }
+      ]
+    },
+    {
+      "id": "i_ev",
+      "name": "i Serisi (Elektrik)",
+      "badge": "Tam Elektrik",
+      "variants": [
+        {
+          "fullName": "i4",
+          "label": "i4 eDrive40 / M50"
+        },
+        {
+          "fullName": "i5",
+          "label": "i5 eDrive40 / M60"
+        },
+        {
+          "fullName": "i7",
+          "label": "i7 xDrive60"
+        },
+        {
+          "fullName": "iX",
+          "label": "iX xDrive40 / xDrive50"
+        },
+        {
+          "fullName": "iX1",
+          "label": "iX1 eDrive20 / xDrive30"
+        },
+        {
+          "fullName": "iX3",
+          "label": "iX3"
+        }
+      ]
+    }
+  ],
+  "mercedes-benz": [
+    {
+      "id": "c_serisi",
+      "name": "C-Serisi",
+      "badge": "Sedan",
+      "variants": [
+        {
+          "fullName": "C-Serisi",
+          "label": "C 200 / C 180"
+        },
+        {
+          "fullName": "C 200 4MATIC",
+          "label": "C 200 4MATIC AMG"
+        },
+        {
+          "fullName": "C 180",
+          "label": "C 180 AMG"
+        },
+        {
+          "fullName": "C 200 d",
+          "label": "C 200 d AMG"
+        },
+        {
+          "fullName": "C 63 AMG",
+          "label": "Mercedes-AMG C 63"
+        }
+      ]
+    },
+    {
+      "id": "e_serisi",
+      "name": "E-Serisi",
+      "badge": "Business Sedan",
+      "variants": [
+        {
+          "fullName": "E-Serisi",
+          "label": "E 220 d / E 200"
+        },
+        {
+          "fullName": "E 220 d 4MATIC",
+          "label": "E 220 d 4MATIC AMG"
+        },
+        {
+          "fullName": "E 200",
+          "label": "E 200 Exclusive"
+        },
+        {
+          "fullName": "E 300 d",
+          "label": "E 300 d"
+        },
+        {
+          "fullName": "E 63 AMG",
+          "label": "Mercedes-AMG E 63 S"
+        }
+      ]
+    },
+    {
+      "id": "a_b_serisi",
+      "name": "A & B Serisi",
+      "badge": "Kompakt",
+      "variants": [
+        {
+          "fullName": "A-Serisi",
+          "label": "A 200 / A 180"
+        },
+        {
+          "fullName": "A 200",
+          "label": "A 200 AMG"
+        },
+        {
+          "fullName": "A 180 d",
+          "label": "A 180 d"
+        },
+        {
+          "fullName": "B-Serisi",
+          "label": "B 180 / B 200"
+        }
+      ]
+    },
+    {
+      "id": "cla_cle",
+      "name": "CLA & CLE",
+      "badge": "4-Kapı Coupe",
+      "variants": [
+        {
+          "fullName": "CLA",
+          "label": "CLA 200 / CLA 180 d"
+        },
+        {
+          "fullName": "CLA 200",
+          "label": "CLA 200 AMG"
+        },
+        {
+          "fullName": "CLA 45 AMG",
+          "label": "CLA 45 S AMG"
+        },
+        {
+          "fullName": "CLE Coupe",
+          "label": "CLE 300 4MATIC"
+        }
+      ]
+    },
+    {
+      "id": "glc_gle",
+      "name": "GLC & GLE",
+      "badge": "Premium SUV",
+      "variants": [
+        {
+          "fullName": "GLC",
+          "label": "GLC 220 d 4MATIC"
+        },
+        {
+          "fullName": "GLC Coupe",
+          "label": "GLC 220 d Coupe"
+        },
+        {
+          "fullName": "GLE",
+          "label": "GLE 300 d / GLE 400 d"
+        },
+        {
+          "fullName": "GLE Coupe",
+          "label": "GLE 400 d Coupe"
+        }
+      ]
+    },
+    {
+      "id": "gla_glb",
+      "name": "GLA & GLB",
+      "badge": "Kompakt SUV",
+      "variants": [
+        {
+          "fullName": "GLA",
+          "label": "GLA 200 AMG"
+        },
+        {
+          "fullName": "GLB",
+          "label": "GLB 200 AMG (7 Kişilik)"
+        }
+      ]
+    },
+    {
+      "id": "s_g_serisi",
+      "name": "S & G Serisi",
+      "badge": "Amiral Gemisi & İkon",
+      "variants": [
+        {
+          "fullName": "S-Serisi",
+          "label": "S 400 d / S 500 4MATIC"
+        },
+        {
+          "fullName": "G-Serisi",
+          "label": "G 400 d / G 63 AMG"
+        },
+        {
+          "fullName": "G 63 AMG",
+          "label": "Mercedes-AMG G 63"
+        },
+        {
+          "fullName": "GLS",
+          "label": "GLS 400 d"
+        }
+      ]
+    },
+    {
+      "id": "vito_v_serisi",
+      "name": "Vito & V-Serisi",
+      "badge": "VIP Minibüs / Ticari",
+      "variants": [
+        {
+          "fullName": "Vito",
+          "label": "Vito Tourer / Panelvan"
+        },
+        {
+          "fullName": "V-Serisi",
+          "label": "V 250 / V 300 d"
+        },
+        {
+          "fullName": "Sprinter",
+          "label": "Sprinter"
+        }
+      ]
+    },
+    {
+      "id": "eq_ev",
+      "name": "EQ Serisi (Elektrik)",
+      "badge": "Tam Elektrik",
+      "variants": [
+        {
+          "fullName": "EQA",
+          "label": "EQA 250 / 350"
+        },
+        {
+          "fullName": "EQB",
+          "label": "EQB 250 / 350"
+        },
+        {
+          "fullName": "EQC",
+          "label": "EQC 400"
+        },
+        {
+          "fullName": "EQE",
+          "label": "EQE 300 / 350 / 53 AMG"
+        },
+        {
+          "fullName": "EQS",
+          "label": "EQS 450+ / 580 4MATIC"
+        }
+      ]
+    }
+  ],
+  "audi": [
+    {
+      "id": "a3",
+      "name": "A3",
+      "badge": "Sedan / HB",
+      "variants": [
+        {
+          "fullName": "A3 Sedan",
+          "label": "A3 Sedan 35 TFSI / 30 TDI"
+        },
+        {
+          "fullName": "A3 Sportback",
+          "label": "A3 Sportback"
+        },
+        {
+          "fullName": "S3",
+          "label": "S3 Sedan"
+        },
+        {
+          "fullName": "RS3",
+          "label": "RS3 Sedan"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "name": "A4",
+      "badge": "Sedan",
+      "variants": [
+        {
+          "fullName": "A4 Sedan",
+          "label": "A4 Sedan 40 TDI / 45 TFSI"
+        },
+        {
+          "fullName": "A4 Avant",
+          "label": "A4 Avant"
+        },
+        {
+          "fullName": "A4 allroad",
+          "label": "A4 allroad"
+        },
+        {
+          "fullName": "RS4 Avant",
+          "label": "RS4 Avant"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "name": "A5",
+      "badge": "Sportback / Coupe",
+      "variants": [
+        {
+          "fullName": "A5 Sportback",
+          "label": "A5 Sportback 40 TDI / 45 TFSI"
+        },
+        {
+          "fullName": "A5 Coupe",
+          "label": "A5 Coupe"
+        },
+        {
+          "fullName": "A5 Cabriolet",
+          "label": "Cabriolet"
+        },
+        {
+          "fullName": "RS5",
+          "label": "RS5 Sportback"
+        }
+      ]
+    },
+    {
+      "id": "a6",
+      "name": "A6",
+      "badge": "Business Sedan",
+      "variants": [
+        {
+          "fullName": "A6 Sedan",
+          "label": "A6 Sedan 40 TDI / 45 TFSI / 50 TDI"
+        },
+        {
+          "fullName": "A6 Avant",
+          "label": "A6 Avant"
+        },
+        {
+          "fullName": "A6 allroad",
+          "label": "A6 allroad"
+        },
+        {
+          "fullName": "RS6 Avant",
+          "label": "RS6 Avant"
+        }
+      ]
+    },
+    {
+      "id": "a7_a8",
+      "name": "A7 & A8",
+      "badge": "Üst Lüks Segment",
+      "variants": [
+        {
+          "fullName": "A7 Sportback",
+          "label": "A7 Sportback 50 TDI / 55 TFSI"
+        },
+        {
+          "fullName": "RS7 Sportback",
+          "label": "RS7 Sportback"
+        },
+        {
+          "fullName": "A8 L",
+          "label": "A8 L 50 TDI / 60 TFSI"
+        }
+      ]
+    },
+    {
+      "id": "q_suv",
+      "name": "Q Serisi (SUV)",
+      "badge": "SUV / Crossover",
+      "variants": [
+        {
+          "fullName": "Q2",
+          "label": "Q2 35 TFSI"
+        },
+        {
+          "fullName": "Q3",
+          "label": "Q3 35 TFSI / Sportback"
+        },
+        {
+          "fullName": "Q5",
+          "label": "Q5 40 TDI / Sportback"
+        },
+        {
+          "fullName": "Q7",
+          "label": "Q7 50 TDI"
+        },
+        {
+          "fullName": "Q8",
+          "label": "Q8 50 TDI / RS Q8"
+        }
+      ]
+    },
+    {
+      "id": "etron",
+      "name": "e-tron (Elektrik)",
+      "badge": "Tam Elektrik",
+      "variants": [
+        {
+          "fullName": "Q4 e-tron",
+          "label": "Q4 e-tron"
+        },
+        {
+          "fullName": "Q8 e-tron",
+          "label": "Q8 e-tron"
+        },
+        {
+          "fullName": "e-tron GT",
+          "label": "e-tron GT quattro"
+        },
+        {
+          "fullName": "RS e-tron GT",
+          "label": "RS e-tron GT"
+        }
+      ]
+    }
+  ],
+  "renault": [
+    {
+      "id": "clio",
+      "name": "Clio",
+      "badge": "Hatchback",
+      "variants": [
+        {
+          "fullName": "Clio",
+          "label": "Clio (Standart)"
+        },
+        {
+          "fullName": "Clio 1.0 TCe",
+          "label": "1.0 TCe Touch / Icon"
+        },
+        {
+          "fullName": "Clio 1.5 dCi",
+          "label": "1.5 dCi Dizel"
+        },
+        {
+          "fullName": "Clio E-Tech",
+          "label": "Clio E-Tech Hybrid"
+        }
+      ]
+    },
+    {
+      "id": "megane",
+      "name": "Megane",
+      "badge": "Sedan / HB",
+      "variants": [
+        {
+          "fullName": "Megane Sedan",
+          "label": "Megane Sedan 1.3 TCe / 1.5 dCi"
+        },
+        {
+          "fullName": "Megane E-Tech",
+          "label": "Megane E-Tech (Elektrik)"
+        },
+        {
+          "fullName": "Megane Hatchback",
+          "label": "Megane Hatchback"
+        }
+      ]
+    },
+    {
+      "id": "austral_captur",
+      "name": "Austral & Captur",
+      "badge": "SUV & Crossover",
+      "variants": [
+        {
+          "fullName": "Austral",
+          "label": "Austral 1.3 Mild Hybrid / E-Tech"
+        },
+        {
+          "fullName": "Captur",
+          "label": "Captur 1.3 TCe / 1.5 dCi"
+        },
+        {
+          "fullName": "Kadjar",
+          "label": "Kadjar 1.3 TCe / 1.5 dCi"
+        },
+        {
+          "fullName": "Koleos",
+          "label": "Koleos"
+        },
+        {
+          "fullName": "Rafale",
+          "label": "Rafale"
+        }
+      ]
+    },
+    {
+      "id": "talisman_fluence_symbol",
+      "name": "Talisman, Fluence & Symbol",
+      "badge": "Sedan Ailesi",
+      "variants": [
+        {
+          "fullName": "Talisman",
+          "label": "Talisman 1.6 dCi / 1.3 TCe"
+        },
+        {
+          "fullName": "Fluence",
+          "label": "Fluence 1.5 dCi"
+        },
+        {
+          "fullName": "Symbol",
+          "label": "Symbol 1.5 dCi / 0.9 TCe"
+        },
+        {
+          "fullName": "Taliant",
+          "label": "Taliant"
+        }
+      ]
+    },
+    {
+      "id": "kangoo_trafic",
+      "name": "Kangoo & Trafic",
+      "badge": "Ticari / Aile",
+      "variants": [
+        {
+          "fullName": "Kangoo",
+          "label": "Kangoo Multix"
+        },
+        {
+          "fullName": "Trafic",
+          "label": "Trafic"
+        },
+        {
+          "fullName": "Master",
+          "label": "Master"
+        }
+      ]
+    }
+  ],
+  "fiat": [
+    {
+      "id": "egea",
+      "name": "Egea",
+      "badge": "Sedan / Cross",
+      "variants": [
+        {
+          "fullName": "Egea Sedan",
+          "label": "Egea Sedan 1.4 Fire / 1.3 Multijet / 1.6"
+        },
+        {
+          "fullName": "Egea Cross",
+          "label": "Egea Cross 1.4 / 1.6 / Hibrit"
+        },
+        {
+          "fullName": "Egea Hatchback",
+          "label": "Egea Hatchback"
+        },
+        {
+          "fullName": "Egea Station Wagon",
+          "label": "Egea Station Wagon"
+        }
+      ]
+    },
+    {
+      "id": "fiorino_doblo",
+      "name": "Fiorino & Doblo",
+      "badge": "Hafif Ticari / Kombi",
+      "variants": [
+        {
+          "fullName": "Fiorino",
+          "label": "Fiorino Combi 1.3 Multijet / 1.4 EKO"
+        },
+        {
+          "fullName": "Doblo",
+          "label": "Doblo Combi 1.6 Multijet / 1.5 BlueHDi"
+        },
+        {
+          "fullName": "Doblo Cargo",
+          "label": "Doblo Cargo"
+        }
+      ]
+    },
+    {
+      "id": "500_ailesi",
+      "name": "500 Ailesi",
+      "badge": "İkonik / Şehir",
+      "variants": [
+        {
+          "fullName": "500",
+          "label": "500 1.0 Hibrit / 1.2 Lounge"
+        },
+        {
+          "fullName": "500e",
+          "label": "500e (Elektrik)"
+        },
+        {
+          "fullName": "500X",
+          "label": "500X Cross / SUV"
+        },
+        {
+          "fullName": "500L",
+          "label": "500L Living"
+        }
+      ]
+    },
+    {
+      "id": "linea_punto",
+      "name": "Linea & Punto",
+      "badge": "Klasik Favoriler",
+      "variants": [
+        {
+          "fullName": "Linea",
+          "label": "Linea 1.3 Multijet / 1.4 Fire"
+        },
+        {
+          "fullName": "Punto",
+          "label": "Grande Punto / Punto Evo"
+        },
+        {
+          "fullName": "Bravo",
+          "label": "Bravo"
+        },
+        {
+          "fullName": "Panda",
+          "label": "Panda Cross"
+        },
+        {
+          "fullName": "Ducato",
+          "label": "Ducato"
+        }
+      ]
+    }
+  ],
+  "ford": [
+    {
+      "id": "focus",
+      "name": "Focus",
+      "badge": "Sedan / HB",
+      "variants": [
+        {
+          "fullName": "Focus Sedan",
+          "label": "Focus Sedan 1.5 Ti-VCT / EcoBoost / EcoBlue"
+        },
+        {
+          "fullName": "Focus Hatchback",
+          "label": "Focus Hatchback ST-Line"
+        },
+        {
+          "fullName": "Focus Station Wagon",
+          "label": "Focus SW"
+        }
+      ]
+    },
+    {
+      "id": "fiesta",
+      "name": "Fiesta",
+      "badge": "Kompakt HB",
+      "variants": [
+        {
+          "fullName": "Fiesta",
+          "label": "Fiesta 1.0 EcoBoost / 1.4 / 1.5 TDCi"
+        },
+        {
+          "fullName": "Fiesta ST-Line",
+          "label": "Fiesta ST-Line"
+        }
+      ]
+    },
+    {
+      "id": "kuga_puma",
+      "name": "Kuga & Puma",
+      "badge": "SUV & Crossover",
+      "variants": [
+        {
+          "fullName": "Kuga",
+          "label": "Kuga 1.5 EcoBoost / 1.5 TDCi ST-Line"
+        },
+        {
+          "fullName": "Puma",
+          "label": "Puma 1.0 EcoBoost ST-Line"
+        },
+        {
+          "fullName": "EcoSport",
+          "label": "EcoSport"
+        }
+      ]
+    },
+    {
+      "id": "courier_custom_transit",
+      "name": "Tourneo Courier & Custom",
+      "badge": "Hafif Ticari / Aile",
+      "variants": [
+        {
+          "fullName": "Tourneo Courier",
+          "label": "Tourneo Courier 1.5 TDCi / 1.0 EcoBoost"
+        },
+        {
+          "fullName": "Tourneo Custom",
+          "label": "Tourneo Custom 2.0 EcoBlue"
+        },
+        {
+          "fullName": "Transit",
+          "label": "Transit Van / Kamyonet"
+        },
+        {
+          "fullName": "Transit Custom",
+          "label": "Transit Custom"
+        }
+      ]
+    },
+    {
+      "id": "ranger_mondeo_mustang",
+      "name": "Ranger, Mondeo & Mustang",
+      "badge": "Pick-Up / Spor / Sedan",
+      "variants": [
+        {
+          "fullName": "Ranger",
+          "label": "Ranger 2.0 EcoBlue Wildtrak / Raptor"
+        },
+        {
+          "fullName": "Mondeo",
+          "label": "Mondeo 1.5 EcoBoost / 2.0 TDCi"
+        },
+        {
+          "fullName": "Mustang",
+          "label": "Mustang GT 5.0 / 2.3 EcoBoost"
+        },
+        {
+          "fullName": "Mustang Mach-E",
+          "label": "Mustang Mach-E (Elektrik)"
+        }
+      ]
+    }
+  ],
+  "toyota": [
+    {
+      "id": "corolla",
+      "name": "Corolla",
+      "badge": "Sedan / Cross",
+      "variants": [
+        {
+          "fullName": "Corolla Sedan",
+          "label": "Corolla 1.5 Vision / 1.8 Hibrit Flame"
+        },
+        {
+          "fullName": "Corolla Cross",
+          "label": "Corolla Cross 1.8 Hibrit SUV"
+        },
+        {
+          "fullName": "Corolla Hatchback",
+          "label": "Corolla Hatchback"
+        }
+      ]
+    },
+    {
+      "id": "yaris",
+      "name": "Yaris",
+      "badge": "HB / Cross",
+      "variants": [
+        {
+          "fullName": "Yaris",
+          "label": "Yaris 1.5 / 1.5 Hibrit"
+        },
+        {
+          "fullName": "Yaris Cross",
+          "label": "Yaris Cross Hibrit"
+        }
+      ]
+    },
+    {
+      "id": "c_hr_rav4",
+      "name": "C-HR & RAV4",
+      "badge": "SUV Hibrit",
+      "variants": [
+        {
+          "fullName": "C-HR",
+          "label": "C-HR 1.8 Hibrit Passion"
+        },
+        {
+          "fullName": "RAV4",
+          "label": "RAV4 2.5 Hibrit 4x4"
+        }
+      ]
+    },
+    {
+      "id": "auris_avensis_hilux",
+      "name": "Auris, Avensis & Hilux",
+      "badge": "Sedan / Pick-Up",
+      "variants": [
+        {
+          "fullName": "Auris",
+          "label": "Auris 1.6 / 1.4 D-4D"
+        },
+        {
+          "fullName": "Avensis",
+          "label": "Avensis 1.6 D-4D / 2.0 D-4D"
+        },
+        {
+          "fullName": "Hilux",
+          "label": "Hilux 2.4 D-4D 4x4 Invincible"
+        },
+        {
+          "fullName": "Camry",
+          "label": "Camry 2.5 Hibrit"
+        },
+        {
+          "fullName": "Land Cruiser",
+          "label": "Land Cruiser Prado"
+        },
+        {
+          "fullName": "Proace City",
+          "label": "Proace City"
+        }
+      ]
+    }
+  ],
+  "honda": [
+    {
+      "id": "civic",
+      "name": "Civic",
+      "badge": "Sedan / HB",
+      "variants": [
+        {
+          "fullName": "Civic Sedan",
+          "label": "Civic Sedan 1.5 VTEC Turbo / 1.6 i-DTEC / ECO"
+        },
+        {
+          "fullName": "Civic Hatchback",
+          "label": "Civic Hatchback Sport Plus"
+        },
+        {
+          "fullName": "Civic Type R",
+          "label": "Civic Type R"
+        }
+      ]
+    },
+    {
+      "id": "crv_hrv",
+      "name": "CR-V & HR-V",
+      "badge": "SUV Ailesi",
+      "variants": [
+        {
+          "fullName": "CR-V",
+          "label": "CR-V 1.5 VTEC / 1.6 i-DTEC / e:HEV"
+        },
+        {
+          "fullName": "HR-V",
+          "label": "HR-V 1.5 e:HEV Hibrit"
+        },
+        {
+          "fullName": "ZR-V",
+          "label": "ZR-V e:HEV"
+        }
+      ]
+    },
+    {
+      "id": "city_jazz_accord",
+      "name": "City, Jazz & Accord",
+      "badge": "Sedan & Şehir",
+      "variants": [
+        {
+          "fullName": "City",
+          "label": "City 1.5 i-VTEC Elegance / Executive"
+        },
+        {
+          "fullName": "Jazz",
+          "label": "Jazz 1.5 e:HEV Crosstar"
+        },
+        {
+          "fullName": "Accord",
+          "label": "Accord 1.5 VTEC Turbo Executive"
+        }
+      ]
+    }
+  ],
+  "skoda": [
+    {
+      "id": "octavia",
+      "name": "Octavia",
+      "badge": "Sedan / Combi",
+      "variants": [
+        {
+          "fullName": "Octavia",
+          "label": "Octavia 1.0 e-TEC / 1.5 e-TEC / 2.0 TDI"
+        },
+        {
+          "fullName": "Octavia Combi",
+          "label": "Octavia Combi"
+        },
+        {
+          "fullName": "Octavia RS",
+          "label": "Octavia RS"
+        }
+      ]
+    },
+    {
+      "id": "superb",
+      "name": "Superb",
+      "badge": "Lüks Sedan",
+      "variants": [
+        {
+          "fullName": "Superb",
+          "label": "Superb 1.5 TSI / 2.0 TDI Prestige / L&K"
+        },
+        {
+          "fullName": "Superb Combi",
+          "label": "Superb Combi"
+        }
+      ]
+    },
+    {
+      "id": "suv_ailesi",
+      "name": "Kodiaq, Karoq & Kamiq",
+      "badge": "SUV Ailesi",
+      "variants": [
+        {
+          "fullName": "Kodiaq",
+          "label": "Kodiaq 1.5 TSI / 2.0 TDI (7 Kişilik)"
+        },
+        {
+          "fullName": "Karoq",
+          "label": "Karoq 1.5 TSI Prestige"
+        },
+        {
+          "fullName": "Kamiq",
+          "label": "Kamiq 1.0 TSI / 1.5 TSI"
+        }
+      ]
+    },
+    {
+      "id": "fabia_scala",
+      "name": "Fabia & Scala",
+      "badge": "Kompakt / HB",
+      "variants": [
+        {
+          "fullName": "Fabia",
+          "label": "Fabia 1.0 TSI Monte Carlo"
+        },
+        {
+          "fullName": "Scala",
+          "label": "Scala 1.0 TSI / 1.5 TSI"
+        },
+        {
+          "fullName": "Rapid",
+          "label": "Rapid / Rapid Spaceback"
+        }
+      ]
+    }
+  ],
+  "seat": [
+    {
+      "id": "leon",
+      "name": "Leon",
+      "badge": "Hatchback",
+      "variants": [
+        {
+          "fullName": "Leon",
+          "label": "Leon 1.0 eTSI / 1.5 eTSI FR / Style"
+        },
+        {
+          "fullName": "Leon 1.6 TDI",
+          "label": "Leon 1.6 TDI CR Style"
+        },
+        {
+          "fullName": "Leon FR",
+          "label": "Leon FR"
+        }
+      ]
+    },
+    {
+      "id": "ibiza",
+      "name": "Ibiza",
+      "badge": "Kompakt HB",
+      "variants": [
+        {
+          "fullName": "Ibiza",
+          "label": "Ibiza 1.0 TSI Style / FR"
+        },
+        {
+          "fullName": "Ibiza 1.4 Style",
+          "label": "Ibiza 1.4 Atmosferik"
+        }
+      ]
+    },
+    {
+      "id": "ateca_arona",
+      "name": "Ateca & Arona",
+      "badge": "SUV & Crossover",
+      "variants": [
+        {
+          "fullName": "Ateca",
+          "label": "Ateca 1.5 TSI X-Perience / FR"
+        },
+        {
+          "fullName": "Arona",
+          "label": "Arona 1.0 TSI FR"
+        },
+        {
+          "fullName": "Tarraco",
+          "label": "Tarraco 1.5 TSI (7 Kişilik)"
+        },
+        {
+          "fullName": "Toledo",
+          "label": "Toledo"
+        }
+      ]
+    }
+  ],
+  "opel": [
+    {
+      "id": "astra",
+      "name": "Astra",
+      "badge": "Hatchback / Sedan",
+      "variants": [
+        {
+          "fullName": "Astra",
+          "label": "Astra 1.2 Turbo GS / Elegance"
+        },
+        {
+          "fullName": "Astra Sedan",
+          "label": "Astra Sedan 1.6 / 1.4 Turbo Edition"
+        },
+        {
+          "fullName": "Astra 1.6 CDTI",
+          "label": "Astra 1.6 CDTI Dizel Dynamic"
+        }
+      ]
+    },
+    {
+      "id": "corsa",
+      "name": "Corsa",
+      "badge": "Kompakt HB",
+      "variants": [
+        {
+          "fullName": "Corsa",
+          "label": "Corsa 1.2 Turbo GS / Edition"
+        },
+        {
+          "fullName": "Corsa-e",
+          "label": "Corsa-e (Elektrik)"
+        },
+        {
+          "fullName": "Corsa 1.3 CDTI",
+          "label": "Corsa 1.3 CDTI"
+        }
+      ]
+    },
+    {
+      "id": "mokka_grandland_crossland",
+      "name": "Mokka & Grandland",
+      "badge": "SUV Ailesi",
+      "variants": [
+        {
+          "fullName": "Mokka",
+          "label": "Mokka 1.2 Turbo GS Line"
+        },
+        {
+          "fullName": "Mokka-e",
+          "label": "Mokka-e (Elektrik)"
+        },
+        {
+          "fullName": "Grandland",
+          "label": "Grandland 1.2 Turbo / 1.5 Dizel Ultimate"
+        },
+        {
+          "fullName": "Crossland",
+          "label": "Crossland 1.2 Turbo / 1.5 Dizel"
+        }
+      ]
+    },
+    {
+      "id": "insignia_combo",
+      "name": "Insignia & Combo",
+      "badge": "Sedan / Ticari",
+      "variants": [
+        {
+          "fullName": "Insignia",
+          "label": "Insignia Grand Sport 1.6 CDTI / 1.5 Turbo"
+        },
+        {
+          "fullName": "Combo",
+          "label": "Combo Life 1.5 Dizel"
+        },
+        {
+          "fullName": "Zafira",
+          "label": "Zafira Life"
+        },
+        {
+          "fullName": "Vivaro",
+          "label": "Vivaro"
+        }
+      ]
+    }
+  ],
+  "hyundai": [
+    {
+      "id": "i20",
+      "name": "i20",
+      "badge": "Hatchback",
+      "variants": [
+        {
+          "fullName": "i20",
+          "label": "i20 1.4 MPI / 1.0 T-GDI Style / Elite"
+        },
+        {
+          "fullName": "i20 N",
+          "label": "i20 N 1.6 T-GDI 204HP"
+        }
+      ]
+    },
+    {
+      "id": "tucson",
+      "name": "Tucson",
+      "badge": "C-SUV",
+      "variants": [
+        {
+          "fullName": "Tucson",
+          "label": "Tucson 1.6 T-GDI / 1.6 CRDI Prime / Elite Plus"
+        },
+        {
+          "fullName": "Tucson Hibrit",
+          "label": "Tucson 1.6 T-GDI HEV"
+        }
+      ]
+    },
+    {
+      "id": "elantra_bayon",
+      "name": "Elantra & Bayon",
+      "badge": "Sedan / Crossover",
+      "variants": [
+        {
+          "fullName": "Elantra",
+          "label": "Elantra 1.6 MPI Style / Elite"
+        },
+        {
+          "fullName": "Bayon",
+          "label": "Bayon 1.4 MPI / 1.0 T-GDI Elite"
+        },
+        {
+          "fullName": "Kona",
+          "label": "Kona 1.0 T-GDI / 1.6 T-GDI / Elektrik"
+        }
+      ]
+    },
+    {
+      "id": "i10_i30_santafe",
+      "name": "i10, i30 & Santa Fe",
+      "badge": "Şehir / Aile",
+      "variants": [
+        {
+          "fullName": "i10",
+          "label": "i10 1.0 / 1.2 MPI Jump / Style"
+        },
+        {
+          "fullName": "i30",
+          "label": "i30 1.4 MPI / 1.6 CRDi"
+        },
+        {
+          "fullName": "Santa Fe",
+          "label": "Santa Fe 1.6 T-GDI Hibrit Progressive"
+        },
+        {
+          "fullName": "Ioniq 5",
+          "label": "Ioniq 5 (Elektrik)"
+        },
+        {
+          "fullName": "Ioniq 6",
+          "label": "Ioniq 6 (Elektrik)"
+        },
+        {
+          "fullName": "Staria",
+          "label": "Staria VIP"
+        },
+        {
+          "fullName": "H-100",
+          "label": "H-100 Kamyonet"
+        }
+      ]
+    }
+  ],
+  "peugeot": [
+    {
+      "id": "208",
+      "name": "208",
+      "badge": "Kompakt HB",
+      "variants": [
+        {
+          "fullName": "208",
+          "label": "208 1.2 PureTech Active / Allure / GT"
+        },
+        {
+          "fullName": "e-208",
+          "label": "e-208 (Elektrik)"
+        }
+      ]
+    },
+    {
+      "id": "308_408",
+      "name": "308 & 408",
+      "badge": "HB & Fastback",
+      "variants": [
+        {
+          "fullName": "308",
+          "label": "308 1.2 PureTech GT / Allure"
+        },
+        {
+          "fullName": "408",
+          "label": "408 1.2 PureTech GT Crossover"
+        }
+      ]
+    },
+    {
+      "id": "2008_3008_5008",
+      "name": "2008, 3008 & 5008",
+      "badge": "SUV Ailesi",
+      "variants": [
+        {
+          "fullName": "2008",
+          "label": "2008 1.2 PureTech / 1.5 BlueHDi Allure / GT"
+        },
+        {
+          "fullName": "3008",
+          "label": "3008 1.2 Hybrid / 1.5 BlueHDi Allure / GT"
+        },
+        {
+          "fullName": "5008",
+          "label": "5008 1.5 BlueHDi GT (7 Kişilik)"
+        }
+      ]
+    },
+    {
+      "id": "508_rifter",
+      "name": "508 & Rifter",
+      "badge": "Fastback / Ticari",
+      "variants": [
+        {
+          "fullName": "508",
+          "label": "508 1.5 BlueHDi / 1.6 PureTech GT"
+        },
+        {
+          "fullName": "Rifter",
+          "label": "Rifter 1.5 BlueHDi Allure / GT"
+        },
+        {
+          "fullName": "Partner",
+          "label": "Partner Van"
+        },
+        {
+          "fullName": "Expert",
+          "label": "Expert Traveller"
+        }
+      ]
+    }
+  ],
+  "porsche": [
+    {
+      "id": "911",
+      "name": "911",
+      "badge": "Spor / Coupe",
+      "variants": [
+        {
+          "fullName": "911 Carrera",
+          "label": "Carrera"
+        },
+        {
+          "fullName": "911 Carrera S",
+          "label": "Carrera S"
+        },
+        {
+          "fullName": "911 Carrera 4S",
+          "label": "Carrera 4S"
+        },
+        {
+          "fullName": "911 Carrera GTS",
+          "label": "Carrera GTS"
+        },
+        {
+          "fullName": "911 Turbo S",
+          "label": "Turbo S"
+        },
+        {
+          "fullName": "911 GT3",
+          "label": "GT3"
+        },
+        {
+          "fullName": "911 GT3 RS",
+          "label": "GT3 RS"
+        },
+        {
+          "fullName": "911 Targa 4",
+          "label": "Targa 4"
+        }
+      ]
+    },
+    {
+      "id": "cayenne",
+      "name": "Cayenne",
+      "badge": "Lüks SUV",
+      "variants": [
+        {
+          "fullName": "Cayenne",
+          "label": "Cayenne (Standart)"
+        },
+        {
+          "fullName": "Cayenne Coupe",
+          "label": "Coupe"
+        },
+        {
+          "fullName": "Cayenne E-Hybrid",
+          "label": "E-Hybrid"
+        },
+        {
+          "fullName": "Cayenne Turbo GT",
+          "label": "Turbo GT"
+        }
+      ]
+    },
+    {
+      "id": "macan",
+      "name": "Macan",
+      "badge": "Kompakt SUV",
+      "variants": [
+        {
+          "fullName": "Macan",
+          "label": "Macan (Standart)"
+        },
+        {
+          "fullName": "Macan GTS",
+          "label": "GTS"
+        },
+        {
+          "fullName": "Macan EV",
+          "label": "EV (Elektrik)"
+        }
+      ]
+    },
+    {
+      "id": "panamera",
+      "name": "Panamera",
+      "badge": "Gran Turismo",
+      "variants": [
+        {
+          "fullName": "Panamera",
+          "label": "Panamera (Standart)"
+        },
+        {
+          "fullName": "Panamera 4 E-Hybrid",
+          "label": "4 E-Hybrid"
+        },
+        {
+          "fullName": "Panamera GTS",
+          "label": "GTS"
+        },
+        {
+          "fullName": "Panamera Turbo S",
+          "label": "Turbo S"
+        }
+      ]
+    },
+    {
+      "id": "taycan",
+      "name": "Taycan",
+      "badge": "Elektrikli Spor",
+      "variants": [
+        {
+          "fullName": "Taycan",
+          "label": "Taycan (Standart)"
+        },
+        {
+          "fullName": "Taycan 4S",
+          "label": "4S"
+        },
+        {
+          "fullName": "Taycan GTS",
+          "label": "GTS"
+        },
+        {
+          "fullName": "Taycan Turbo S",
+          "label": "Turbo S"
+        },
+        {
+          "fullName": "Taycan Cross Turismo",
+          "label": "Cross Turismo"
+        }
+      ]
+    },
+    {
+      "id": "718",
+      "name": "718",
+      "badge": "Roadster / Coupe",
+      "variants": [
+        {
+          "fullName": "718 Cayman",
+          "label": "Cayman"
+        },
+        {
+          "fullName": "718 Boxster",
+          "label": "Boxster"
+        },
+        {
+          "fullName": "718 Spyder RS",
+          "label": "Spyder RS"
+        }
+      ]
+    }
+  ],
+  "volvo": [
+    {
+      "id": "xc90",
+      "name": "XC90",
+      "badge": "Büyük SUV",
+      "variants": [
+        {
+          "fullName": "XC90 B5",
+          "label": "B5 AWD (Mild Hybrid)"
+        },
+        {
+          "fullName": "XC90 Recharge",
+          "label": "T8 Recharge (Plug-in)"
+        },
+        {
+          "fullName": "XC90 D5",
+          "label": "D5 AWD (Dizel)"
+        },
+        {
+          "fullName": "XC90 B6",
+          "label": "B6 AWD"
+        }
+      ]
+    },
+    {
+      "id": "xc60",
+      "name": "XC60",
+      "badge": "Orta SUV",
+      "variants": [
+        {
+          "fullName": "XC60 B4",
+          "label": "B4 AWD"
+        },
+        {
+          "fullName": "XC60 B5",
+          "label": "B5 AWD"
+        },
+        {
+          "fullName": "XC60 Recharge",
+          "label": "T8 Recharge"
+        },
+        {
+          "fullName": "XC60 D4",
+          "label": "D4 AWD"
+        }
+      ]
+    },
+    {
+      "id": "xc40",
+      "name": "XC40",
+      "badge": "Şehir SUV",
+      "variants": [
+        {
+          "fullName": "XC40 B3",
+          "label": "B3 FWD (Mild Hybrid)"
+        },
+        {
+          "fullName": "XC40 Recharge",
+          "label": "Recharge Tek / Çift Motor"
+        },
+        {
+          "fullName": "XC40 T4",
+          "label": "T4 AWD"
+        },
+        {
+          "fullName": "XC40 T3",
+          "label": "T3 FWD"
+        }
+      ]
+    },
+    {
+      "id": "ex_ev",
+      "name": "EX30 & EX90",
+      "badge": "Yeni Nesil EV",
+      "variants": [
+        {
+          "fullName": "EX30",
+          "label": "EX30 Single / Twin Motor"
+        },
+        {
+          "fullName": "EX90",
+          "label": "EX90 Ultra"
+        },
+        {
+          "fullName": "C40 Recharge",
+          "label": "C40 Recharge Coupe"
+        }
+      ]
+    },
+    {
+      "id": "s90_s60",
+      "name": "S90 & S60",
+      "badge": "Sedan",
+      "variants": [
+        {
+          "fullName": "S90 B5",
+          "label": "S90 B5 AWD Plus / Ultimate"
+        },
+        {
+          "fullName": "S90 Recharge",
+          "label": "S90 T8 Recharge"
+        },
+        {
+          "fullName": "S90 D5",
+          "label": "S90 D5 AWD Inscription"
+        },
+        {
+          "fullName": "S60 B5",
+          "label": "S60 B5 AWD Inscription"
+        },
+        {
+          "fullName": "S60 T5",
+          "label": "S60 T5 Inscription"
+        }
+      ]
+    },
+    {
+      "id": "cross_country",
+      "name": "Cross Country (V90 / V60)",
+      "badge": "All-Road SW",
+      "variants": [
+        {
+          "fullName": "V90 Cross Country",
+          "label": "V90 Cross Country B5 / D5"
+        },
+        {
+          "fullName": "V60 Cross Country",
+          "label": "V60 Cross Country B5 / D4"
+        },
+        {
+          "fullName": "V40 Cross Country",
+          "label": "V40 Cross Country D2 / T3"
+        }
+      ]
+    }
+  ],
+  "togg": [
+    {
+      "id": "t10x",
+      "name": "T10X",
+      "badge": "C-SUV Elektrik",
+      "variants": [
+        {
+          "fullName": "T10X V2 Uzun Menzil",
+          "label": "V2 RWD Uzun Menzil (523 km)"
+        },
+        {
+          "fullName": "T10X V2 Standart Menzil",
+          "label": "V2 RWD Standart Menzil"
+        },
+        {
+          "fullName": "T10X V1 Standart Menzil",
+          "label": "V1 RWD Standart Menzil"
+        },
+        {
+          "fullName": "T10X AWD Çift Motor",
+          "label": "4WD Çift Motor 435HP"
+        }
+      ]
+    },
+    {
+      "id": "t10f",
+      "name": "T10F",
+      "badge": "Fastback Elektrik",
+      "variants": [
+        {
+          "fullName": "T10F RWD Uzun Menzil",
+          "label": "RWD Uzun Menzil (600 km)"
+        },
+        {
+          "fullName": "T10F RWD Standart Menzil",
+          "label": "RWD Standart Menzil"
+        },
+        {
+          "fullName": "T10F AWD",
+          "label": "AWD Çift Motor 435HP"
+        }
+      ]
+    }
+  ],
+  "chery": [
+    {
+      "id": "tiggo_8",
+      "name": "Tiggo 8 Pro",
+      "badge": "D-SUV (7 Kişilik)",
+      "variants": [
+        {
+          "fullName": "Tiggo 8 Pro Excellent",
+          "label": "1.6 TGDI Excellent"
+        },
+        {
+          "fullName": "Tiggo 8 Pro Luxury",
+          "label": "1.6 TGDI Luxury"
+        },
+        {
+          "fullName": "Tiggo 8 Pro Max",
+          "label": "Tiggo 8 Pro Max AWD"
+        }
+      ]
+    },
+    {
+      "id": "tiggo_7",
+      "name": "Tiggo 7 Pro",
+      "badge": "C-SUV",
+      "variants": [
+        {
+          "fullName": "Tiggo 7 Pro Excellent",
+          "label": "1.6 TGDI Excellent"
+        },
+        {
+          "fullName": "Tiggo 7 Pro Luxury",
+          "label": "1.6 TGDI Luxury"
+        },
+        {
+          "fullName": "Tiggo 7 Pro Max",
+          "label": "Tiggo 7 Pro Max"
+        }
+      ]
+    },
+    {
+      "id": "omoda_5",
+      "name": "Omoda 5",
+      "badge": "Crossover SUV",
+      "variants": [
+        {
+          "fullName": "Omoda 5 Excellent",
+          "label": "1.6 TGDI Excellent"
+        },
+        {
+          "fullName": "Omoda 5 Luxury",
+          "label": "1.6 TGDI Luxury"
+        },
+        {
+          "fullName": "Omoda 5 Comfort",
+          "label": "1.6 TGDI Comfort"
+        },
+        {
+          "fullName": "Omoda 5 EV",
+          "label": "Omoda 5 EV (Elektrik)"
+        }
+      ]
+    },
+    {
+      "id": "tiggo_4_pro",
+      "name": "Tiggo 4 Pro",
+      "badge": "B-SUV",
+      "variants": [
+        {
+          "fullName": "Tiggo 4 Pro",
+          "label": "Tiggo 4 Pro"
+        },
+        {
+          "fullName": "Arrizo 8",
+          "label": "Arrizo 8 Sedan"
+        }
+      ]
+    }
+  ],
+  "cupra": [
+    {
+      "id": "formentor",
+      "name": "Formentor",
+      "badge": "Crossover SUV",
+      "variants": [
+        {
+          "fullName": "Formentor 1.5 TSI",
+          "label": "1.5 TSI 150HP DSG"
+        },
+        {
+          "fullName": "Formentor 1.5 eTSI",
+          "label": "1.5 eTSI Mild-Hybrid"
+        },
+        {
+          "fullName": "Formentor VZ",
+          "label": "VZ 2.0 TSI 310HP 4Drive"
+        },
+        {
+          "fullName": "Formentor VZ5",
+          "label": "VZ5 2.5 TSI 390HP (5 Silindir)"
+        }
+      ]
+    },
+    {
+      "id": "cupra_diger",
+      "name": "Leon, Ateca & Born",
+      "badge": "Spor Performans",
+      "variants": [
+        {
+          "fullName": "Cupra Leon 1.5 eTSI",
+          "label": "Cupra Leon 1.5 eTSI"
+        },
+        {
+          "fullName": "Cupra Leon VZ",
+          "label": "Cupra Leon VZ 300HP"
+        },
+        {
+          "fullName": "Cupra Ateca",
+          "label": "Cupra Ateca 2.0 TSI 300HP"
+        },
+        {
+          "fullName": "Cupra Born",
+          "label": "Cupra Born (Elektrik)"
+        },
+        {
+          "fullName": "Cupra Terramar",
+          "label": "Cupra Terramar"
+        }
+      ]
+    }
+  ],
+  "byd": [
+    {
+      "id": "atto_3",
+      "name": "Atto 3",
+      "badge": "C-SUV Elektrik",
+      "variants": [
+        {
+          "fullName": "Atto 3 Design",
+          "label": "Design (60.48 kWh 204HP)"
+        }
+      ]
+    },
+    {
+      "id": "seal_u",
+      "name": "Seal U & Seal",
+      "badge": "SUV & Sedan Elektrik",
+      "variants": [
+        {
+          "fullName": "Seal U DM-i",
+          "label": "Seal U DM-i (Plug-in Hibrit)"
+        },
+        {
+          "fullName": "Seal U EV",
+          "label": "Seal U EV (Tam Elektrik)"
+        },
+        {
+          "fullName": "Seal Excellence AWD",
+          "label": "Seal Excellence AWD (530HP)"
+        },
+        {
+          "fullName": "Dolphin",
+          "label": "Dolphin Comfort / Design"
+        },
+        {
+          "fullName": "Han EV",
+          "label": "Han EV"
+        },
+        {
+          "fullName": "Tang EV",
+          "label": "Tang EV"
+        }
+      ]
+    }
+  ],
+  "tofas": [
+    {
+      "id": "sahin",
+      "name": "Şahin",
+      "badge": "Sedan Efsane",
+      "variants": [
+        {
+          "fullName": "Şahin",
+          "label": "Şahin 1.6 / 1.4"
+        },
+        {
+          "fullName": "Şahin S",
+          "label": "Şahin S"
+        }
+      ]
+    },
+    {
+      "id": "dogan",
+      "name": "Doğan",
+      "badge": "Sedan Efsane",
+      "variants": [
+        {
+          "fullName": "Doğan SLX",
+          "label": "Doğan SLX 1.6 ie"
+        },
+        {
+          "fullName": "Doğan L",
+          "label": "Doğan L"
+        },
+        {
+          "fullName": "Doğan S",
+          "label": "Doğan S"
+        }
+      ]
+    },
+    {
+      "id": "kartal",
+      "name": "Kartal",
+      "badge": "Station Efsane",
+      "variants": [
+        {
+          "fullName": "Kartal SLX",
+          "label": "Kartal SLX 1.6 ie"
+        },
+        {
+          "fullName": "Kartal",
+          "label": "Kartal Standart"
+        },
+        {
+          "fullName": "Serçe",
+          "label": "Serçe"
+        },
+        {
+          "fullName": "Murat 131",
+          "label": "Murat 131"
+        },
+        {
+          "fullName": "Murat 124",
+          "label": "Murat 124"
+        }
+      ]
+    }
+  ],
+  "land-rover": [
+    {
+      "id": "range_rover",
+      "name": "Range Rover",
+      "badge": "Lüks SUV",
+      "variants": [
+        {
+          "fullName": "Range Rover Vogue",
+          "label": "Vogue"
+        },
+        {
+          "fullName": "Range Rover Autobiography",
+          "label": "Autobiography"
+        },
+        {
+          "fullName": "Range Rover SV",
+          "label": "SV"
+        },
+        {
+          "fullName": "Range Rover D350",
+          "label": "D350"
+        },
+        {
+          "fullName": "Range Rover P530",
+          "label": "P530 V8"
+        }
+      ]
+    },
+    {
+      "id": "range_rover_sport",
+      "name": "Range Rover Sport",
+      "badge": "Sport SUV",
+      "variants": [
+        {
+          "fullName": "Range Rover Sport Dynamic",
+          "label": "Dynamic SE"
+        },
+        {
+          "fullName": "Range Rover Sport Autobiography",
+          "label": "Autobiography"
+        },
+        {
+          "fullName": "Range Rover Sport SVR",
+          "label": "SVR"
+        }
+      ]
+    },
+    {
+      "id": "defender",
+      "name": "Defender",
+      "badge": "Off-Road İkonu",
+      "variants": [
+        {
+          "fullName": "Defender 110",
+          "label": "Defender 110 (5 Kapı)"
+        },
+        {
+          "fullName": "Defender 90",
+          "label": "Defender 90 (3 Kapı)"
+        },
+        {
+          "fullName": "Defender 130",
+          "label": "Defender 130 (8 Kişilik)"
+        },
+        {
+          "fullName": "Defender V8",
+          "label": "Defender V8"
+        }
+      ]
+    },
+    {
+      "id": "velar_evoque",
+      "name": "Velar & Evoque",
+      "badge": "Kompakt / Şehir",
+      "variants": [
+        {
+          "fullName": "Range Rover Velar R-Dynamic",
+          "label": "Velar R-Dynamic"
+        },
+        {
+          "fullName": "Range Rover Velar",
+          "label": "Velar Standart"
+        },
+        {
+          "fullName": "Range Rover Evoque R-Dynamic",
+          "label": "Evoque R-Dynamic"
+        },
+        {
+          "fullName": "Range Rover Evoque",
+          "label": "Evoque Standart"
+        }
+      ]
+    },
+    {
+      "id": "discovery",
+      "name": "Discovery",
+      "badge": "Aile & Macera",
+      "variants": [
+        {
+          "fullName": "Discovery",
+          "label": "Discovery"
+        },
+        {
+          "fullName": "Discovery Sport",
+          "label": "Discovery Sport"
+        }
+      ]
+    }
+  ],
+  "bentley": [
+    {
+      "id": "continental_gt",
+      "name": "Continental GT",
+      "badge": "Grand Tourer",
+      "variants": [
+        {
+          "fullName": "Continental GT V8",
+          "label": "GT V8"
+        },
+        {
+          "fullName": "Continental GT W12",
+          "label": "GT W12"
+        },
+        {
+          "fullName": "Continental GT Speed",
+          "label": "GT Speed"
+        },
+        {
+          "fullName": "Continental GTC (Cabrio)",
+          "label": "GTC (Cabriolet)"
+        },
+        {
+          "fullName": "Continental GT Mulliner",
+          "label": "Mulliner"
+        }
+      ]
+    },
+    {
+      "id": "bentayga",
+      "name": "Bentayga",
+      "badge": "Ultra-Lüks SUV",
+      "variants": [
+        {
+          "fullName": "Bentayga V8",
+          "label": "Bentayga V8"
+        },
+        {
+          "fullName": "Bentayga Speed",
+          "label": "Bentayga Speed"
+        },
+        {
+          "fullName": "Bentayga Hybrid",
+          "label": "Bentayga E-Hybrid"
+        },
+        {
+          "fullName": "Bentayga EWB",
+          "label": "Bentayga EWB (Extended)"
+        }
+      ]
+    },
+    {
+      "id": "flying_spur",
+      "name": "Flying Spur",
+      "badge": "Lüks Sedan",
+      "variants": [
+        {
+          "fullName": "Flying Spur V8",
+          "label": "Flying Spur V8"
+        },
+        {
+          "fullName": "Flying Spur W12",
+          "label": "Flying Spur W12"
+        },
+        {
+          "fullName": "Flying Spur Hybrid",
+          "label": "Flying Spur Hybrid"
+        },
+        {
+          "fullName": "Flying Spur Speed",
+          "label": "Flying Spur Speed"
+        }
+      ]
+    },
+    {
+      "id": "mulsanne_arnage",
+      "name": "Mulsanne & Arnage",
+      "badge": "Klasik / Özel",
+      "variants": [
+        {
+          "fullName": "Mulsanne Speed",
+          "label": "Mulsanne Speed"
+        },
+        {
+          "fullName": "Mulsanne",
+          "label": "Mulsanne Standart"
+        },
+        {
+          "fullName": "Arnage",
+          "label": "Arnage"
+        },
+        {
+          "fullName": "Azure",
+          "label": "Azure"
+        }
+      ]
+    }
+  ]
+}

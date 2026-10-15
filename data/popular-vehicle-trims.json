@@ -1,0 +1,813 @@
+{
+  "volkswagen:passat": [
+    {
+      "trimName": "1.5 TSI Elegance DSG",
+      "engine": "1.5L TSI Turbo (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.5 TSI Business DSG",
+      "engine": "1.5L TSI Turbo (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.5 TSI Impression DSG",
+      "engine": "1.5L TSI Turbo (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "2.0 TDI Elegance DSG",
+      "engine": "2.0L TDI Turbo (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.6 TDI Business DSG",
+      "engine": "1.6L TDI Turbo (1598 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "2.0 TDI Highline 4Motion",
+      "engine": "2.0L BiTDI 240HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "volkswagen:golf": [
+    {
+      "trimName": "1.0 eTSI Life DSG",
+      "engine": "1.0L eTSI Mild-Hybrid (999 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "1.0 eTSI Style DSG",
+      "engine": "1.0L eTSI Mild-Hybrid (999 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "1.5 eTSI R-Line DSG",
+      "engine": "1.5L eTSI Mild-Hybrid (1498 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "1.5 TSI Highline DSG",
+      "engine": "1.5L TSI Turbo (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "1.6 TDI Comfortline DSG",
+      "engine": "1.6L TDI Turbo (1598 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    }
+  ],
+  "volkswagen:tiguan": [
+    {
+      "trimName": "1.5 TSI Elegance DSG",
+      "engine": "1.5L TSI Turbo (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "1.5 TSI R-Line DSG",
+      "engine": "1.5L TSI Turbo (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "1.5 TSI Life DSG",
+      "engine": "1.5L TSI Turbo (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "2.0 TDI Elegance 4Motion DSG",
+      "engine": "2.0L TDI Turbo (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    }
+  ],
+  "volkswagen:t-roc": [
+    {
+      "trimName": "1.5 TSI R-Line DSG",
+      "engine": "1.5L TSI Turbo (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "1.5 TSI Style DSG",
+      "engine": "1.5L TSI Turbo (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "1.5 TSI Life DSG",
+      "engine": "1.5L TSI Turbo (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    }
+  ],
+  "volkswagen:polo": [
+    {
+      "trimName": "1.0 TSI Life DSG",
+      "engine": "1.0L TSI Turbo (999 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "1.0 TSI Style DSG",
+      "engine": "1.0L TSI Turbo (999 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "1.0 TSI Comfortline DSG",
+      "engine": "1.0L TSI Turbo (999 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    }
+  ],
+  "volkswagen:jetta": [
+    {
+      "trimName": "1.2 TSI Comfortline DSG",
+      "engine": "1.2L TSI Turbo 105HP (1197 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.2 TSI Comfortline Manuel",
+      "engine": "1.2L TSI Turbo 105HP (1197 cc)",
+      "fuel": "BENZIN",
+      "transmission": "MANUEL",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.4 TSI Highline DSG",
+      "engine": "1.4L TSI Turbo 125HP / 150HP (1395 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.4 TSI Comfortline DSG",
+      "engine": "1.4L TSI Turbo 122HP / 125HP (1390 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.6 TDI Comfortline DSG",
+      "engine": "1.6L TDI Turbo 105HP (1598 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.6 TDI Highline DSG",
+      "engine": "1.6L TDI Turbo 105HP (1598 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.6 Primeline Manuel",
+      "engine": "1.6L Düz Atmosferik 102HP (1595 cc)",
+      "fuel": "BENZIN",
+      "transmission": "MANUEL",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "volkswagen:caddy": [
+    {
+      "trimName": "2.0 TDI Style DSG",
+      "engine": "2.0L TDI Turbo 122HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "2.0 TDI Life DSG",
+      "engine": "2.0L TDI Turbo 122HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "1.6 TDI Comfortline",
+      "engine": "1.6L TDI Turbo 102HP (1598 cc)",
+      "fuel": "DIZEL",
+      "transmission": "MANUEL",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "2.0 TDI Comfortline DSG",
+      "engine": "2.0L TDI Turbo 102HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    }
+  ],
+  "volkswagen:transporter": [
+    {
+      "trimName": "2.0 TDI City Van 150HP DSG",
+      "engine": "2.0L TDI Turbo 150HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "2.0 TDI Standart 110HP Manuel",
+      "engine": "2.0L TDI Turbo 110HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "MANUEL",
+      "bodyType": "SUV"
+    }
+  ],
+  "volkswagen:arteon": [
+    {
+      "trimName": "2.0 TDI Elegance DSG",
+      "engine": "2.0L TDI Turbo 200HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "2.0 TDI R-Line DSG",
+      "engine": "2.0L TDI Turbo 200HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.5 TSI Elegance DSG",
+      "engine": "1.5L TSI Turbo 150HP (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "volkswagen:scirocco": [
+    {
+      "trimName": "1.4 TSI Sportline DSG (160 HP)",
+      "engine": "1.4L Twincharger 160HP (1390 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "COUPE"
+    },
+    {
+      "trimName": "1.4 TSI Sportline (122 HP)",
+      "engine": "1.4L TSI Turbo 122HP (1390 cc)",
+      "fuel": "BENZIN",
+      "transmission": "MANUEL",
+      "bodyType": "COUPE"
+    },
+    {
+      "trimName": "2.0 TSI Sportline DSG (211 HP)",
+      "engine": "2.0L TSI Turbo 211HP (1984 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "COUPE"
+    }
+  ],
+  "volkswagen:taigo": [
+    {
+      "trimName": "1.0 TSI R-Line DSG",
+      "engine": "1.0L TSI Turbo 110HP (999 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "1.0 TSI Style DSG",
+      "engine": "1.0L TSI Turbo 110HP (999 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "1.5 TSI R-Line DSG",
+      "engine": "1.5L TSI Turbo 150HP (1498 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    }
+  ],
+  "bmw:3 serisi": [
+    {
+      "trimName": "320i M Sport Steptronic",
+      "engine": "1.6L TwinPower Turbo (1597 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "320i Edition M Sport",
+      "engine": "1.6L TwinPower Turbo (1597 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "320d xDrive M Sport",
+      "engine": "2.0L TwinPower Turbo Dizel (1995 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "320i Sport Line",
+      "engine": "1.6L TwinPower Turbo (1597 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "bmw:5 serisi": [
+    {
+      "trimName": "520i M Sport Steptronic",
+      "engine": "1.6L TwinPower Turbo (1597 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "520i Special Edition M Sport",
+      "engine": "1.6L TwinPower Turbo (1597 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "520d xDrive M Sport",
+      "engine": "2.0L TwinPower Turbo Dizel (1995 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "520i Luxury Line",
+      "engine": "1.6L TwinPower Turbo (1597 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "bmw:4 serisi": [
+    {
+      "trimName": "420i Gran Coupe M Sport",
+      "engine": "1.6L TwinPower Turbo (1597 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "COUPE"
+    },
+    {
+      "trimName": "420i Coupe M Sport",
+      "engine": "1.6L TwinPower Turbo (1597 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "COUPE"
+    },
+    {
+      "trimName": "430i xDrive M Sport",
+      "engine": "2.0L TwinPower Turbo (1998 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "COUPE"
+    }
+  ],
+  "mercedes-benz:c-serisi": [
+    {
+      "trimName": "C 200 4MATIC AMG",
+      "engine": "1.5L Mild-Hybrid Turbo 204HP (1496 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "C 200 4MATIC Edition 1 AMG",
+      "engine": "1.5L Mild-Hybrid Turbo (1496 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "C 200 d AMG 9G-Tronic",
+      "engine": "1.6L Turbo Dizel (1597 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "C 180 AMG Line",
+      "engine": "1.5L Turbo (1497 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "mercedes-benz:e-serisi": [
+    {
+      "trimName": "E 220 d 4MATIC AMG",
+      "engine": "2.0L Mild-Hybrid Dizel (1993 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "E 200 Edition 1 Exclusive",
+      "engine": "2.0L Turbo Mild-Hybrid (1999 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "E 200 AMG 9G-Tronic",
+      "engine": "1.5L Turbo Benzin (1497 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "E 300 d 4MATIC AMG",
+      "engine": "2.0L Turbo Dizel (1993 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "mercedes-benz:cla": [
+    {
+      "trimName": "CLA 200 AMG 7G-DCT",
+      "engine": "1.3L Turbo Benzin (1332 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "COUPE"
+    },
+    {
+      "trimName": "CLA 180 d AMG",
+      "engine": "1.5L Turbo Dizel (1461 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "COUPE"
+    }
+  ],
+  "audi:a3": [
+    {
+      "trimName": "35 TFSI S line S tronic",
+      "engine": "1.5L 35 TFSI Mild-Hybrid (1498 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "35 TFSI Advanced S tronic",
+      "engine": "1.5L 35 TFSI Mild-Hybrid (1498 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "30 TDI Dynamic S tronic",
+      "engine": "1.6L TDI Turbo (1598 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "audi:a4": [
+    {
+      "trimName": "40 TDI quattro Advanced S tronic",
+      "engine": "2.0L TDI Turbo 204HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "40 TDI quattro S line S tronic",
+      "engine": "2.0L TDI Turbo 204HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "45 TFSI quattro S line",
+      "engine": "2.0L TFSI Turbo 265HP (1984 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "audi:a6": [
+    {
+      "trimName": "40 TDI quattro Design S tronic",
+      "engine": "2.0L TDI Mild-Hybrid 204HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "40 TDI quattro Sport S tronic",
+      "engine": "2.0L TDI Mild-Hybrid 204HP (1968 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "porsche:911 carrera": [
+    {
+      "trimName": "Carrera S PDK",
+      "engine": "3.0L Twin-Turbo Flat-6 450HP (2981 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "COUPE"
+    },
+    {
+      "trimName": "Carrera 4S PDK",
+      "engine": "3.0L Twin-Turbo Flat-6 450HP AWD (2981 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "COUPE"
+    },
+    {
+      "trimName": "Carrera GTS PDK",
+      "engine": "3.0L T-Hybrid Turbo 541HP (3591 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "COUPE"
+    },
+    {
+      "trimName": "Turbo S PDK",
+      "engine": "3.8L Twin-Turbo Flat-6 650HP (3745 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "COUPE"
+    }
+  ],
+  "porsche:taycan": [
+    {
+      "trimName": "Taycan 4S Performance Plus",
+      "engine": "Çift Elektrikli Motor 530HP (93.4 kWh)",
+      "fuel": "ELEKTRIK",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "Taycan Turbo S",
+      "engine": "Çift Elektrikli Motor 761HP (93.4 kWh)",
+      "fuel": "ELEKTRIK",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "Taycan Standart",
+      "engine": "Tek Elektrikli Motor RWD 408HP (79.2 kWh)",
+      "fuel": "ELEKTRIK",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "porsche:macan": [
+    {
+      "trimName": "Macan 2.0 PDK",
+      "engine": "2.0L Turbo Benzin 265HP (1984 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "Macan GTS PDK",
+      "engine": "2.9L Twin-Turbo V6 440HP (2894 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    }
+  ],
+  "peugeot:3008": [
+    {
+      "trimName": "1.5 BlueHDi GT EAT8",
+      "engine": "1.5L BlueHDi Dizel 130HP (1499 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "1.5 BlueHDi Allure EAT8",
+      "engine": "1.5L BlueHDi Dizel 130HP (1499 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "1.2 PureTech GT EAT8",
+      "engine": "1.2L PureTech Turbo 130HP (1199 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "1.2 Hybrid 136 e-DCS6 GT",
+      "engine": "1.2L 48V Hibrit 136HP (1199 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    }
+  ],
+  "peugeot:2008": [
+    {
+      "trimName": "1.5 BlueHDi GT EAT8",
+      "engine": "1.5L BlueHDi Dizel 130HP (1499 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "1.2 PureTech Allure EAT8",
+      "engine": "1.2L PureTech Turbo (1199 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    }
+  ],
+  "renault:clio": [
+    {
+      "trimName": "1.0 TCe Touch X-Tronic",
+      "engine": "1.0L Turbo Benzin (999 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "1.0 TCe Icon X-Tronic",
+      "engine": "1.0L Turbo Benzin (999 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "1.0 TCe Joy Manuel",
+      "engine": "1.0L Turbo Benzin (999 cc)",
+      "fuel": "BENZIN",
+      "transmission": "MANUEL",
+      "bodyType": "HATCHBACK"
+    },
+    {
+      "trimName": "1.5 dCi Touch EDC",
+      "engine": "1.5L Turbo Dizel (1461 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "HATCHBACK"
+    }
+  ],
+  "renault:megane": [
+    {
+      "trimName": "1.3 TCe Icon EDC",
+      "engine": "1.3L Turbo Benzin 140HP (1332 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.3 TCe Touch EDC",
+      "engine": "1.3L Turbo Benzin 140HP (1332 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.5 Blue dCi Icon EDC",
+      "engine": "1.5L Turbo Dizel 115HP (1461 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "fiat:egea": [
+    {
+      "trimName": "1.4 Fire Urban Manuel",
+      "engine": "1.4L Atmosferik Benzin 95HP (1368 cc)",
+      "fuel": "BENZIN",
+      "transmission": "MANUEL",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.6 MultiJet Lounge DCT",
+      "engine": "1.6L MultiJet Dizel 130HP (1598 cc)",
+      "fuel": "DIZEL",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.5 T4 Hibrit Lounge AT",
+      "engine": "1.5L Hibrit 130HP (1469 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.3 MultiJet Easy Manuel",
+      "engine": "1.3L MultiJet Dizel 95HP (1248 cc)",
+      "fuel": "DIZEL",
+      "transmission": "MANUEL",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "toyota:corolla": [
+    {
+      "trimName": "1.8 Hybrid Dream e-CVT",
+      "engine": "1.8L Kendi Kendini Şarj Eden Hibrit (1798 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.8 Hybrid Flame X-Pack e-CVT",
+      "engine": "1.8L Kendi Kendini Şarj Eden Hibrit (1798 cc)",
+      "fuel": "HIBERIT",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    },
+    {
+      "trimName": "1.5 Vision Multidrive S",
+      "engine": "1.5L Dynamic Force Benzin (1490 cc)",
+      "fuel": "BENZIN",
+      "transmission": "OTOMATIK",
+      "bodyType": "SEDAN"
+    }
+  ],
+  "tesla:model y": [
+    {
+      "trimName": "Long Range Dual Motor AWD",
+      "engine": "Çift Elektrikli Motor 514HP (75 kWh)",
+      "fuel": "ELEKTRIK",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "Standart Range RWD (SR)",
+      "engine": "Tek Elektrikli Motor 299HP (60 kWh)",
+      "fuel": "ELEKTRIK",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "Performance Dual Motor AWD",
+      "engine": "Çift Elektrikli Motor 534HP (75 kWh)",
+      "fuel": "ELEKTRIK",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    }
+  ],
+  "togg:t10x": [
+    {
+      "trimName": "V2 RWD Uzun Menzil",
+      "engine": "Elektrikli Motor 218HP (88.5 kWh)",
+      "fuel": "ELEKTRIK",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "V1 RWD Standart Menzil",
+      "engine": "Elektrikli Motor 218HP (52.4 kWh)",
+      "fuel": "ELEKTRIK",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    },
+    {
+      "trimName": "V2 RWD Standart Menzil",
+      "engine": "Elektrikli Motor 218HP (52.4 kWh)",
+      "fuel": "ELEKTRIK",
+      "transmission": "OTOMATIK",
+      "bodyType": "SUV"
+    }
+  ]
+}
