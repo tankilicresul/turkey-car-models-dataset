@@ -10,42 +10,42 @@
   {
     "id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "name": "Alfa Romeo",
-    "slug": "alfa-romeo",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/alfa-romeo.png"
+    "slug": "alfa-repo",
+    "category": "premium",
+    "country": "İtalya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/alfa-romeo-sm.jpg"
   },
   {
     "id": "e234023e-6fc5-4f46-9e52-03230d067c11",
     "name": "Aston Martin",
     "slug": "aston-martin",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/aston-martin.png"
+    "category": "supercar",
+    "country": "İngiltere",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/aston-martin-sm.jpg"
   },
   {
     "id": "eaeb6d3d-a1af-4a93-88eb-2dd5f66c9e95",
     "name": "Audi",
     "slug": "audi",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/audi.png"
+    "category": "luxury",
+    "country": "Almanya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/audi-sm.jpg"
   },
   {
     "id": "003816aa-6d52-4f0f-b51b-6280d8965739",
     "name": "Bentley",
     "slug": "bentley",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/bentley.png"
+    "category": "luxury",
+    "country": "İngiltere",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/bentley-sm.jpg"
   },
   {
     "id": "b34c5a1b-8c5b-4cda-a6c5-f2a21b65d40d",
     "name": "BMW",
     "slug": "bmw",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/bmw.png"
+    "category": "luxury",
+    "country": "Almanya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/bmw-sm.jpg"
   },
   {
     "id": "e81f40ec-8592-4954-b877-5e65206a3745",
@@ -68,7 +68,7 @@
     "name": "BYD",
     "slug": "byd",
     "category": "standard",
-    "country": null,
+    "country": "Çin",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/byd.png"
   },
   {
@@ -108,24 +108,24 @@
     "name": "Citroën",
     "slug": "citroen",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/citroen.png"
+    "country": "Fransa",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/citroen-sm.jpg"
   },
   {
     "id": "eebf4e74-8a80-4904-892b-4fa5dfec51b1",
     "name": "Cupra",
     "slug": "cupra",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/cupra.png"
+    "category": "premium",
+    "country": "İspanya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/cupra-sm.jpg"
   },
   {
     "id": "aea7a2a5-5dbf-44d0-9710-0cd9d5f7eb29",
     "name": "Dacia",
     "slug": "dacia",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/dacia.png"
+    "country": "Romanya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/dacia-sm.jpg"
   },
   {
     "id": "3bd7bd4d-e405-450b-8002-3b37cb145b36",
@@ -157,39 +157,39 @@
     "slug": "ds-automobiles",
     "category": "premium",
     "country": "Fransa",
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/ds.png"
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/ds-automobiles.png"
   },
   {
     "id": "5081f41e-1651-4c87-9dd4-86727b339520",
     "name": "Eagle",
     "slug": "eagle",
     "category": "standard",
-    "country": null,
+    "country": "ABD",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/eagle.png"
   },
   {
     "id": "d7e33cf3-9bcb-45a2-9877-78649cd5b565",
     "name": "Ferrari",
     "slug": "ferrari",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/ferrari.png"
+    "category": "supercar",
+    "country": "İtalya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/ferrari-sm.jpg"
   },
   {
     "id": "2168ac2b-0206-4f83-8150-1c4aca8b4ce3",
     "name": "Fiat",
     "slug": "fiat",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/fiat.png"
+    "country": "İtalya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/fiat-sm.jpg"
   },
   {
     "id": "c2afc0ae-ce8a-45b3-ac45-e4c8236ccab8",
     "name": "Ford",
     "slug": "ford",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/ford.png"
+    "country": "ABD",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/ford-sm.jpg"
   },
   {
     "id": "13e0517c-1733-4c03-9213-b5c7b4fda6b6",
@@ -212,7 +212,7 @@
     "name": "Geo",
     "slug": "geo",
     "category": "standard",
-    "country": null,
+    "country": "ABD",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/geo.png"
   },
   {
@@ -229,23 +229,23 @@
     "slug": "gwm",
     "category": "standard",
     "country": "Çin",
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/great-wall.png"
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/gwm.png"
   },
   {
     "id": "aa48d030-4df7-4c31-8a78-87b6e9c00b0f",
     "name": "Honda",
     "slug": "honda",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/honda.png"
+    "country": "Japonya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/honda-sm.jpg"
   },
   {
     "id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
     "name": "Hyundai",
     "slug": "hyundai",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/hyundai.png"
+    "country": "Güney Kore",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/hyundai-sm.jpg"
   },
   {
     "id": "22251f7a-9dc6-488a-826f-6f42384d7652",
@@ -267,32 +267,32 @@
     "id": "d360c807-c006-4ec3-b67c-01f84d8ee80f",
     "name": "Jaecoo",
     "slug": "jaecoo",
-    "category": "standard",
+    "category": "premium",
     "country": "Çin",
-    "logo_url": "https://raw.githubusercontent.com/tankilicresul/turkey-car-models-dataset/main/logos/jaecoo.svg"
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/jaecoo.png"
   },
   {
     "id": "d2af92b3-8a4e-428b-8951-a63b4b75bfa3",
     "name": "Jaguar",
     "slug": "jaguar",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/jaguar.png"
+    "category": "luxury",
+    "country": "İngiltere",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/jaguar-sm.jpg"
   },
   {
     "id": "27372e3c-a927-4c14-88ea-a49f902af8fe",
     "name": "Jeep",
     "slug": "jeep",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/jeep.png"
+    "category": "premium",
+    "country": "ABD",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/jeep-sm.jpg"
   },
   {
     "id": "4d331174-62f2-4a89-93fb-e90c674a6270",
     "name": "Karma",
     "slug": "karma",
-    "category": "standard",
-    "country": null,
+    "category": "premium",
+    "country": "ABD",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/karma.png"
   },
   {
@@ -301,15 +301,15 @@
     "slug": "karsan",
     "category": "standard",
     "country": "Türkiye",
-    "logo_url": "https://raw.githubusercontent.com/tankilicresul/turkey-car-models-dataset/main/logos/karsan.svg"
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/karsan.png"
   },
   {
     "id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
     "name": "Kia",
     "slug": "kia",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/kia.png"
+    "country": "Güney Kore",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/kia-sm.jpg"
   },
   {
     "id": "f4b4f160-8a21-46cb-beec-dd3e66bcb0f2",
@@ -331,9 +331,9 @@
     "id": "1f53f409-168e-48e2-acd5-1939b19fd368",
     "name": "Lamborghini",
     "slug": "lamborghini",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/lamborghini.png"
+    "category": "supercar",
+    "country": "İtalya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/lamborghini-sm.jpg"
   },
   {
     "id": "fff63295-1bdc-4063-b829-87760655fd6c",
@@ -347,9 +347,9 @@
     "id": "a4705cc9-3a13-40e8-9248-6659c49face4",
     "name": "Land Rover",
     "slug": "land-rover",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/land-rover.png"
+    "category": "luxury",
+    "country": "İngiltere",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/land-rover-sm.jpg"
   },
   {
     "id": "118c4b7c-1d07-4f1d-8add-b882b0cf05a5",
@@ -363,9 +363,9 @@
     "id": "6e3a294c-f472-49d6-80a9-3a8659a6678f",
     "name": "Lexus",
     "slug": "lexus",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/lexus.png"
+    "category": "luxury",
+    "country": "Japonya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/lexus-sm.jpg"
   },
   {
     "id": "65c91327-8d50-47dc-af86-f312f11a4e52",
@@ -395,9 +395,9 @@
     "id": "a967427c-8849-4429-8b56-a0edb3cfb1af",
     "name": "Maserati",
     "slug": "maserati",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/maserati.png"
+    "category": "luxury",
+    "country": "İtalya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/maserati-sm.jpg"
   },
   {
     "id": "856541c3-70de-4d5c-966e-c7582f58713a",
@@ -420,8 +420,8 @@
     "name": "Mazda",
     "slug": "mazda",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/mazda.png"
+    "country": "Japonya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/mazda-sm.jpg"
   },
   {
     "id": "299c96ac-7e18-49d0-a4e8-88b4d2bb040e",
@@ -435,16 +435,16 @@
     "id": "e9701643-becb-43a8-a35e-e99b030f47d9",
     "name": "Mercedes-Benz",
     "slug": "mercedes-benz",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/mercedes-benz.png"
+    "category": "luxury",
+    "country": "Almanya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/mercedes-benz-sm.jpg"
   },
   {
     "id": "763c201a-d17a-4cce-8070-55b39bfe8f22",
     "name": "Mercury",
     "slug": "mercury",
     "category": "standard",
-    "country": null,
+    "country": "ABD",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/mercury.png"
   },
   {
@@ -452,31 +452,31 @@
     "name": "MG",
     "slug": "mg",
     "category": "standard",
-    "country": "Çin/İngiltere",
+    "country": "İngiltere",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/mg.png"
   },
   {
     "id": "f04593ac-158b-4457-a8dd-fb148a337a56",
     "name": "MINI",
     "slug": "mini",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/mini.png"
+    "category": "premium",
+    "country": "İngiltere",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/mini-sm.jpg"
   },
   {
     "id": "11f05e14-805f-4fb6-bdc2-0abb850d6c64",
     "name": "Mitsubishi",
     "slug": "mitsubishi",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/mitsubishi.png"
+    "country": "Japonya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/mitsubishi-sm.jpg"
   },
   {
     "id": "52c5ea5f-0b46-441f-a9b9-e125a18e0b07",
     "name": "Morgan",
     "slug": "morgan",
     "category": "standard",
-    "country": null,
+    "country": "İngiltere",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/morgan.png"
   },
   {
@@ -492,15 +492,15 @@
     "name": "Nissan",
     "slug": "nissan",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/nissan.png"
+    "country": "Japonya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/nissan-sm.jpg"
   },
   {
     "id": "e1cbdb25-a893-4d24-9971-08eee9944074",
     "name": "Oldsmobile",
     "slug": "oldsmobile",
     "category": "standard",
-    "country": null,
+    "country": "ABD",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/oldsmobile.png"
   },
   {
@@ -516,8 +516,8 @@
     "name": "Opel",
     "slug": "opel",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/opel.png"
+    "country": "Almanya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/opel-sm.jpg"
   },
   {
     "id": "0d8ca47a-54af-49d9-a5d0-607a2a5dd701",
@@ -532,15 +532,15 @@
     "name": "Peugeot",
     "slug": "peugeot",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/peugeot.png"
+    "country": "Fransa",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/peugeot-sm.jpg"
   },
   {
     "id": "681c58f3-6004-435d-8eb6-b8fe9e804afb",
     "name": "Plymouth",
     "slug": "plymouth",
     "category": "standard",
-    "country": null,
+    "country": "ABD",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/plymouth.png"
   },
   {
@@ -556,16 +556,16 @@
     "name": "Pontiac",
     "slug": "pontiac",
     "category": "standard",
-    "country": null,
+    "country": "ABD",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/pontiac.png"
   },
   {
     "id": "cab994d8-42be-47ea-87bc-121fadc5d4f1",
     "name": "Porsche",
     "slug": "porsche",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/porsche.png"
+    "category": "supercar",
+    "country": "Almanya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/porsche-sm.jpg"
   },
   {
     "id": "e9174447-a9c4-4d9a-adea-4559a88c9134",
@@ -588,14 +588,14 @@
     "name": "Renault",
     "slug": "renault",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/renault.png"
+    "country": "Fransa",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/renault-sm.jpg"
   },
   {
     "id": "728faccf-f624-42df-98fa-8bcc82371cbd",
     "name": "Rolls-Royce",
     "slug": "rolls-royce",
-    "category": "supercar",
+    "category": "luxury",
     "country": "İngiltere",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/rolls-royce.png"
   },
@@ -620,7 +620,7 @@
     "name": "Saturn",
     "slug": "saturn",
     "category": "standard",
-    "country": null,
+    "country": "ABD",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/saturn.png"
   },
   {
@@ -628,16 +628,16 @@
     "name": "Seat",
     "slug": "seat",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/seat.png"
+    "country": "İspanya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/seat-sm.jpg"
   },
   {
     "id": "ca6a2c8f-702a-440f-8390-0d1b2ddb3b9c",
     "name": "Skoda",
     "slug": "skoda",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/skoda.png"
+    "country": "Çekya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/skoda-sm.jpg"
   },
   {
     "id": "4edfcaf9-1a3e-448e-bfe5-ecf4c3d4ca2c",
@@ -660,16 +660,16 @@
     "name": "Subaru",
     "slug": "subaru",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/subaru.png"
+    "country": "Japonya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/subaru-sm.jpg"
   },
   {
     "id": "13969807-d937-4573-ad59-d1796d1de016",
     "name": "Suzuki",
     "slug": "suzuki",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/suzuki.png"
+    "country": "Japonya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/suzuki-sm.jpg"
   },
   {
     "id": "b67e0b8b-3777-45b6-9d9b-30553c5c354f",
@@ -683,9 +683,9 @@
     "id": "4b69abc4-829c-4da1-9994-675ddc77b36e",
     "name": "Tesla",
     "slug": "tesla",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/tesla.png"
+    "category": "premium",
+    "country": "ABD",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/tesla-sm.jpg"
   },
   {
     "id": "114080fe-de89-4817-8019-0170e87e1d56",
@@ -693,7 +693,7 @@
     "slug": "tofas",
     "category": "standard",
     "country": "Türkiye",
-    "logo_url": "https://raw.githubusercontent.com/tankilicresul/turkey-car-models-dataset/main/logos/tofas.svg"
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/tofas.png"
   },
   {
     "id": "441afc11-7a1b-4cc7-b454-6da709f5ed02",
@@ -701,22 +701,22 @@
     "slug": "togg",
     "category": "standard",
     "country": "Türkiye",
-    "logo_url": "https://raw.githubusercontent.com/tankilicresul/turkey-car-models-dataset/main/logos/togg.svg"
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/togg.png"
   },
   {
     "id": "c6d60903-3c67-47a7-a5b3-b9404c2b17f9",
     "name": "Toyota",
     "slug": "toyota",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/toyota.png"
+    "country": "Japonya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/toyota-sm.jpg"
   },
   {
     "id": "e9e10efd-9b34-435c-b5bc-af0f51739fd6",
     "name": "Triumph",
     "slug": "triumph",
     "category": "standard",
-    "country": null,
+    "country": "İngiltere",
     "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/triumph.png"
   },
   {
@@ -724,16 +724,16 @@
     "name": "Volkswagen",
     "slug": "volkswagen",
     "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/volkswagen.png"
+    "country": "Almanya",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/volkswagen-sm.jpg"
   },
   {
     "id": "e9283832-a1f9-4892-b74f-34352519b682",
     "name": "Volvo",
     "slug": "volvo",
-    "category": "standard",
-    "country": null,
-    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/volvo.png"
+    "category": "premium",
+    "country": "İsveç",
+    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/volvo-sm.jpg"
   },
   {
     "id": "8d07504f-b2b5-466f-9695-5e1c0e1ed4f3",

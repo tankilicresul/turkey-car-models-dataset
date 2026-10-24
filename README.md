@@ -2,7 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Brands](https://img.shields.io/badge/Brands-94-crimson.svg)](#)
-[![Models](https://img.shields.io/badge/Models-3%2C545%2B-blue.svg)](#)
+[![Models](https://img.shields.io/badge/Models-3543%2B-blue.svg)](#)
+[![Families](https://img.shields.io/badge/Model%20Families-515-purple.svg)](#)
+[![Trims](https://img.shields.io/badge/Preset%20Trims-812-darkgreen.svg)](#)
 [![Formats](https://img.shields.io/badge/Formats-JSON%20%7C%20SQL%20%7C%20CSV-green.svg)](#)
 [![Maintained by ST Motors](https://img.shields.io/badge/Powered%20By-ST%20Motors-B70116.svg)](https://www.stmotorss.com)
 
@@ -14,11 +16,12 @@ Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değe
 
 ## 🌟 Öne Çıkan Özellikler
 
-* **🧹 Normalize Edilmiş Temiz Veri:** 5.489 ham veritabanı kaydı taranmış; web kazıma kaynaklı *"Photos, engines & full specs"* gibi çöp metinler, bozuk üretim yılları ve aynı modelin kasa yılı kopyaları (1.944 mükerrer kayıt) ayıklanarak **3.545 benzersiz model** elde edilmiştir.
-* **🇹🇷 Türkiye Pazarı Odaklı Hiyerarşi:** Togg, Tofaş, Volkswagen Jetta, Renault Megane/Clio, Fiat Egea gibi Türkiye'de çok satan tüm modeller için **Marka ➔ Ana Model Serisi ➔ Kasa / Versiyon** kademeli seçim hiyerarşisi içerir.
-* **⚡ 107 Hazır Trim & Motor Paketi:** 31 popüler model ailesi altında 1.2 TSI, 1.4 TSI DSG, 1.6 TDI, EcoBoost, Hybrid gibi hazır teknik motor, şanzıman ve yakıt kombinasyonları (toplam 107 hazır donanım paketi).
+* **🧹 Normalize Edilmiş & Zenginleştirilmiş Veri:** 5510 ham veritabanı kaydı taranmış; web kazıma kaynaklı *"Photos, engines & full specs"* gibi çöp metinler, bozuk üretim yılları ve mükerrer kayıtlar ayıklanarak **3543 benzersiz model** elde edilmiştir.
+* **🌍 %100 Doğrulanmış Marka Bilgisi:** 94 markanın tamamı için menşei ülke (*Almanya, İtalya, Japonya, Fransa, İngiltere, ABD, Türkiye vb.*), pazar segment kategorisi (*supercar, luxury, premium, standard*) ve resmi logo URL'leri eksiksiz doldurulmuştur.
+* **🇹🇷 Türkiye Pazarı Odaklı Hiyerarşi:** Togg, Tofaş, Volkswagen (Passat, Golf, Polo, Jetta), Renault (Clio, Megane, Austral, R9, Toros), Fiat (Egea, Linea, Fiorino, Doblo) gibi Türkiye'de çok satan tüm modeller için **Marka ➔ Ana Model Serisi ➔ Kasa / Versiyon** kademeli seçim hiyerarşisi (**49 markada 515 model ailesi**).
+* **⚡ 812 Hazır Trim & Motor Paketi:** 206 model serisi altında motor hacmi (cc), beygir gücü (hp), yakıt türü (*standardize edilmiş HIBRIT, BENZIN, DIZEL, ELEKTRIK*), şanzıman ve gövde tipi kombinasyonları.
 * **🔒 Supabase / PostgreSQL RLS Koruması:** `schema.sql` ve `dump.sql` tabloları, veritabanına aktarıldığında anonim yazma riskini engelleyen varsayılan **Row Level Security (RLS)** kurallarıyla birlikte gelir.
-* **💾 Çoklu Format:** İster JSON, ister PostgreSQL / Supabase SQL dump, isterseniz Pandas/Excel uyumlu CSV olarak kullanın.
+* **💾 Çoklu Format:** İster JSON, ister PostgreSQL / Supabase SQL dump, isterseniz Pandas/Excel uyumlu CSV (Markalar, Modeller, Trimler, Model Aileleri) olarak kullanın.
 
 ---
 
@@ -26,12 +29,12 @@ Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değe
 
 | Metrik | Sayı | Açıklama |
 | :--- | :--- | :--- |
-| **Marka Sayısı** | **94** | Global süper sporlardan (Ferrari, Porsche) yerel markalara (Togg, Tofaş) kadar |
-| **Ham Veri Kaydı** | **5.489** | Temizleme öncesi ham veritabanı satır sayısı |
-| **Tekil & Temiz Model** | **3.545** | Mükerrer üretim yılı kopyalarından arındırılmış net model sayısı |
-| **Model Ailesi** | **114** | Jetta, Passat, Golf, C-Serisi, 3 Serisi, Egea gibi ana seriler |
-| **Kasa & Versiyon** | **424** | Doğrudan seçilebilir kasa ve gövde varyantları |
-| **Hazır Trim Paketi** | **107** | 31 popüler model grubu altında motor hacmi, yakıt ve şanzıman presetleri |
+| **Marka Sayısı** | **94** | Global süper sporlardan (Ferrari, Porsche) yerel markalara (Togg, Tofaş, Karsan) kadar |
+| **Doğrulanmış Ülke & Segment** | **%100** | 94 markanın tamamı için menşei ülke ve pazar segmenti |
+| **Ham Veri Kaydı** | **5510** | Temizleme öncesi ham veritabanı satır sayısı |
+| **Tekil & Temiz Model** | **3543** | Mükerrer üretim yılı kopyalarından ve çöp metinlerden arındırılmış net model sayısı |
+| **Model Ailesi** | **515** | 49 marka altında Sedan, Hatchback, SUV, Station Wagon, Coupe/Cabrio, Ticari aileler |
+| **Hazır Trim & Motor Paketi** | **812** | 206 model grubu altında cc, hp, yakıt, şanzıman ve kasa presetleri |
 
 ---
 
@@ -39,16 +42,18 @@ Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değe
 
 ```bash
 ├── data/
-│   ├── brands.json                  # 94 Marka (isim, slug, menşei, logo CDN)
-│   ├── models.json                  # 3.545 Tekil Model (marka ilişkili)
-│   ├── brand-model-families.json    # Kademeli model serileri ve varyantları
-│   └── popular-vehicle-trims.json   # Popüler donanım ve motor paketleri
+│   ├── brands.json                  # 94 Marka (isim, slug, menşei ülke, pazar kategorisi, logo CDN)
+│   ├── models.json                  # 3543 Tekil Model (marka ilişkili, temizlenmiş)
+│   ├── brand-model-families.json    # 515 Kademeli model serisi ve varyantları
+│   └── popular-vehicle-trims.json   # 812 Popüler donanım, motor ve güç paketi
 ├── database/
 │   ├── schema.sql                   # Tablo yapıları + RLS Politikaları
-│   └── dump.sql                     # Tek tıkla veritabanına aktarılabilir tam SQL dökümü
+│   └── dump.sql                     # Tek tıkla veritabanına aktarılabilir tam SQL dökümü (Brands, Models, Trims)
 ├── csv/
-│   ├── brands.csv
-│   └── models.csv
+│   ├── brands.csv                   # Marka listesi CSV
+│   ├── models.csv                   # Model listesi CSV
+│   ├── trims.csv                    # 697+ donanım ve motor paketi CSV (Pandas/Excel uyumlu)
+│   └── brand-model-families.csv     # Model aileleri ve gövde kategorileri CSV
 └── logos/                           # Yerel SVG logolar (Togg, Tofaş, Karsan, Jaecoo)
 ```
 
@@ -60,19 +65,29 @@ Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değe
 ```typescript
 import brands from './data/brands.json';
 import models from './data/models.json';
+import trims from './data/popular-vehicle-trims.json';
 
 // Volkswagen markasının modellerini listele
 const vw = brands.find(b => b.slug === 'volkswagen');
 const vwModels = models.filter(m => m.brand_id === vw.id);
 console.log(vwModels);
+
+// Volkswagen Golf için hazır donanım & motor presetleri
+const golfTrims = trims['volkswagen:golf'];
+console.log(golfTrims);
 ```
 
 ### Python (Pandas)
 ```python
 import pandas as pd
 
+# Modelleri yükle
 df_models = pd.read_csv('csv/models.csv')
 print(df_models.head())
+
+# Donanım & motor paketlerini incele
+df_trims = pd.read_csv('csv/trims.csv')
+print(df_trims[df_trims['brand_slug'] == 'volkswagen'][['trim_name', 'engine', 'fuel', 'power_hp']])
 ```
 
 ### PostgreSQL / Supabase Import
