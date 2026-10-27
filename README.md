@@ -1,27 +1,30 @@
-# 🚗 Turkey Car Catalog & Vehicle Dataset (Türkiye Otomobil Veri Seti)
+# 🚗 Turkey Car Catalog & Vehicle Dataset 2026 (Türkiye Vasıta & Otomobil Veri Seti)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Brands](https://img.shields.io/badge/Brands-94-crimson.svg)](#)
-[![Models](https://img.shields.io/badge/Models-3%2C543-blue.svg)](#)
-[![Families](https://img.shields.io/badge/Model%20Families-515-purple.svg)](#)
-[![Trims](https://img.shields.io/badge/Preset%20Trims-812-darkgreen.svg)](#)
-[![Formats](https://img.shields.io/badge/Formats-JSON%20%7C%20SQL%20%7C%20CSV-green.svg)](#)
-[![Maintained by ST Motors](https://img.shields.io/badge/Powered%20By-ST%20Motors-B70116.svg)](https://www.stmotorss.com)
+[![Catalog: 2026 Edition](https://img.shields.io/badge/Catalog-2026%20Edition-success.svg)](#)
+[![Brands](https://img.shields.io/badge/Brands-94+-crimson.svg)](#)
+[![Categorized Models](https://img.shields.io/badge/Categorized%20Models-1%2C083-blue.svg)](#)
+[![Raw Records](https://img.shields.io/badge/Total%20Records-4%2C734-purple.svg)](#)
+[![Formats](https://img.shields.io/badge/Formats-JSON%20%7C%20CSV%20%7C%20XLSX%20%7C%20SQL-darkgreen.svg)](#)
+[![Maintained by ST Motors](https://img.shields.io/badge/Maintained%20By-ST%20Motors-B70116.svg)](https://www.stmotorss.com)
 
-Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değerleme motorları, sigorta/kasko teklif platformları ve yapay zeka (RAG/LLM) projeleri için **özel olarak normalize edilmiş, hiyerarşik olarak yapılandırılmış ve kullanıma hazır** açık kaynak araç veri seti.
+Türkiye otomotiv pazarı, araç değerleme motorları, ekspertiz yazılımları, sigorta/kasko teklif sistemleri ve otomotiv yapay zeka (LLM / RAG) uygulamaları için **2026 güncel pazar verileriyle normalize edilmiş, hiyerarşik ve kategorize edilmiş** açık kaynak vasıta veri seti.
 
-> 💎 **Bu veri seti [ST Motors](https://www.stmotorss.com) otomobil kataloğu altyapısı standartlarına göre derlenmiş ve açık kaynak topluluğunun kullanımına sunulmuştur.**
+> 💎 **Bu veri seti [ST Motors](https://www.stmotorss.com) kurumsal araç alım ve değerleme standartlarına göre derlenmiş, 2026 güncel vasıta kataloğuyla zenginleştirilmiş ve açık kaynak topluluğuna sunulmuştur.**
 
 ---
 
-## 🌟 Öne Çıkan Özellikler
+## 🌟 2026 Sürümü ile Gelen Yenilikler
 
-* **🚗 Kapsamlı Model Kataloğu:** Türkiye pazarında yer alan binek, hafif ticari ve elektrikli araçları kapsayan **3.543 benzersiz model**.
-* **🌍 %100 Doğrulanmış Marka Bilgisi:** 94 markanın tamamı için menşei ülke (*Almanya, İtalya, Japonya, Fransa, İngiltere, ABD, Türkiye vb.*), pazar segmenti (*supercar, luxury, premium, standard*) ve resmi logo URL'leri.
-* **🇹🇷 Türkiye Pazarı Odaklı Hiyerarşi:** Togg, Tofaş, Volkswagen (Passat, Golf, Polo, Jetta), Renault (Clio, Megane, Austral, R9, Toros), Fiat (Egea, Linea, Fiorino, Doblo) gibi modeller için **Marka ➔ Ana Model Serisi ➔ Kasa / Versiyon** kademeli hiyerarşisi (**49 markada 515 model ailesi**).
-* **⚡ 812 Hazır Trim & Motor Paketi:** 248 model serisi altında motor hacmi (cc), beygir gücü (hp), yakıt türü (*standardize edilmiş HIBRIT, BENZIN, DIZEL, ELEKTRIK*), şanzıman ve gövde tipi kombinasyonları.
-* **🔒 Supabase / PostgreSQL RLS Koruması:** `schema.sql` ve `dump.sql` tabloları, veritabanına aktarıldığında anonim yazma riskini engelleyen varsayılan **Row Level Security (RLS)** kurallarıyla birlikte gelir.
-* **💾 Çoklu Format:** İster JSON, ister PostgreSQL / Supabase SQL dump, isterseniz Pandas/Excel uyumlu CSV (Markalar, Modeller, Trimler, Model Aileleri) olarak kullanın.
+* 🆕 **2026 Güncel Vasıta Kataloğu (`excel/vasita_marka_model_2026.xlsx`):** Türkiye pazarında satışta olan ve ikinci elde işlem gören tüm vasıta sınıflarını içeren **4.734 satırlık resmi referans veri seti**.
+* 🎯 **4 Ana Vasıta Kategorisi (`data/turkey-vehicles-categorized-2026.json`):**
+  1. **Otomobil (Binek):** Sedan, Hatchback, Station Wagon, Coupe, Cabrio
+  2. **Arazi, SUV & Pick-up:** C-SUV, D-SUV, 4x4, Şehir Crossover, Pick-up
+  3. **Ticari & Kamyonet (Minivan/Panelvan):** Caddy, Doblo, Fiorino, Courier, Transporter, Vito, Custom vb.
+  4. **Elektrikli Araçlar (EV):** Togg, Tesla, BYD, Porsche Taycan, BMW i-Serisi, Mercedes EQ vb.
+* ⚡ **3.543 Model & 812 Trim/Motor Paketi:** Motor hacmi (cc), beygir gücü (hp), yakıt türü (*BENZIN, DIZEL, HIBRIT, ELEKTRIK*), şanzıman ve donanım varyantları.
+* 🇹🇷 **Yerli ve Küresel Marka Entegrasyonu:** Togg, Tofaş, Karsan'dan BYD, Jaecoo, Tesla, Chery ve süper spor üreticilerine kadar 94+ marka.
+* 💾 **Çoklu Veri Formatı:** İster **JSON**, ister **CSV**, ister **Excel XLSX**, isterseniz **PostgreSQL / Supabase SQL Dump**.
 
 ---
 
@@ -29,75 +32,92 @@ Türkiye pazarındaki otomotiv yazılımları, ekspertiz sistemleri, araç değe
 
 | Metrik | Sayı | Açıklama |
 | :--- | :--- | :--- |
-| **Marka Sayısı** | **94** | Global süper sporlardan yerel üreticilere kadar (Togg, Tofaş, Karsan vb.) |
-| **Model Sayısı** | **3.543** | Markalarla tam ilişkili binek, SUV ve hafif ticari araç modelleri |
-| **Model Ailesi** | **515** | 49 marka altında Sedan, Hatchback, SUV, Station Wagon, Coupe/Cabrio ve Ticari seriler |
-| **Hazır Trim & Motor Paketi** | **812** | 248 model serisi için motor hacmi (cc), beygir gücü (hp), yakıt ve şanzıman presetleri |
-| **Doğrulanmış Ülke & Segment** | **%100** | 94 markanın tamamı için menşei ülke ve pazar segmentasyonu (*supercar, luxury, premium, standard*) |
+| **Toplam Ham Vasıta Kaydı** | **4.734** | 2026 Vasıta kataloğundaki toplam satır sayısı |
+| **Kategorize Edilmiş Model** | **1.083** | Binek, SUV, Hafif Ticari ve Elektrikli olarak filtrelenmiş model serisi |
+| **Marka Sayısı** | **94+** | Menşei ülke, segment (*supercar, luxury, premium, standard*) ve resmi logo URL'leri |
+| **Model Ailesi (Hierarchy)** | **515** | Marka ➔ Ana Model Serisi ➔ Kasa/Paket hiyerarşisi |
+| **Preset Trim & Donanım** | **812** | 248 popüler model için cc, hp, yakıt, vites kombinasyonları |
+| **Desteklenen Formatlar** | **4** | JSON, CSV, Excel (.xlsx), PostgreSQL/Supabase (.sql) |
 
 ---
 
-## 📂 Dosya Yapısı
+## 📂 Dosya ve Dizin Yapısı
 
 ```bash
+├── excel/
+│   └── vasita_marka_model_2026.xlsx       # 2026 Resmi vasıta marka/model Excel kataloğu (17 sayfa, 4.734 satır)
 ├── data/
-│   ├── brands.json                  # 94 Marka (isim, slug, menşei ülke, pazar kategorisi, logo CDN)
-│   ├── models.json                  # 3.543 Tekil Model (marka ilişkili)
-│   ├── brand-model-families.json    # 515 Kademeli model serisi ve varyantları
-│   └── popular-vehicle-trims.json   # 812 Popüler donanım, motor ve güç paketi
-├── database/
-│   ├── schema.sql                   # Tablo yapıları + RLS Politikaları
-│   └── dump.sql                     # Tek tıkla veritabanına aktarılabilir tam SQL dökümü (Brands, Models, Trims)
+│   ├── turkey-vehicles-categorized-2026.json # 2026 Kategorize edilmiş araç serileri (Otomobil, SUV, Ticari, EV)
+│   ├── brands.json                         # 94+ Marka (slug, menşei, pazar segmenti, logo CDN)
+│   ├── models.json                         # 3.543 Tekil model ve marka ilişkisi
+│   ├── brand-model-families.json           # 515 Kademeli model ailesi
+│   └── popular-vehicle-trims.json          # 812 Hazır donanım, motor ve güç paketi
 ├── csv/
-│   ├── brands.csv                   # Marka listesi CSV
-│   ├── models.csv                   # Model listesi CSV
-│   ├── trims.csv                    # 812 donanım ve motor paketi CSV (Pandas/Excel uyumlu)
-│   └── brand-model-families.csv     # Model aileleri ve gövde kategorileri CSV
-└── logos/                           # Yerel SVG logolar (Togg, Tofaş, Karsan, Jaecoo)
+│   ├── turkey-vehicles-categorized-2026.csv # 2026 Kategorize veri CSV dökümü
+│   ├── brands.csv                          # Markalar tablosu
+│   ├── models.csv                          # Modeller tablosu
+│   ├── trims.csv                           # Trimler & motor güçleri tablosu
+│   └── brand-model-families.csv            # Model aileleri tablosu
+├── database/
+│   ├── schema.sql                          # PostgreSQL / Supabase şeması + RLS güvenlik politikaları
+│   └── dump.sql                            # Tek komutla içe aktarılabilir SQL veritabanı yedeği
+└── logos/                                  # Togg, Tofaş, Karsan, Jaecoo yerel vektörel SVG logoları
 ```
 
 ---
 
 ## 🚀 Hızlı Başlangıç
 
-### JavaScript / TypeScript
+### JavaScript / TypeScript (Node.js & Next.js)
 ```typescript
+import categorizedVehicles from './data/turkey-vehicles-categorized-2026.json';
 import brands from './data/brands.json';
-import models from './data/models.json';
-import trims from './data/popular-vehicle-trims.json';
 
-// Volkswagen markasının modellerini listele
-const vw = brands.find(b => b.slug === 'volkswagen');
-const vwModels = models.filter(m => m.brand_id === vw.id);
-console.log(vwModels);
+// 2026 Hafif Ticari & Kamyonet kategorisindeki modelleri listele
+const commercialVehicles = categorizedVehicles.filter(v => v.category === 'MINIVAN_PANELVAN');
+console.log('Hafif Ticari Araçlar:', commercialVehicles);
 
-// Volkswagen Golf için hazır donanım & motor presetleri
-const golfTrims = trims['volkswagen:golf'];
-console.log(golfTrims);
+// Elektrikli araçları (EV) listele
+const evVehicles = categorizedVehicles.filter(v => v.category === 'ELEKTRIK');
+console.log('Elektrikli Modeller:', evVehicles);
 ```
 
 ### Python (Pandas)
 ```python
 import pandas as pd
 
-# Modelleri yükle
-df_models = pd.read_csv('csv/models.csv')
-print(df_models.head())
+# 2026 Kategorize edilmiş veri setini yükle
+df = pd.read_csv('csv/turkey-vehicles-categorized-2026.csv')
 
-# Donanım & motor paketlerini incele
-df_trims = pd.read_csv('csv/trims.csv')
-print(df_trims[df_trims['brand_slug'] == 'volkswagen'][['trim_name', 'engine', 'fuel', 'power_hp']])
+# Kategori bazlı model dağılımı
+print(df['category'].value_counts())
+
+# Volkswagen modellerini filtrele
+vw_models = df[df['brand_name'] == 'Volkswagen']
+print(vw_models[['model_name', 'category']].head(10))
 ```
 
-### PostgreSQL / Supabase Import
+### PostgreSQL / Supabase İçe Aktarma
 ```bash
 psql -h your-db-host -U postgres -d your_db -f database/dump.sql
 ```
 
 ---
 
-## ⚖️ Yasal Bildirim & Telif Hakları (Trademark & Attribution)
+## 🏷️ Araç Türü Kapsam Standardı (ST Motors Kriterleri)
 
-1. **Ticari Markalar (Trademarks):** Bu veri setinde yer alan tüm otomobil marka isimleri, model adları, amblem ve logolar ilgili üretici şirketlerin tescilli ticari markalarıdır. Bu veriler yalnızca tanıtım, referans, eğitim ve adil kullanım (Fair Use) kapsamında bilgi amaçlı listelenmiştir. ST Motors bu markaların hiçbirinin resmi temsilcisi veya telif sahibi olduğunu iddia etmez.
-2. **Upstream Logo Kaynağı:** CDN logo yönlendirmeleri açık kaynaklı [filippofilip95/car-logos-dataset](https://github.com/filippofilip95/car-logos-dataset) (MIT Lisansı) projesinden referans alınmıştır.
-3. **Yazılım & Şema Lisansı:** Veritabanı şemaları, JSON veri hiyerarşisi ve dönüştürme scriptleri **MIT Lisansı** ile lisanslanmıştır. Projelerinizde kaynak olarak [ST Motors](https://www.stmotorss.com) bağlantısını belirtmeniz rica olunur.
+Veri seti özellikle değerleme ve ekspertiz sistemlerinde kolay entegrasyon için 4 çekirdek sınıfta normalize edilmiştir:
+
+1. **Otomobil:** Sedan, Hatchback, Station Wagon, Coupe, Cabrio (Binek araçlar).
+2. **Arazi, SUV & Pick-up:** Şehir SUV'ları, 4x4 arazi taşıtları ve çift kabin pick-up modelleri.
+3. **Ticari & Kamyonet:** Minivan, panelvan, hafif kamyonet (Caddy, Doblo, Fiorino, Courier, Transporter, Vito).
+4. **Elektrikli (EV):** %100 elektrikli binek ve crossover modeller.
+
+*(Ağır vasıta, çekici, iş makinesi, motosiklet ve deniz taşıtları bu ana değerleme kümelerinden ayrıştırılmıştır.)*
+
+---
+
+## ⚖️ Yasal Bildirim & Telif Hakları (Trademark & License)
+
+1. **Ticari Markalar:** Bu veri setinde yer alan tüm otomobil ve vasıta marka isimleri, model adları ve logolar ilgili üreticilerin tescilli markalarıdır. Veriler yalnızca tanıtım, teknik referans, araştırma ve adil kullanım (Fair Use) kapsamında sunulmuştur.
+2. **Lisans:** Bu veri seti ve yazılım araçları **MIT Lisansı** ile lisanslanmıştır. Projelerinizde kaynak olarak [ST Motors](https://www.stmotorss.com) bağlantısını belirtmeniz rica olunur.
