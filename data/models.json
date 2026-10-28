@@ -122,484 +122,617 @@
     "id": "e16dc93d-2851-498a-9850-a7a56709aad1",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "145"
+  },
+  {
+    "id": "dab2409b-d02d-50d9-9c02-386ff52b25f6",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "145"
   },
   {
     "id": "5ea5f26b-6313-4982-9ffd-de31d5dd7113",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "146"
+  },
+  {
+    "id": "ff78cf07-8b05-5a51-8324-1dcc2ea109b1",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "146"
   },
   {
     "id": "c5b72c12-6048-425a-8ff5-0858aa44f39a",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "147"
+  },
+  {
+    "id": "7eabb1f2-7710-54c0-832e-b196788a8117",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "147"
   },
   {
     "id": "63ba0d51-9be5-4ecc-adb1-85ced5322297",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "147 GTA"
   },
   {
     "id": "dac3598f-9fba-41b9-a3ec-c9a38822f1fc",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "155"
+  },
+  {
+    "id": "50fafd21-696d-5b1b-89c4-08c76fdb3756",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "155"
   },
   {
     "id": "2221ddbd-d515-428d-bee6-7c34935bd1c2",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "156"
+  },
+  {
+    "id": "f28c33a3-56da-5b4c-abad-9ea797b3d14b",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "156"
   },
   {
     "id": "8f721019-825b-46b2-9fe8-16f74507c837",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "156 GTA"
   },
   {
     "id": "f97fe1aa-63a0-4d11-9754-25185b583e5a",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "156 Sportwagon"
   },
   {
     "id": "de8ac772-2b7f-4fbd-8d00-a187122c7041",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "156 Sportwagon GTA"
   },
   {
     "id": "d1c96aa7-c94e-46d3-8a41-2ba7830618d5",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "159"
+  },
+  {
+    "id": "141a56d7-2d4f-537c-9a71-3533f0818c35",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "159"
   },
   {
     "id": "375b0c64-fa10-461f-8463-076a815e3008",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "159 Sportwagon"
   },
   {
     "id": "24ae7c46-735d-4483-9238-dc06f52b3e3a",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "164"
   },
   {
     "id": "3f3b53e4-6b36-423c-b56f-c18df7af7dd7",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "166"
+  },
+  {
+    "id": "7eec1c83-c9c0-5720-883f-155d9336e974",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "166"
   },
   {
     "id": "e03a30f2-0925-45b7-bfe9-0dff35dcdf8f",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "1900 Berlina"
   },
   {
     "id": "651614fe-6477-4c12-a917-6914b01869fb",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "1900 Super Sprint"
   },
   {
     "id": "0d5b829c-3d0e-468b-b3a8-e0344a217c98",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "2000 Berlina"
   },
   {
     "id": "a8c1655a-be53-445a-8a93-634e9930d2fb",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "24 HP"
   },
   {
     "id": "ff5fc131-e7b2-432c-aa6a-2f87f411ab7e",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "2600 Spider"
   },
   {
     "id": "70ffd0df-d982-477b-b056-12e1c1314c23",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "33"
   },
   {
     "id": "d7a0ec70-fa48-4e7e-9436-572c378ea0ab",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "33 Giardinetta"
   },
   {
     "id": "4b196f9f-4a6e-4671-a379-bee0a00c2401",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "33 Stradale"
   },
   {
     "id": "d3d09425-8ed5-4061-91d7-0a0e8fca8b59",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "4C"
   },
   {
     "id": "1851546f-8cc4-4f9d-9ef8-32493019b6f4",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "4C Spider"
   },
   {
     "id": "8c6552e5-6618-4014-9a6b-86dc1d40be2e",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "6"
   },
   {
     "id": "bd701db9-8da4-4dbe-b30e-c8e76a6d35c8",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "6C 1500"
   },
   {
     "id": "b534d910-7821-4b6e-a425-4c33709193e1",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "6C 1750 Grand Sport"
   },
   {
     "id": "3e693e9f-045f-45fd-9ca7-d37b89d49e5e",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "6C 2500 Super Sport"
   },
   {
     "id": "e280c3f2-b699-476f-86d9-f77ac471fe63",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "75"
   },
   {
     "id": "bd69d05d-7323-47a2-acb6-afa91d2bca97",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "8C 2300"
   },
   {
     "id": "f020fe4c-812a-4e0e-ab01-14c6993856cf",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "8C 2900 B"
   },
   {
     "id": "b40f6afa-682d-4876-882e-d2b11d9777b8",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "8C Competizione"
   },
   {
     "id": "fc6a9494-489a-4504-af84-ee9292f29f6d",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfa 6"
   },
   {
     "id": "7429c1ee-74b6-4de8-809c-9ffbcd097031",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfasud"
   },
   {
     "id": "e59b07db-adb4-487e-a60b-69b0f6e41ca2",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfasud Giardinetta"
   },
   {
     "id": "60e1f55b-38b4-43e2-8df6-3104cf586a0b",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfasud Sprint"
   },
   {
     "id": "6bd8a5aa-e125-4973-ae04-4742d79aff68",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfasud Ti"
   },
   {
     "id": "8063f364-598c-4b0e-8800-03b2396021bc",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfetta"
   },
   {
     "id": "6444a2eb-b1d3-4314-a458-bb87b6e7bd79",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Alfetta GTV"
   },
   {
     "id": "7a1c580f-a30d-40d1-8468-0f877d7f1165",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Arna"
   },
   {
     "id": "32e8569d-f911-4827-b8ea-0ac87bdebbc2",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Brera"
   },
   {
     "id": "41ce370b-2908-4b61-bc80-4e242919bddb",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Crosswagon Q4"
   },
   {
     "id": "32703204-9113-4f71-9926-bc5774cd4ab4",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "Giulia"
+  },
+  {
+    "id": "ede4ad98-12bd-5d25-8129-481f180f28e8",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia"
   },
   {
     "id": "37ff3e52-1f51-47f0-95df-7e0a595888b8",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia 1300 GTA Junior"
   },
   {
     "id": "e21c20c1-763e-45b0-9656-38396ee93f0c",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia Berlina"
   },
   {
     "id": "583fa870-cac4-430f-ac22-f8d528a9cbc5",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia GTA"
   },
   {
     "id": "fc2e48b7-25b3-4588-9ee2-b9ca46b89b70",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia Quadrifoglio"
   },
   {
     "id": "759e5cbf-c8d1-40a3-ae97-f887a4e8d392",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulia Veloce"
   },
   {
     "id": "ebc8aaa0-759d-4225-9bfa-ec43d304f1b2",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "Giulietta"
+  },
+  {
+    "id": "4596e08c-633f-5a4b-86bc-2ebe200035ab",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulietta"
   },
   {
     "id": "cad4310c-30bd-4f26-8c29-83f611a1bc07",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulietta Berlina"
   },
   {
     "id": "bb5c4332-4a78-4490-a292-9aa507c2c20b",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulietta Quadrifoglio Verde"
   },
   {
     "id": "b15b5eca-bd41-44d3-b63b-48c0a24f1d47",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulietta Spider"
   },
   {
     "id": "16884658-fa15-4aa1-b679-ee032698a844",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Giulietta Sprint"
+  },
+  {
+    "id": "2396578e-cf5c-5b9a-ba3a-9959ce5bff72",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "GT"
   },
   {
     "id": "d49ab2fa-b15d-4c8f-9d5f-c1ba23ba7782",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "GTV"
+  },
+  {
+    "id": "39ea2520-e6ba-52ad-8407-f5e4d94bc870",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "GTV"
   },
   {
     "id": "ee715fbc-8d1e-4273-a059-f50b81f31a1f",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "Junior"
+  },
+  {
+    "id": "8a142fd2-1a58-524c-9b05-fd061dc4b786",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Junior"
   },
   {
     "id": "d389bb0b-4a0d-46f9-9854-f73803170efb",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "MiTo"
+  },
+  {
+    "id": "73260121-7f20-510a-9723-f09c341cfcd3",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "MiTo"
   },
   {
     "id": "3d1de922-3af4-430a-8990-8a439ec542bb",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "MiTo Quadrifoglio Verde"
   },
   {
     "id": "7808645e-81bc-4d5e-b1aa-0dde4b612aed",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "MiTo Veloce"
   },
   {
     "id": "eb2fefc0-aadf-44eb-a69e-722a894aed87",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Montreal"
   },
   {
     "id": "d7e02f8d-193f-4707-a9a7-183d65ddbe7c",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "RL"
   },
   {
     "id": "05fc8b45-9341-4d5e-b9d7-04152dc9ac42",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "RL Super Sport"
   },
   {
     "id": "f3c07c1d-c8b2-408b-984b-2914b4cf7b36",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "RM Sport"
   },
   {
     "id": "67a199b8-ca98-4dd2-b8a1-073754098c4d",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "Spider"
+  },
+  {
+    "id": "60a03aea-077a-5610-83fd-5f61f0dbfbf3",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Spider"
   },
   {
     "id": "84790ddc-bf2a-4cf6-93cb-c2cc50f827b3",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Spider Series II"
   },
   {
     "id": "74319979-b810-44b4-a518-eb8cb64b8214",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Sport Wagon"
   },
   {
     "id": "01bfa64d-353f-4a73-a5a8-81e0e3f374e1",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Sprint"
   },
   {
     "id": "b0bd26c6-94e1-422a-b050-7f2d59c8f0b5",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "Stelvio"
+  },
+  {
+    "id": "559b3cba-5e7d-5050-83a8-168877e34f95",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Stelvio"
   },
   {
     "id": "598f755d-f5ac-46b0-b3a4-3129b07260ba",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Stelvio Quadrifoglio"
   },
   {
     "id": "8a78e03c-129a-4d4c-9bb1-0efad852fb87",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
+    "model_name": "Tonale"
+  },
+  {
+    "id": "a4b473b0-5a1b-516c-abae-a615c708d60a",
+    "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
+    "brand_name": "Alfa Romeo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Tonale"
   },
   {
     "id": "c8a688da-4c51-4133-a9bf-2def27c9b3da",
     "brand_id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "brand_name": "Alfa Romeo",
-    "brand_slug": "alfa-repo",
+    "brand_slug": "alfa-romeo",
     "model_name": "Torpedo 20-30 HP"
+  },
+  {
+    "id": "fe31032a-30ee-50be-97e1-d04626ca9501",
+    "brand_id": "a253c2ee-5819-57e5-8f96-e625a3a10c79",
+    "brand_name": "Alpine",
+    "brand_slug": "alpine",
+    "model_name": "A110"
+  },
+  {
+    "id": "da0f2135-ca22-535c-b107-8d82ec34b87f",
+    "brand_id": "a253c2ee-5819-57e5-8f96-e625a3a10c79",
+    "brand_name": "Alpine",
+    "brand_slug": "alpine",
+    "model_name": "A290"
+  },
+  {
+    "id": "2a4e8091-fd3a-586e-b36c-e75050b0c440",
+    "brand_id": "a253c2ee-5819-57e5-8f96-e625a3a10c79",
+    "brand_name": "Alpine",
+    "brand_slug": "alpine",
+    "model_name": "A390"
   },
   {
     "id": "3662ae22-0173-45d2-aa0e-39453310a831",
@@ -1232,6 +1365,13 @@
     "model_name": "e-tron"
   },
   {
+    "id": "dc834e25-513a-5de9-9bb5-5b3d1a0d0ae2",
+    "brand_id": "eaeb6d3d-a1af-4a93-88eb-2dd5f66c9e95",
+    "brand_name": "Audi",
+    "brand_slug": "audi",
+    "model_name": "e-tron GT"
+  },
+  {
     "id": "8d876215-b13b-4d04-a222-c08979624926",
     "brand_id": "eaeb6d3d-a1af-4a93-88eb-2dd5f66c9e95",
     "brand_name": "Audi",
@@ -1272,6 +1412,13 @@
     "brand_name": "Audi",
     "brand_slug": "audi",
     "model_name": "Q5L"
+  },
+  {
+    "id": "d29e3c47-c6bf-5e31-992f-3ea7e9c6408f",
+    "brand_id": "eaeb6d3d-a1af-4a93-88eb-2dd5f66c9e95",
+    "brand_name": "Audi",
+    "brand_slug": "audi",
+    "model_name": "Q6 e-tron"
   },
   {
     "id": "58250aca-887f-40f8-836e-77f6739ca18c",
@@ -1741,6 +1888,13 @@
     "brand_name": "Bentley",
     "brand_slug": "bentley",
     "model_name": "Continental Flying Spur"
+  },
+  {
+    "id": "6deea240-2625-5d41-a77b-ebe29d8962f4",
+    "brand_id": "003816aa-6d52-4f0f-b51b-6280d8965739",
+    "brand_name": "Bentley",
+    "brand_slug": "bentley",
+    "model_name": "Continental GT"
   },
   {
     "id": "396f7b73-9a26-4ba9-8b85-a1526683ee9c",
@@ -2765,6 +2919,13 @@
     "model_name": "Verano"
   },
   {
+    "id": "a4de8a79-88d7-5d24-bf78-77d66f8d89b4",
+    "brand_id": "d5cc0b83-369e-40dd-9562-565b8557a169",
+    "brand_name": "BYD",
+    "brand_slug": "byd",
+    "model_name": "Atto 2"
+  },
+  {
     "id": "597a7065-2aa8-412f-8942-b7c3ad8444dd",
     "brand_id": "d5cc0b83-369e-40dd-9562-565b8557a169",
     "brand_name": "BYD",
@@ -2814,6 +2975,13 @@
     "model_name": "Seal U DM-i"
   },
   {
+    "id": "a026267b-0492-58fd-be71-8498ef11081d",
+    "brand_id": "d5cc0b83-369e-40dd-9562-565b8557a169",
+    "brand_name": "BYD",
+    "brand_slug": "byd",
+    "model_name": "Seal U EV"
+  },
+  {
     "id": "b2642fa5-7753-47a7-9120-6547b0188f85",
     "brand_id": "d5cc0b83-369e-40dd-9562-565b8557a169",
     "brand_name": "BYD",
@@ -2861,6 +3029,13 @@
     "brand_name": "Cadillac",
     "brand_slug": "cadillac",
     "model_name": "ATS"
+  },
+  {
+    "id": "b7b6e559-4967-5a39-96f3-02dff061909b",
+    "brand_id": "b1749e79-84cc-4d2b-938a-2456db98d7f2",
+    "brand_name": "Cadillac",
+    "brand_slug": "cadillac",
+    "model_name": "BLS"
   },
   {
     "id": "5f080212-0805-404d-a19e-eb99cf0b7792",
@@ -3113,6 +3288,13 @@
     "brand_name": "Chery",
     "brand_slug": "chery",
     "model_name": "Omoda 5"
+  },
+  {
+    "id": "c2dbe439-377b-572b-b1fc-b12017cead13",
+    "brand_id": "1f4d74ea-bd58-4740-9d6d-54619f65132f",
+    "brand_name": "Chery",
+    "brand_slug": "chery",
+    "model_name": "Omoda 5 Pro"
   },
   {
     "id": "8be6719b-3949-453b-a22e-10a02404790d",
@@ -3430,6 +3612,13 @@
     "model_name": "Caprice Police Vehicle"
   },
   {
+    "id": "eb9fd92d-c87b-56f7-9292-69d8aaa913f9",
+    "brand_id": "9c6f0ba0-5451-4196-ab09-357bfc11e464",
+    "brand_name": "Chevrolet",
+    "brand_slug": "chevrolet",
+    "model_name": "Captiva"
+  },
+  {
     "id": "a5ceb1db-dbd5-4eb4-b17f-75849539b26f",
     "brand_id": "9c6f0ba0-5451-4196-ab09-357bfc11e464",
     "brand_name": "Chevrolet",
@@ -3556,6 +3745,13 @@
     "model_name": "Equinox"
   },
   {
+    "id": "198b8ac0-0d04-5fc3-afd6-744be4a2bd87",
+    "brand_id": "9c6f0ba0-5451-4196-ab09-357bfc11e464",
+    "brand_name": "Chevrolet",
+    "brand_slug": "chevrolet",
+    "model_name": "Evanda"
+  },
+  {
     "id": "a93deee6-4a61-4f27-9f53-f8131f3e94e3",
     "brand_id": "9c6f0ba0-5451-4196-ab09-357bfc11e464",
     "brand_name": "Chevrolet",
@@ -3666,6 +3862,13 @@
     "brand_name": "Chevrolet",
     "brand_slug": "chevrolet",
     "model_name": "Kalos"
+  },
+  {
+    "id": "08403e06-c282-5b2e-8c5b-ae199f1c4da0",
+    "brand_id": "9c6f0ba0-5451-4196-ab09-357bfc11e464",
+    "brand_name": "Chevrolet",
+    "brand_slug": "chevrolet",
+    "model_name": "Lacetti"
   },
   {
     "id": "1285ef5b-f64c-413e-bfe2-eb54b6796aca",
@@ -3799,6 +4002,13 @@
     "brand_name": "Chevrolet",
     "brand_slug": "chevrolet",
     "model_name": "R Conventional"
+  },
+  {
+    "id": "fddf1ac5-ac70-52a5-95c2-0b31fd2767fc",
+    "brand_id": "9c6f0ba0-5451-4196-ab09-357bfc11e464",
+    "brand_name": "Chevrolet",
+    "brand_slug": "chevrolet",
+    "model_name": "Rezzo"
   },
   {
     "id": "a7ae3e84-df55-42b5-a579-2e1a3407dcf7",
@@ -4053,6 +4263,13 @@
     "model_name": "300C"
   },
   {
+    "id": "3bc32a7e-f46e-5859-b4b3-835cda9068c1",
+    "brand_id": "36f1b599-caad-4110-815c-0bc9539572ec",
+    "brand_name": "Chrysler",
+    "brand_slug": "chrysler",
+    "model_name": "300M"
+  },
+  {
     "id": "95f1ffd1-7748-4e4b-9195-b290a524a394",
     "brand_id": "36f1b599-caad-4110-815c-0bc9539572ec",
     "brand_name": "Chrysler",
@@ -4298,6 +4515,118 @@
     "model_name": "Voyager"
   },
   {
+    "id": "bde74168-ce67-5f1f-b2e1-e07361546a1e",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Ami"
+  },
+  {
+    "id": "4c80d601-c140-55c1-a46b-5c6dbde6bc71",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Berlingo"
+  },
+  {
+    "id": "0e054fac-23da-5702-b010-dd4b3b010a60",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "BX"
+  },
+  {
+    "id": "209dd3f9-0e43-5e19-8978-0232a82b9c72",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C-Elysée"
+  },
+  {
+    "id": "3fadfdd7-62af-5cd9-91d8-a5e0a3bfca66",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C1"
+  },
+  {
+    "id": "88d4fc9e-0d05-556d-b209-5c543ac67714",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C2"
+  },
+  {
+    "id": "1d8cc74a-d83c-56c0-ba27-fce6ad74433c",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C3"
+  },
+  {
+    "id": "273da71c-79ac-52ca-b9ff-86f499d65724",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C3 Aircross"
+  },
+  {
+    "id": "1fc6a5ef-bfa7-52e8-844c-9f7dbc73db93",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C4"
+  },
+  {
+    "id": "e147dd11-6b30-5559-b993-48faa67869bf",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C4 Cactus"
+  },
+  {
+    "id": "5cb29ce0-5536-581a-944d-5327f37beb09",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C4 Picasso"
+  },
+  {
+    "id": "c0d88ec9-6427-507c-9493-b190e967778a",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C4 X"
+  },
+  {
+    "id": "ce4bfca4-a772-5d7f-99c9-974d6cb8dec2",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C5"
+  },
+  {
+    "id": "1965debc-1351-5845-b4f4-df718273dff3",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C5 Aircross"
+  },
+  {
+    "id": "e8eb18da-6d68-54c5-a4ee-c7cdffff2210",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "C8"
+  },
+  {
+    "id": "41578169-32eb-4580-8ce7-4886212d68f4",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citren Traction 11L Faux"
+  },
+  {
     "id": "622dba7d-af11-43a2-9f9b-eebb9560051b",
     "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
     "brand_name": "Citroën",
@@ -4361,6 +4690,20 @@
     "model_name": "CITROEN C-Crosser"
   },
   {
+    "id": "825465b5-82a4-40e8-8e80-6b196c6badf3",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen C-Elysee"
+  },
+  {
+    "id": "7f8a0a33-d908-4c24-bb8a-df893ce1032b",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen C-Zero"
+  },
+  {
     "id": "d456685e-8dc5-433c-b44e-7614445e012c",
     "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
     "brand_name": "Citroën",
@@ -4389,6 +4732,20 @@
     "model_name": "CITROEN C3"
   },
   {
+    "id": "3feefe83-1521-4ebd-98aa-126fdacb20db",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen C3 Aircross"
+  },
+  {
+    "id": "a6fda99d-2849-40ab-a5ff-5f46ddc85034",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen C3 Picasso"
+  },
+  {
     "id": "6d5f6ecc-1e04-448e-ab09-06f915e8a616",
     "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
     "brand_name": "Citroën",
@@ -4401,6 +4758,13 @@
     "brand_name": "Citroën",
     "brand_slug": "citroen",
     "model_name": "CITROEN C3 X-TR"
+  },
+  {
+    "id": "90ee6fe8-8439-4a61-a388-37b7f92d78ab",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen C4"
   },
   {
     "id": "5250eee0-71dc-4fbd-8c34-0310260e590b",
@@ -4417,11 +4781,32 @@
     "model_name": "CITROEN C4 Cactus"
   },
   {
+    "id": "f07d25a4-49ec-429e-8445-7b35def275c2",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen C4 Picasso"
+  },
+  {
+    "id": "98c36e52-ca84-4c99-afc5-93481778762a",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen C4 X"
+  },
+  {
     "id": "622c150d-8c57-44f8-a9d8-0d494c118316",
     "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
     "brand_name": "Citroën",
     "brand_slug": "citroen",
     "model_name": "CITROEN C5"
+  },
+  {
+    "id": "0fa18424-8f8a-4df7-9dd2-99b7d2a089a9",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen C5 Aircross"
   },
   {
     "id": "57990282-2aab-4d3c-b1d0-cc07289fc3c0",
@@ -4445,11 +4830,32 @@
     "model_name": "CITROEN C5 X"
   },
   {
+    "id": "94c40310-6344-4869-a94a-91938718a141",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen C6"
+  },
+  {
+    "id": "e2104880-a3b0-40c6-8fe2-03479c047a86",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen C8"
+  },
+  {
     "id": "11614516-7d1a-4935-8d07-2aef3d04ff71",
     "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
     "brand_name": "Citroën",
     "brand_slug": "citroen",
     "model_name": "CITROEN CX"
+  },
+  {
+    "id": "b493315d-05b2-4af4-bd85-e5d5cca7887f",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen CX Break"
   },
   {
     "id": "a57a7ffd-1bf8-420c-9132-6a8713d6b8d0",
@@ -4613,6 +5019,13 @@
     "model_name": "CITROEN Traction 15 G"
   },
   {
+    "id": "82d8d219-e242-4d97-a00c-2b4b41b74e2b",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen Traction 7"
+  },
+  {
     "id": "64c86198-9c8b-4ab6-92df-9677fded8129",
     "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
     "brand_name": "Citroën",
@@ -4625,6 +5038,13 @@
     "brand_name": "Citroën",
     "brand_slug": "citroen",
     "model_name": "CITROEN Visa"
+  },
+  {
+    "id": "387043c3-a5c4-4cf6-b3e1-a529f56ec453",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen Visa Decapotable"
   },
   {
     "id": "7d3eb33e-ad35-49a7-ab93-0b9f09c50d79",
@@ -4662,6 +5082,13 @@
     "model_name": "CITROEN Xsara"
   },
   {
+    "id": "6b5e7bd7-28a3-46f3-8753-09d8ab61d83b",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Citroen Xsara Break"
+  },
+  {
     "id": "770d0e42-2bbd-40b6-ac2f-4a5a8e304db9",
     "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
     "brand_name": "Citroën",
@@ -4683,116 +5110,18 @@
     "model_name": "CITROEN ZX"
   },
   {
-    "id": "41578169-32eb-4580-8ce7-4886212d68f4",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citren Traction 11L Faux"
-  },
-  {
-    "id": "825465b5-82a4-40e8-8e80-6b196c6badf3",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen C-Elysee"
-  },
-  {
-    "id": "7f8a0a33-d908-4c24-bb8a-df893ce1032b",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen C-Zero"
-  },
-  {
-    "id": "3feefe83-1521-4ebd-98aa-126fdacb20db",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen C3 Aircross"
-  },
-  {
-    "id": "a6fda99d-2849-40ab-a5ff-5f46ddc85034",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen C3 Picasso"
-  },
-  {
-    "id": "90ee6fe8-8439-4a61-a388-37b7f92d78ab",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen C4"
-  },
-  {
-    "id": "f07d25a4-49ec-429e-8445-7b35def275c2",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen C4 Picasso"
-  },
-  {
-    "id": "98c36e52-ca84-4c99-afc5-93481778762a",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen C4 X"
-  },
-  {
-    "id": "0fa18424-8f8a-4df7-9dd2-99b7d2a089a9",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen C5 Aircross"
-  },
-  {
-    "id": "94c40310-6344-4869-a94a-91938718a141",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen C6"
-  },
-  {
-    "id": "e2104880-a3b0-40c6-8fe2-03479c047a86",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen C8"
-  },
-  {
-    "id": "b493315d-05b2-4af4-bd85-e5d5cca7887f",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen CX Break"
-  },
-  {
-    "id": "82d8d219-e242-4d97-a00c-2b4b41b74e2b",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen Traction 7"
-  },
-  {
-    "id": "387043c3-a5c4-4cf6-b3e1-a529f56ec453",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen Visa Decapotable"
-  },
-  {
-    "id": "6b5e7bd7-28a3-46f3-8753-09d8ab61d83b",
-    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
-    "brand_name": "Citroën",
-    "brand_slug": "citroen",
-    "model_name": "Citroen Xsara Break"
-  },
-  {
     "id": "7038c924-eedd-4663-aeeb-e09876d14b57",
     "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
     "brand_name": "Citroën",
     "brand_slug": "citroen",
     "model_name": "Citroen ZX Break"
+  },
+  {
+    "id": "6a214d7f-0ce5-5879-8260-7e27167c785a",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Evasion"
   },
   {
     "id": "4dd65933-fe70-4372-b6bd-820dd39bafa3",
@@ -4814,6 +5143,48 @@
     "brand_name": "Citroën",
     "brand_slug": "citroen",
     "model_name": "Jumpy"
+  },
+  {
+    "id": "12b857ba-a5c6-5a76-ba9b-8fac202e59fb",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Nemo"
+  },
+  {
+    "id": "9abe6b02-45df-5aab-81e5-5d5f0d78b7d2",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Saxo"
+  },
+  {
+    "id": "12312aa9-fe1a-503f-aa60-c86fde7dc416",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Xantia"
+  },
+  {
+    "id": "8494da70-f919-51a2-9c32-38d7feac1204",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "XM"
+  },
+  {
+    "id": "a1f41ab8-7d21-5e3b-b155-6ef7236ec620",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "Xsara"
+  },
+  {
+    "id": "a6ab5522-30d7-572c-b692-8a7ec0da7f65",
+    "brand_id": "a73f581a-eb84-489f-b896-3389ee900d0d",
+    "brand_name": "Citroën",
+    "brand_slug": "citroen",
+    "model_name": "ZX"
   },
   {
     "id": "31c872af-ff18-4d35-85a7-40cde4b8c5bd",
@@ -5129,6 +5500,13 @@
     "brand_name": "Daewoo",
     "brand_slug": "daewoo",
     "model_name": "NUBIRA"
+  },
+  {
+    "id": "8d7ca8cd-3782-5367-84a9-4f3c808f74a4",
+    "brand_id": "3bd7bd4d-e405-450b-8002-3b37cb145b36",
+    "brand_name": "Daewoo",
+    "brand_slug": "daewoo",
+    "model_name": "Racer"
   },
   {
     "id": "471a23a2-a164-4d0d-a728-c98702481c7b",
@@ -5656,18 +6034,18 @@
     "model_name": "Talon"
   },
   {
-    "id": "2d002e59-29a3-4055-8ac2-caa713c7962d",
-    "brand_id": "5081f41e-1651-4c87-9dd4-86727b339520",
-    "brand_name": "Eagle",
-    "brand_slug": "eagle",
-    "model_name": "VISTA"
-  },
-  {
     "id": "9e588585-a183-48b8-9261-3b5ea747ef9b",
     "brand_id": "5081f41e-1651-4c87-9dd4-86727b339520",
     "brand_name": "Eagle",
     "brand_slug": "eagle",
     "model_name": "Vision"
+  },
+  {
+    "id": "2d002e59-29a3-4055-8ac2-caa713c7962d",
+    "brand_id": "5081f41e-1651-4c87-9dd4-86727b339520",
+    "brand_name": "Eagle",
+    "brand_slug": "eagle",
+    "model_name": "VISTA"
   },
   {
     "id": "6f1adde9-391f-430c-85de-b70f94ae3a50",
@@ -5999,6 +6377,13 @@
     "model_name": "458 Spider"
   },
   {
+    "id": "bb663708-2504-54a5-b4a1-45f95b526010",
+    "brand_id": "d7e33cf3-9bcb-45a2-9877-78649cd5b565",
+    "brand_name": "Ferrari",
+    "brand_slug": "ferrari",
+    "model_name": "488"
+  },
+  {
     "id": "add7419e-028f-41cf-b92e-5faf6a41527c",
     "brand_id": "d7e33cf3-9bcb-45a2-9877-78649cd5b565",
     "brand_name": "Ferrari",
@@ -6097,6 +6482,13 @@
     "model_name": "812 Superfast"
   },
   {
+    "id": "5f125610-c6c3-517e-9684-42becd93d5f6",
+    "brand_id": "d7e33cf3-9bcb-45a2-9877-78649cd5b565",
+    "brand_name": "Ferrari",
+    "brand_slug": "ferrari",
+    "model_name": "California"
+  },
+  {
     "id": "5c70a696-8070-49b9-91e3-617ed4bec925",
     "brand_id": "d7e33cf3-9bcb-45a2-9877-78649cd5b565",
     "brand_name": "Ferrari",
@@ -6144,6 +6536,13 @@
     "brand_name": "Ferrari",
     "brand_slug": "ferrari",
     "model_name": "Enzo"
+  },
+  {
+    "id": "c5e35ee0-72fb-586a-97df-519e59a316f4",
+    "brand_id": "d7e33cf3-9bcb-45a2-9877-78649cd5b565",
+    "brand_name": "Ferrari",
+    "brand_slug": "ferrari",
+    "model_name": "F12"
   },
   {
     "id": "02c90e96-600d-45a3-8107-f428a3e36cf9",
@@ -7154,6 +7553,13 @@
     "model_name": "Cinquecento"
   },
   {
+    "id": "e483d6ba-9403-5ba2-b06e-8d2eac847290",
+    "brand_id": "2168ac2b-0206-4f83-8150-1c4aca8b4ce3",
+    "brand_name": "Fiat",
+    "brand_slug": "fiat",
+    "model_name": "Coupe"
+  },
+  {
     "id": "91614b15-99cc-4cdc-a547-68a6886fcfb6",
     "brand_id": "2168ac2b-0206-4f83-8150-1c4aca8b4ce3",
     "brand_name": "Fiat",
@@ -7189,6 +7595,13 @@
     "model_name": "Ducato"
   },
   {
+    "id": "706c2db1-21a8-5688-bd9d-c0173c644b23",
+    "brand_id": "2168ac2b-0206-4f83-8150-1c4aca8b4ce3",
+    "brand_name": "Fiat",
+    "brand_slug": "fiat",
+    "model_name": "Egea"
+  },
+  {
     "id": "323a8c57-433c-412d-b1d0-d120b8ea4049",
     "brand_id": "2168ac2b-0206-4f83-8150-1c4aca8b4ce3",
     "brand_name": "Fiat",
@@ -7215,6 +7628,13 @@
     "brand_name": "Fiat",
     "brand_slug": "fiat",
     "model_name": "Freemont Cross"
+  },
+  {
+    "id": "695220eb-1adc-5c42-810a-c4d24afcd694",
+    "brand_id": "2168ac2b-0206-4f83-8150-1c4aca8b4ce3",
+    "brand_name": "Fiat",
+    "brand_slug": "fiat",
+    "model_name": "Fullback"
   },
   {
     "id": "14f71a2e-c002-44c1-b6cf-f4220b715668",
@@ -7343,6 +7763,13 @@
     "model_name": "Panda Cross"
   },
   {
+    "id": "5c279b70-e19e-580c-b937-5ef047249fcb",
+    "brand_id": "2168ac2b-0206-4f83-8150-1c4aca8b4ce3",
+    "brand_name": "Fiat",
+    "brand_slug": "fiat",
+    "model_name": "Pratico"
+  },
+  {
     "id": "e7ce67ee-1333-4161-be56-edebcb8ee79e",
     "brand_id": "2168ac2b-0206-4f83-8150-1c4aca8b4ce3",
     "brand_name": "Fiat",
@@ -7411,6 +7838,13 @@
     "brand_name": "Fiat",
     "brand_slug": "fiat",
     "model_name": "Seicento"
+  },
+  {
+    "id": "f6f7e413-28ac-5ed6-8d0a-e7b50a9de9b5",
+    "brand_id": "2168ac2b-0206-4f83-8150-1c4aca8b4ce3",
+    "brand_name": "Fiat",
+    "brand_slug": "fiat",
+    "model_name": "Siena"
   },
   {
     "id": "3dc61e23-3775-4b9e-8689-cd619edf99c6",
@@ -8309,6 +8743,13 @@
     "model_name": "Super Duty Lariat Tremor"
   },
   {
+    "id": "2140638d-8510-5a46-82b1-da3a4a9a18c0",
+    "brand_id": "c2afc0ae-ce8a-45b3-ac45-e4c8236ccab8",
+    "brand_name": "Ford",
+    "brand_slug": "ford",
+    "model_name": "Taunus"
+  },
+  {
     "id": "a12f7531-bf7f-4960-ba6a-b4290d38e61f",
     "brand_id": "c2afc0ae-ce8a-45b3-ac45-e4c8236ccab8",
     "brand_name": "Ford",
@@ -8442,11 +8883,25 @@
     "model_name": "Tourneo Connect"
   },
   {
-    "id": "fe875540-e382-4c61-b1df-9a0b0dcf254d",
+    "id": "e828d789-2a74-56f3-9081-812a02de41a1",
     "brand_id": "c2afc0ae-ce8a-45b3-ac45-e4c8236ccab8",
     "brand_name": "Ford",
     "brand_slug": "ford",
-    "model_name": "TRANSIT/TOURNEO CONNECT"
+    "model_name": "Tourneo Courier"
+  },
+  {
+    "id": "b4f6d49c-caf5-5777-a531-1a20b981847a",
+    "brand_id": "c2afc0ae-ce8a-45b3-ac45-e4c8236ccab8",
+    "brand_name": "Ford",
+    "brand_slug": "ford",
+    "model_name": "Tourneo Custom"
+  },
+  {
+    "id": "00dceadb-5507-5681-a768-fa3e6bdbe4c6",
+    "brand_id": "c2afc0ae-ce8a-45b3-ac45-e4c8236ccab8",
+    "brand_name": "Ford",
+    "brand_slug": "ford",
+    "model_name": "Transit"
   },
   {
     "id": "e0e1f996-3836-4586-ab0d-3b4619d66604",
@@ -8456,11 +8911,25 @@
     "model_name": "Transit Connect Wagon - North American version"
   },
   {
+    "id": "81929a88-d9fb-57d9-b1fa-19b50a56fad6",
+    "brand_id": "c2afc0ae-ce8a-45b3-ac45-e4c8236ccab8",
+    "brand_name": "Ford",
+    "brand_slug": "ford",
+    "model_name": "Transit Courier"
+  },
+  {
     "id": "428200cc-0f8b-4546-9a79-11fe939cc99c",
     "brand_id": "c2afc0ae-ce8a-45b3-ac45-e4c8236ccab8",
     "brand_name": "Ford",
     "brand_slug": "ford",
     "model_name": "Transit Custom"
+  },
+  {
+    "id": "fe875540-e382-4c61-b1df-9a0b0dcf254d",
+    "brand_id": "c2afc0ae-ce8a-45b3-ac45-e4c8236ccab8",
+    "brand_name": "Ford",
+    "brand_slug": "ford",
+    "model_name": "TRANSIT/TOURNEO CONNECT"
   },
   {
     "id": "a6149aff-3afe-46e5-8e34-41cfe19b70ec",
@@ -8498,11 +8967,25 @@
     "model_name": "Coolray"
   },
   {
+    "id": "d180ad72-90b3-5975-8ac2-4e085b1ae5e3",
+    "brand_id": "13e0517c-1733-4c03-9213-b5c7b4fda6b6",
+    "brand_name": "Geely",
+    "brand_slug": "geely",
+    "model_name": "Echo"
+  },
+  {
     "id": "9b203352-ca78-44fa-801b-b34eac0901b2",
     "brand_id": "13e0517c-1733-4c03-9213-b5c7b4fda6b6",
     "brand_name": "Geely",
     "brand_slug": "geely",
     "model_name": "Emgrand"
+  },
+  {
+    "id": "bf355acf-dac4-58d9-8f20-99e2090f0757",
+    "brand_id": "13e0517c-1733-4c03-9213-b5c7b4fda6b6",
+    "brand_name": "Geely",
+    "brand_slug": "geely",
+    "model_name": "FC"
   },
   {
     "id": "74ac5774-a6fb-4a04-a635-e1d827c53b0a",
@@ -8818,6 +9301,13 @@
     "brand_name": "GMC",
     "brand_slug": "gmc",
     "model_name": "Hi-Cube"
+  },
+  {
+    "id": "a8ae187f-3e1c-5b71-8c07-fb1f0e42afc3",
+    "brand_id": "bd57b38e-16e0-4879-bae0-443404589c30",
+    "brand_name": "GMC",
+    "brand_slug": "gmc",
+    "model_name": "Hummer EV"
   },
   {
     "id": "4eab910a-e699-42f3-af14-99bac36a2c04",
@@ -9240,6 +9730,13 @@
     "model_name": "Beat"
   },
   {
+    "id": "73a5f146-8617-5f40-af54-bf9018dc559a",
+    "brand_id": "aa48d030-4df7-4c31-8a78-87b6e9c00b0f",
+    "brand_name": "Honda",
+    "brand_slug": "honda",
+    "model_name": "City"
+  },
+  {
     "id": "5f3f8e4d-befb-4421-bacb-82ce0d812fe3",
     "brand_id": "aa48d030-4df7-4c31-8a78-87b6e9c00b0f",
     "brand_name": "Honda",
@@ -9380,6 +9877,13 @@
     "model_name": "Crosstour"
   },
   {
+    "id": "0e8025bd-fb30-55d6-b3e7-41d13761754b",
+    "brand_id": "aa48d030-4df7-4c31-8a78-87b6e9c00b0f",
+    "brand_name": "Honda",
+    "brand_slug": "honda",
+    "model_name": "CRX"
+  },
+  {
     "id": "7e8a7a7f-8c48-4d12-991e-f1c4006232de",
     "brand_id": "aa48d030-4df7-4c31-8a78-87b6e9c00b0f",
     "brand_name": "Honda",
@@ -9415,6 +9919,13 @@
     "model_name": "Fit EV"
   },
   {
+    "id": "786e1e3b-59ad-5a18-82f6-ab38205fb0cc",
+    "brand_id": "aa48d030-4df7-4c31-8a78-87b6e9c00b0f",
+    "brand_name": "Honda",
+    "brand_slug": "honda",
+    "model_name": "FR-V"
+  },
+  {
     "id": "971648e9-7630-4ec6-ad76-6646e0c888d6",
     "brand_id": "aa48d030-4df7-4c31-8a78-87b6e9c00b0f",
     "brand_name": "Honda",
@@ -9434,6 +9945,20 @@
     "brand_name": "Honda",
     "brand_slug": "honda",
     "model_name": "Insight"
+  },
+  {
+    "id": "6662aaa1-4259-56b9-ac5e-3a0fdb35fe53",
+    "brand_id": "aa48d030-4df7-4c31-8a78-87b6e9c00b0f",
+    "brand_name": "Honda",
+    "brand_slug": "honda",
+    "model_name": "Integra"
+  },
+  {
+    "id": "39f755c6-f9f2-58ce-86b5-d880030fa7cd",
+    "brand_id": "aa48d030-4df7-4c31-8a78-87b6e9c00b0f",
+    "brand_name": "Honda",
+    "brand_slug": "honda",
+    "model_name": "Jazz"
   },
   {
     "id": "137b934a-ebe3-4342-9fba-de36aee469e8",
@@ -9625,6 +10150,20 @@
     "model_name": "ZR-V"
   },
   {
+    "id": "6fb3ef3a-67ae-5446-85b4-2d6a12e4ba39",
+    "brand_id": "32e0deba-9a1a-5778-92f2-11113f7fb6bd",
+    "brand_name": "Hongqi",
+    "brand_slug": "hongqi",
+    "model_name": "E-HS9"
+  },
+  {
+    "id": "d2f68b40-ccff-56a0-93c1-6445e8993c3d",
+    "brand_id": "32e0deba-9a1a-5778-92f2-11113f7fb6bd",
+    "brand_name": "Hongqi",
+    "brand_slug": "hongqi",
+    "model_name": "H9"
+  },
+  {
     "id": "a84eb627-3225-4244-83da-8b14902174a2",
     "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
     "brand_name": "Hyundai",
@@ -9651,6 +10190,13 @@
     "brand_name": "Hyundai",
     "brand_slug": "hyundai",
     "model_name": "Accent Blue"
+  },
+  {
+    "id": "0006e74f-0c4d-5737-92c7-ed70d662221d",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "Accent Era"
   },
   {
     "id": "a13a377f-8be7-45b6-a614-1f9b40653fd4",
@@ -9686,6 +10232,13 @@
     "brand_name": "Hyundai",
     "brand_slug": "hyundai",
     "model_name": "Bayon"
+  },
+  {
+    "id": "bb21c3be-16c2-551f-9940-67c158675b59",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "Coupe"
   },
   {
     "id": "152fb17e-2994-4847-bf8f-73a3b024ae78",
@@ -9730,6 +10283,13 @@
     "model_name": "Excel 4 Doors"
   },
   {
+    "id": "916ed405-ec6f-50ae-bf9e-893489038375",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "Galloper"
+  },
+  {
     "id": "5e0ca510-041a-4c15-9c21-4f2f1ac81285",
     "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
     "brand_name": "Hyundai",
@@ -9758,39 +10318,25 @@
     "model_name": "Grandeur"
   },
   {
+    "id": "d863fe41-25ae-53cd-90b4-94afe267b9b9",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "H-100"
+  },
+  {
+    "id": "1dbad4ac-ddb7-554d-a4ae-0e7b3c31c082",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "H350"
+  },
+  {
     "id": "e1323e11-ec86-47e9-87a6-6d071193bf44",
     "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
     "brand_name": "Hyundai",
     "brand_slug": "hyundai",
     "model_name": "Hyindai Grandeur / Azera"
-  },
-  {
-    "id": "b75283bd-34ca-4519-bf22-afabb7e59a71",
-    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
-    "brand_name": "Hyundai",
-    "brand_slug": "hyundai",
-    "model_name": "Ioniq"
-  },
-  {
-    "id": "6e5804ff-4721-4d08-9b30-40765b00d166",
-    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
-    "brand_name": "Hyundai",
-    "brand_slug": "hyundai",
-    "model_name": "Ioniq 5"
-  },
-  {
-    "id": "c9fa2020-c9b8-4900-b0f5-29346e28edb6",
-    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
-    "brand_name": "Hyundai",
-    "brand_slug": "hyundai",
-    "model_name": "Ioniq 5 N"
-  },
-  {
-    "id": "8d7f07d1-2b03-46a8-9860-833e12f0e283",
-    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
-    "brand_name": "Hyundai",
-    "brand_slug": "hyundai",
-    "model_name": "Ioniq 6"
   },
   {
     "id": "48637cbe-e97e-402e-ab89-7fbe463eca0d",
@@ -9891,6 +10437,41 @@
     "model_name": "i800 / H-1"
   },
   {
+    "id": "8f62d1e0-5ce2-5949-b0e4-ea36a36869dd",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "Inster"
+  },
+  {
+    "id": "b75283bd-34ca-4519-bf22-afabb7e59a71",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "Ioniq"
+  },
+  {
+    "id": "6e5804ff-4721-4d08-9b30-40765b00d166",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "Ioniq 5"
+  },
+  {
+    "id": "c9fa2020-c9b8-4900-b0f5-29346e28edb6",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "Ioniq 5 N"
+  },
+  {
+    "id": "8d7f07d1-2b03-46a8-9860-833e12f0e283",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "Ioniq 6"
+  },
+  {
     "id": "99950ac7-ef65-4565-b03c-c552a1846d42",
     "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
     "brand_name": "Hyundai",
@@ -9898,11 +10479,25 @@
     "model_name": "ix20"
   },
   {
+    "id": "1a59426e-3d46-51b1-81e6-6d39b8a73bbc",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "ix35"
+  },
+  {
     "id": "37be981a-5c22-4306-a7b9-436672c7bb91",
     "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
     "brand_name": "Hyundai",
     "brand_slug": "hyundai",
     "model_name": "ix35 / Tucson"
+  },
+  {
+    "id": "9471a49e-1402-591e-a892-7f614ded2bba",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "ix55"
   },
   {
     "id": "54c2ce64-55cf-4aed-81c4-42e088a9cf65",
@@ -10038,6 +10633,13 @@
     "model_name": "Sonata Plug-in"
   },
   {
+    "id": "57caa646-5a8d-5612-adec-0925ad205bbf",
+    "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
+    "brand_name": "Hyundai",
+    "brand_slug": "hyundai",
+    "model_name": "Starex"
+  },
+  {
     "id": "8836489c-4d86-45ea-bb80-b0bb39e73cc6",
     "brand_id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
     "brand_name": "Hyundai",
@@ -10094,11 +10696,46 @@
     "model_name": "XG"
   },
   {
+    "id": "229714c5-a668-56e8-910d-ea06f09dcad8",
+    "brand_id": "8f4c3c5f-72db-5446-8396-ada7a53b5744",
+    "brand_name": "IKCO",
+    "brand_slug": "ikco",
+    "model_name": "Dena"
+  },
+  {
+    "id": "85b58567-ab9e-5513-a682-880ff9285106",
+    "brand_id": "8f4c3c5f-72db-5446-8396-ada7a53b5744",
+    "brand_name": "IKCO",
+    "brand_slug": "ikco",
+    "model_name": "Samand"
+  },
+  {
+    "id": "576c7e6d-ce8f-53ec-9cda-5f02774b865d",
+    "brand_id": "8f4c3c5f-72db-5446-8396-ada7a53b5744",
+    "brand_name": "IKCO",
+    "brand_slug": "ikco",
+    "model_name": "Soren"
+  },
+  {
+    "id": "e2f3e124-e66f-57c7-b93d-bf3078e1748f",
+    "brand_id": "22251f7a-9dc6-488a-826f-6f42384d7652",
+    "brand_name": "Infiniti",
+    "brand_slug": "infiniti",
+    "model_name": "EX"
+  },
+  {
     "id": "06353b09-5176-4716-b1bc-6a03e65223cf",
     "brand_id": "22251f7a-9dc6-488a-826f-6f42384d7652",
     "brand_name": "Infiniti",
     "brand_slug": "infiniti",
     "model_name": "EX35"
+  },
+  {
+    "id": "40c5aead-7727-58be-b562-3c9143ac1fcd",
+    "brand_id": "22251f7a-9dc6-488a-826f-6f42384d7652",
+    "brand_name": "Infiniti",
+    "brand_slug": "infiniti",
+    "model_name": "FX"
   },
   {
     "id": "cd436b1e-23e3-4554-851e-09f720b7d2c5",
@@ -10127,6 +10764,13 @@
     "brand_name": "Infiniti",
     "brand_slug": "infiniti",
     "model_name": "FX50"
+  },
+  {
+    "id": "87c5e552-8c0d-51e9-bc15-66fa605fe1ad",
+    "brand_id": "22251f7a-9dc6-488a-826f-6f42384d7652",
+    "brand_name": "Infiniti",
+    "brand_slug": "infiniti",
+    "model_name": "G"
   },
   {
     "id": "a7c8a302-0d33-48b1-bfd4-531ec8701505",
@@ -10185,6 +10829,13 @@
     "model_name": "JX35"
   },
   {
+    "id": "e9a3f388-a065-5f0d-af07-a7ce152256fd",
+    "brand_id": "22251f7a-9dc6-488a-826f-6f42384d7652",
+    "brand_name": "Infiniti",
+    "brand_slug": "infiniti",
+    "model_name": "M"
+  },
+  {
     "id": "0e0923d1-2cd5-4c1f-9862-e90dccee971a",
     "brand_id": "22251f7a-9dc6-488a-826f-6f42384d7652",
     "brand_name": "Infiniti",
@@ -10225,6 +10876,13 @@
     "brand_name": "Infiniti",
     "brand_slug": "infiniti",
     "model_name": "M56"
+  },
+  {
+    "id": "06579faa-ae31-5c8b-b403-0e553ee2ac79",
+    "brand_id": "22251f7a-9dc6-488a-826f-6f42384d7652",
+    "brand_name": "Infiniti",
+    "brand_slug": "infiniti",
+    "model_name": "Q30"
   },
   {
     "id": "7fe6e1b9-60e8-4392-9491-3eed4cdf27fe",
@@ -10472,20 +11130,6 @@
     "model_name": "Hombre"
   },
   {
-    "id": "1c5dbaa5-f1b2-4bfc-ae78-b7c55f4a9c82",
-    "brand_id": "2ec88c38-19ad-40c9-b755-1064fc15dccb",
-    "brand_name": "Isuzu",
-    "brand_slug": "isuzu",
-    "model_name": "I-Mark"
-  },
-  {
-    "id": "192cc2fd-bd33-431d-8d57-ce0bb69f946a",
-    "brand_id": "2ec88c38-19ad-40c9-b755-1064fc15dccb",
-    "brand_name": "Isuzu",
-    "brand_slug": "isuzu",
-    "model_name": "IMPULSE"
-  },
-  {
     "id": "70283635-2b81-41f8-ad63-dbabaa52b3bb",
     "brand_id": "2ec88c38-19ad-40c9-b755-1064fc15dccb",
     "brand_name": "Isuzu",
@@ -10512,6 +11156,20 @@
     "brand_name": "Isuzu",
     "brand_slug": "isuzu",
     "model_name": "i-370"
+  },
+  {
+    "id": "1c5dbaa5-f1b2-4bfc-ae78-b7c55f4a9c82",
+    "brand_id": "2ec88c38-19ad-40c9-b755-1064fc15dccb",
+    "brand_name": "Isuzu",
+    "brand_slug": "isuzu",
+    "model_name": "I-Mark"
+  },
+  {
+    "id": "192cc2fd-bd33-431d-8d57-ce0bb69f946a",
+    "brand_id": "2ec88c38-19ad-40c9-b755-1064fc15dccb",
+    "brand_name": "Isuzu",
+    "brand_slug": "isuzu",
+    "model_name": "IMPULSE"
   },
   {
     "id": "8b91f6de-e035-45a4-9e04-d2a532fb9207",
@@ -10680,6 +11338,20 @@
     "brand_name": "Jaecoo",
     "brand_slug": "jaecoo",
     "model_name": "8"
+  },
+  {
+    "id": "5fe81825-c8a0-56a0-b72b-71abd3436b0e",
+    "brand_id": "d360c807-c006-4ec3-b67c-01f84d8ee80f",
+    "brand_name": "Jaecoo",
+    "brand_slug": "jaecoo",
+    "model_name": "J7"
+  },
+  {
+    "id": "e76ec654-9ab0-5d74-911b-36acdc763637",
+    "brand_id": "d360c807-c006-4ec3-b67c-01f84d8ee80f",
+    "brand_name": "Jaecoo",
+    "brand_slug": "jaecoo",
+    "model_name": "Jaecoo 7"
   },
   {
     "id": "a4a42a01-1a03-422d-a03d-e52f5c709821",
@@ -10962,6 +11634,13 @@
     "model_name": "Grand Wagoneer"
   },
   {
+    "id": "8f9058eb-0fdf-5398-884b-630d4b4e8cb6",
+    "brand_id": "27372e3c-a927-4c14-88ea-a49f902af8fe",
+    "brand_name": "Jeep",
+    "brand_slug": "jeep",
+    "model_name": "Liberty"
+  },
+  {
     "id": "729e7c00-fc5c-46bc-a9f5-f2526b35143c",
     "brand_id": "27372e3c-a927-4c14-88ea-a49f902af8fe",
     "brand_name": "Jeep",
@@ -11186,11 +11865,32 @@
     "model_name": "Jest"
   },
   {
+    "id": "aec9525c-2aaa-535a-9567-659bf9228ce0",
+    "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
+    "brand_name": "Kia",
+    "brand_slug": "kia",
+    "model_name": "Besta"
+  },
+  {
+    "id": "c58a19d2-dcfc-50cf-8765-8e6460027dc8",
+    "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
+    "brand_name": "Kia",
+    "brand_slug": "kia",
+    "model_name": "Bongo"
+  },
+  {
     "id": "0a707d2a-4c6b-404e-86a1-6f93caa93797",
     "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
     "brand_name": "Kia",
     "brand_slug": "kia",
     "model_name": "Borrego"
+  },
+  {
+    "id": "bef10649-8fe0-5042-8172-6c117a621fc7",
+    "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
+    "brand_name": "Kia",
+    "brand_slug": "kia",
+    "model_name": "Capital"
   },
   {
     "id": "f34f998b-a5d6-4313-8e98-7313a5f7b108",
@@ -11249,6 +11949,13 @@
     "model_name": "Ceed"
   },
   {
+    "id": "95d5d586-b17b-5020-86f3-f697566deb29",
+    "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
+    "brand_name": "Kia",
+    "brand_slug": "kia",
+    "model_name": "Cerato"
+  },
+  {
     "id": "f68116f9-0d73-416b-ade1-dfb4479fb164",
     "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
     "brand_name": "Kia",
@@ -11289,6 +11996,13 @@
     "brand_name": "Kia",
     "brand_slug": "kia",
     "model_name": "EV6"
+  },
+  {
+    "id": "f67eb571-0f0d-54b1-adb2-126ee98aaa9d",
+    "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
+    "brand_name": "Kia",
+    "brand_slug": "kia",
+    "model_name": "EV9"
   },
   {
     "id": "f4ab0e09-5a93-414d-8e67-e8e9cc1d75d8",
@@ -11354,6 +12068,13 @@
     "model_name": "K900/K9"
   },
   {
+    "id": "d298f24d-6845-50dc-8a9f-4909736aa336",
+    "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
+    "brand_name": "Kia",
+    "brand_slug": "kia",
+    "model_name": "Magentis"
+  },
+  {
     "id": "de8030ab-68a6-4584-8d65-bf29a99e2e79",
     "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
     "brand_name": "Kia",
@@ -11366,6 +12087,13 @@
     "brand_name": "Kia",
     "brand_slug": "kia",
     "model_name": "Niro Plug-In"
+  },
+  {
+    "id": "ef20d66f-2da8-5896-a947-e481b93962c4",
+    "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
+    "brand_name": "Kia",
+    "brand_slug": "kia",
+    "model_name": "Opirus"
   },
   {
     "id": "68926404-0a7d-404f-9e6c-6e20636ec575",
@@ -11415,6 +12143,20 @@
     "brand_name": "Kia",
     "brand_slug": "kia",
     "model_name": "Picanto X-Line"
+  },
+  {
+    "id": "63cb53b5-d7c4-5eb0-90fd-4a2d221f5bdb",
+    "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
+    "brand_name": "Kia",
+    "brand_slug": "kia",
+    "model_name": "Pregio"
+  },
+  {
+    "id": "a8525823-85db-5d39-bc18-cb407ff70ce3",
+    "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
+    "brand_name": "Kia",
+    "brand_slug": "kia",
+    "model_name": "Pride"
   },
   {
     "id": "955ec672-454e-4b71-8f4e-72c7fb362080",
@@ -11471,6 +12213,13 @@
     "brand_name": "Kia",
     "brand_slug": "kia",
     "model_name": "Seltos"
+  },
+  {
+    "id": "2c5a7ed3-eae9-5f78-b199-c5406b232bba",
+    "brand_id": "dce6a5fa-ecd1-4ce7-b7d0-779d22e1fe23",
+    "brand_name": "Kia",
+    "brand_slug": "kia",
+    "model_name": "Sephia"
   },
   {
     "id": "ac1633d6-d416-42c3-b184-d22e605f4ae2",
@@ -11669,6 +12418,13 @@
     "model_name": "Niva Travel"
   },
   {
+    "id": "076e36b2-0548-5bcb-b1e5-b35650a42eaa",
+    "brand_id": "cba68a3e-c51f-4f53-837e-c00ec936ff1b",
+    "brand_name": "Lada",
+    "brand_slug": "lada",
+    "model_name": "Nova"
+  },
+  {
     "id": "fe48e40c-2f90-4c1d-8bc1-ad4591e9891e",
     "brand_id": "cba68a3e-c51f-4f53-837e-c00ec936ff1b",
     "brand_name": "Lada",
@@ -11709,6 +12465,13 @@
     "brand_name": "Lamborghini",
     "brand_slug": "lamborghini",
     "model_name": "400"
+  },
+  {
+    "id": "259493d5-f406-523b-8f32-3c660490d835",
+    "brand_id": "1f53f409-168e-48e2-acd5-1939b19fd368",
+    "brand_name": "Lamborghini",
+    "brand_slug": "lamborghini",
+    "model_name": "Aventador"
   },
   {
     "id": "8587c66f-bd48-436f-9b8b-e2fae2998b07",
@@ -11984,6 +12747,13 @@
     "model_name": "Huracan Tecnica"
   },
   {
+    "id": "d6969d36-4aaf-51f6-858f-aa8df43ebe0f",
+    "brand_id": "1f53f409-168e-48e2-acd5-1939b19fd368",
+    "brand_name": "Lamborghini",
+    "brand_slug": "lamborghini",
+    "model_name": "Huracán"
+  },
+  {
     "id": "a47fbcb2-b72b-42d3-8d06-ec221caa3bcf",
     "brand_id": "1f53f409-168e-48e2-acd5-1939b19fd368",
     "brand_name": "Lamborghini",
@@ -12180,6 +12950,20 @@
     "model_name": "Lybra"
   },
   {
+    "id": "4a0de30e-7901-5d72-9632-f4b2521d8b42",
+    "brand_id": "fff63295-1bdc-4063-b829-87760655fd6c",
+    "brand_name": "Lancia",
+    "brand_slug": "lancia",
+    "model_name": "Musa"
+  },
+  {
+    "id": "7fbdedee-8081-5c10-be7d-5bed217e7979",
+    "brand_id": "fff63295-1bdc-4063-b829-87760655fd6c",
+    "brand_name": "Lancia",
+    "brand_slug": "lancia",
+    "model_name": "Phedra"
+  },
+  {
     "id": "b87cbc18-a80f-4bd6-917c-1daec4eb1002",
     "brand_id": "fff63295-1bdc-4063-b829-87760655fd6c",
     "brand_name": "Lancia",
@@ -12220,6 +13004,13 @@
     "brand_name": "Land Rover",
     "brand_slug": "land-rover",
     "model_name": "2023LAND ROVER Range Rover Sport"
+  },
+  {
+    "id": "3be62113-7a22-5f72-b92d-4f7389b6f5e5",
+    "brand_id": "a4705cc9-3a13-40e8-9248-6659c49face4",
+    "brand_name": "Land Rover",
+    "brand_slug": "land-rover",
+    "model_name": "Defender"
   },
   {
     "id": "f729ba72-e515-43d1-8eda-84decdbe7ff9",
@@ -12425,6 +13216,13 @@
     "model_name": "SV 2018"
   },
   {
+    "id": "8b8b2aeb-62b1-5258-be56-66eab13a3256",
+    "brand_id": "118c4b7c-1d07-4f1d-8add-b882b0cf05a5",
+    "brand_name": "Leapmotor",
+    "brand_slug": "leapmotor",
+    "model_name": "B10"
+  },
+  {
     "id": "3e101dcb-db75-46e8-900a-22e3a809c3c1",
     "brand_id": "118c4b7c-1d07-4f1d-8add-b882b0cf05a5",
     "brand_name": "Leapmotor",
@@ -12612,6 +13410,13 @@
     "brand_name": "Lexus",
     "brand_slug": "lexus",
     "model_name": "RX"
+  },
+  {
+    "id": "a8a9bbbb-bfdb-5939-91b6-5615aade007e",
+    "brand_id": "6e3a294c-f472-49d6-80a9-3a8659a6678f",
+    "brand_name": "Lexus",
+    "brand_slug": "lexus",
+    "model_name": "RZ"
   },
   {
     "id": "dd4894cd-8299-44ef-8058-9377b8d2af6b",
@@ -13146,6 +13951,13 @@
     "model_name": "Merak"
   },
   {
+    "id": "36b864fb-1991-5d15-9ecc-d8a1c476917a",
+    "brand_id": "a967427c-8849-4429-8b56-a0edb3cfb1af",
+    "brand_name": "Maserati",
+    "brand_slug": "maserati",
+    "model_name": "Quattroporte"
+  },
+  {
     "id": "570b38f6-f573-405d-8e58-7fb88f5c4062",
     "brand_id": "a967427c-8849-4429-8b56-a0edb3cfb1af",
     "brand_name": "Maserati",
@@ -13545,6 +14357,34 @@
     "model_name": "Flairwagon"
   },
   {
+    "id": "7b760489-7adf-5bc2-85d7-2c66976caa68",
+    "brand_id": "254cd861-fa2d-4bd0-a41b-c20f49e2d825",
+    "brand_name": "Mazda",
+    "brand_slug": "mazda",
+    "model_name": "Lantis"
+  },
+  {
+    "id": "7f47bc8f-5cbf-54d2-9830-9c029850ea34",
+    "brand_id": "254cd861-fa2d-4bd0-a41b-c20f49e2d825",
+    "brand_name": "Mazda",
+    "brand_slug": "mazda",
+    "model_name": "Mazda 3"
+  },
+  {
+    "id": "39f6ed21-4f2b-55c8-9de5-7d9ddf28f448",
+    "brand_id": "254cd861-fa2d-4bd0-a41b-c20f49e2d825",
+    "brand_name": "Mazda",
+    "brand_slug": "mazda",
+    "model_name": "Mazda 6"
+  },
+  {
+    "id": "9793f61f-e947-5a10-a548-214a26f2838d",
+    "brand_id": "254cd861-fa2d-4bd0-a41b-c20f49e2d825",
+    "brand_name": "Mazda",
+    "brand_slug": "mazda",
+    "model_name": "MPV"
+  },
+  {
     "id": "056fece5-5aa3-446c-b0fd-ae5500477500",
     "brand_id": "254cd861-fa2d-4bd0-a41b-c20f49e2d825",
     "brand_name": "Mazda",
@@ -13564,6 +14404,13 @@
     "brand_name": "Mazda",
     "brand_slug": "mazda",
     "model_name": "MX-30 e-Skyactiv R-EV"
+  },
+  {
+    "id": "1c5a374f-1033-565c-87a4-c25f73b0f28a",
+    "brand_id": "254cd861-fa2d-4bd0-a41b-c20f49e2d825",
+    "brand_name": "Mazda",
+    "brand_slug": "mazda",
+    "model_name": "MX-5"
   },
   {
     "id": "b42be2e4-d111-4966-aca8-6cb522d4be45",
@@ -13634,6 +14481,13 @@
     "brand_name": "Mazda",
     "brand_slug": "mazda",
     "model_name": "Verisa"
+  },
+  {
+    "id": "9c9f0393-edfe-5420-a996-7ed282842966",
+    "brand_id": "254cd861-fa2d-4bd0-a41b-c20f49e2d825",
+    "brand_name": "Mazda",
+    "brand_slug": "mazda",
+    "model_name": "Xedos"
   },
   {
     "id": "e5a05c94-dba5-4cb9-9432-d7f075eea11b",
@@ -14033,6 +14887,13 @@
     "brand_name": "Mercedes-Benz",
     "brand_slug": "mercedes-benz",
     "model_name": "A45 AMG"
+  },
+  {
+    "id": "b787f919-94c1-5a7b-a364-7360e8729036",
+    "brand_id": "e9701643-becb-43a8-a35e-e99b030f47d9",
+    "brand_name": "Mercedes-Benz",
+    "brand_slug": "mercedes-benz",
+    "model_name": "AMG GT"
   },
   {
     "id": "d22eb92f-7bfc-412c-90cf-aba2633a3bf1",
@@ -14574,6 +15435,13 @@
     "model_name": "EQB"
   },
   {
+    "id": "e46d5a84-0f52-5f8c-8dfe-138dd9537c62",
+    "brand_id": "e9701643-becb-43a8-a35e-e99b030f47d9",
+    "brand_name": "Mercedes-Benz",
+    "brand_slug": "mercedes-benz",
+    "model_name": "EQC"
+  },
+  {
     "id": "df2b57b0-b968-437c-8689-e4c2abe4af3a",
     "brand_id": "e9701643-becb-43a8-a35e-e99b030f47d9",
     "brand_name": "Mercedes-Benz",
@@ -14845,6 +15713,13 @@
     "brand_name": "Mercedes-Benz",
     "brand_slug": "mercedes-benz",
     "model_name": "Meredes-Benz SLS AMG"
+  },
+  {
+    "id": "2e3ddb27-7bb5-57c6-8705-ba0badc38bf2",
+    "brand_id": "e9701643-becb-43a8-a35e-e99b030f47d9",
+    "brand_name": "Mercedes-Benz",
+    "brand_slug": "mercedes-benz",
+    "model_name": "ML"
   },
   {
     "id": "909d6aa0-e7a0-4f96-a09f-2442622f5836",
@@ -15680,6 +16555,13 @@
     "model_name": "VIANO"
   },
   {
+    "id": "0c5b22dd-6c79-58b3-8925-dc7d2b3e3fc4",
+    "brand_id": "e9701643-becb-43a8-a35e-e99b030f47d9",
+    "brand_name": "Mercedes-Benz",
+    "brand_slug": "mercedes-benz",
+    "model_name": "Vito"
+  },
+  {
     "id": "31d5457e-b85f-4fba-a745-2f7dd5647a6b",
     "brand_id": "e9701643-becb-43a8-a35e-e99b030f47d9",
     "brand_name": "Mercedes-Benz",
@@ -15699,6 +16581,13 @@
     "brand_name": "Mercedes-Benz",
     "brand_slug": "mercedes-benz",
     "model_name": "X-Class"
+  },
+  {
+    "id": "3febc7cf-9919-5f1f-bd89-f56dddba4732",
+    "brand_id": "e9701643-becb-43a8-a35e-e99b030f47d9",
+    "brand_name": "Mercedes-Benz",
+    "brand_slug": "mercedes-benz",
+    "model_name": "X-Serisi"
   },
   {
     "id": "5ae111c5-1e11-40e6-ab79-d602065aa08a",
@@ -15869,6 +16758,13 @@
     "model_name": "MG5"
   },
   {
+    "id": "a1820328-48e3-5891-8807-d51cf5ac9100",
+    "brand_id": "f3099b2f-ea92-4e98-bf99-5540dfc9636e",
+    "brand_name": "MG",
+    "brand_slug": "mg",
+    "model_name": "MG7"
+  },
+  {
     "id": "9af3ba99-6383-4dff-8aa2-743021893c3c",
     "brand_id": "f3099b2f-ea92-4e98-bf99-5540dfc9636e",
     "brand_name": "MG",
@@ -15967,11 +16863,25 @@
     "model_name": "Hatch"
   },
   {
+    "id": "7d5d5de8-0728-5e96-9890-70b9ac64bc08",
+    "brand_id": "f04593ac-158b-4457-a8dd-fb148a337a56",
+    "brand_name": "MINI",
+    "brand_slug": "mini",
+    "model_name": "John Cooper Works"
+  },
+  {
     "id": "51916e16-8737-4d1e-9260-cfd866e18c62",
     "brand_id": "f04593ac-158b-4457-a8dd-fb148a337a56",
     "brand_name": "MINI",
     "brand_slug": "mini",
     "model_name": "John Cooper Works GP"
+  },
+  {
+    "id": "76d70d3e-5af4-5277-a3fe-8c3e27638c44",
+    "brand_id": "f04593ac-158b-4457-a8dd-fb148a337a56",
+    "brand_name": "MINI",
+    "brand_slug": "mini",
+    "model_name": "One"
   },
   {
     "id": "deb1be99-a8de-46d6-843f-a287de37060d",
@@ -15986,6 +16896,13 @@
     "brand_name": "Mitsubishi",
     "brand_slug": "mitsubishi",
     "model_name": "3000"
+  },
+  {
+    "id": "5ef7f95c-3301-54bb-824f-f664dfd77df0",
+    "brand_id": "11f05e14-805f-4fb6-bdc2-0abb850d6c64",
+    "brand_name": "Mitsubishi",
+    "brand_slug": "mitsubishi",
+    "model_name": "3000GT"
   },
   {
     "id": "6a87e1c0-1584-49a3-bd22-1f74307d37cc",
@@ -16119,6 +17036,13 @@
     "brand_name": "Mitsubishi",
     "brand_slug": "mitsubishi",
     "model_name": "L 200/Triton Single Cab"
+  },
+  {
+    "id": "b6cfe53d-3da3-5578-bd10-8fe866ad8cda",
+    "brand_id": "11f05e14-805f-4fb6-bdc2-0abb850d6c64",
+    "brand_name": "Mitsubishi",
+    "brand_slug": "mitsubishi",
+    "model_name": "L200"
   },
   {
     "id": "6949d6a9-bff6-4354-943f-ac7d58de00c1",
@@ -16394,6 +17318,13 @@
     "model_name": "Space Star"
   },
   {
+    "id": "dcecc2cd-089d-5d1f-8667-a7f5bd4f980c",
+    "brand_id": "11f05e14-805f-4fb6-bdc2-0abb850d6c64",
+    "brand_name": "Mitsubishi",
+    "brand_slug": "mitsubishi",
+    "model_name": "Space Wagon"
+  },
+  {
     "id": "801eb4d8-e2ed-4cf6-8331-5c2f15aac889",
     "brand_id": "11f05e14-805f-4fb6-bdc2-0abb850d6c64",
     "brand_name": "Mitsubishi",
@@ -16604,6 +17535,13 @@
     "model_name": "370z Nismo"
   },
   {
+    "id": "9a6188d2-5773-549c-a29d-f402f763c435",
+    "brand_id": "aaad8d25-e77a-4fea-8daa-672ebedb664a",
+    "brand_name": "Nissan",
+    "brand_slug": "nissan",
+    "model_name": "Almera"
+  },
+  {
     "id": "63ae8b23-2d82-4088-aaf2-6a44945a273a",
     "brand_id": "aaad8d25-e77a-4fea-8daa-672ebedb664a",
     "brand_name": "Nissan",
@@ -16716,6 +17654,13 @@
     "model_name": "Grand Livina"
   },
   {
+    "id": "cdb9b066-5d1e-51d0-9e7e-af1dd192b186",
+    "brand_id": "aaad8d25-e77a-4fea-8daa-672ebedb664a",
+    "brand_name": "Nissan",
+    "brand_slug": "nissan",
+    "model_name": "GT-R"
+  },
+  {
     "id": "8694078f-7508-4a4a-8390-865400a9e575",
     "brand_id": "aaad8d25-e77a-4fea-8daa-672ebedb664a",
     "brand_name": "Nissan",
@@ -16777,6 +17722,13 @@
     "brand_name": "Nissan",
     "brand_slug": "nissan",
     "model_name": "Murano"
+  },
+  {
+    "id": "ef88bcc5-f774-56eb-b39c-1f8cfe9f8e4a",
+    "brand_id": "aaad8d25-e77a-4fea-8daa-672ebedb664a",
+    "brand_name": "Nissan",
+    "brand_slug": "nissan",
+    "model_name": "Navara"
   },
   {
     "id": "d3dccf78-23dd-4b55-baf2-85bc29973431",
@@ -16868,6 +17820,13 @@
     "brand_name": "Nissan",
     "brand_slug": "nissan",
     "model_name": "Patrol SWB"
+  },
+  {
+    "id": "120fc14e-6f88-5d65-afdd-57e1a5ea3ba8",
+    "brand_id": "aaad8d25-e77a-4fea-8daa-672ebedb664a",
+    "brand_name": "Nissan",
+    "brand_slug": "nissan",
+    "model_name": "Pick Up"
   },
   {
     "id": "36976330-9438-4269-a5a3-760a5d89ba67",
@@ -17101,6 +18060,13 @@
     "model_name": "Titan XD Crew Cab"
   },
   {
+    "id": "82d5eec7-2b9d-5853-b194-00605d4d145d",
+    "brand_id": "aaad8d25-e77a-4fea-8daa-672ebedb664a",
+    "brand_name": "Nissan",
+    "brand_slug": "nissan",
+    "model_name": "Townstar"
+  },
+  {
     "id": "0727940b-2893-4f94-90ee-55ec18af2a0f",
     "brand_id": "aaad8d25-e77a-4fea-8daa-672ebedb664a",
     "brand_name": "Nissan",
@@ -17318,6 +18284,27 @@
     "model_name": "9"
   },
   {
+    "id": "1fde7a40-a5e0-5686-aa25-2e30c4fc6748",
+    "brand_id": "5eb653b9-9b96-4f82-867f-a627e0ee18ce",
+    "brand_name": "Omoda",
+    "brand_slug": "omoda",
+    "model_name": "Omoda 5"
+  },
+  {
+    "id": "7d77cb2f-2640-5926-a7f5-6edf5b49ee32",
+    "brand_id": "5eb653b9-9b96-4f82-867f-a627e0ee18ce",
+    "brand_name": "Omoda",
+    "brand_slug": "omoda",
+    "model_name": "Omoda 5 Pro"
+  },
+  {
+    "id": "0466047c-5d3a-551c-8025-d01d50c9511e",
+    "brand_id": "5eb653b9-9b96-4f82-867f-a627e0ee18ce",
+    "brand_name": "Omoda",
+    "brand_slug": "omoda",
+    "model_name": "Omoda E5"
+  },
+  {
     "id": "2410c1e7-e309-4540-b4c5-4d26911d32c3",
     "brand_id": "5db88def-fc82-45f5-a834-830420bebe13",
     "brand_name": "Opel",
@@ -17358,6 +18345,13 @@
     "brand_name": "Opel",
     "brand_slug": "opel",
     "model_name": "Antara"
+  },
+  {
+    "id": "43e6afa4-d0c8-5ff6-b2eb-8c7954ce65ca",
+    "brand_id": "5db88def-fc82-45f5-a834-830420bebe13",
+    "brand_name": "Opel",
+    "brand_slug": "opel",
+    "model_name": "Ascona"
   },
   {
     "id": "6a0acf0b-8d48-4e40-aa2a-beae1d8d52bb",
@@ -17451,6 +18445,13 @@
     "model_name": "Calibra"
   },
   {
+    "id": "0dbb305b-2347-5f67-b5d5-0a3be3e2c6fa",
+    "brand_id": "5db88def-fc82-45f5-a834-830420bebe13",
+    "brand_name": "Opel",
+    "brand_slug": "opel",
+    "model_name": "Cascada"
+  },
+  {
     "id": "82b8d4ca-7a21-4de6-b414-e9ab92e39513",
     "brand_id": "5db88def-fc82-45f5-a834-830420bebe13",
     "brand_name": "Opel",
@@ -17540,6 +18541,13 @@
     "brand_name": "Opel",
     "brand_slug": "opel",
     "model_name": "Grandland X"
+  },
+  {
+    "id": "a8e3d572-b12e-535b-a06d-3d8b089be499",
+    "brand_id": "5db88def-fc82-45f5-a834-830420bebe13",
+    "brand_name": "Opel",
+    "brand_slug": "opel",
+    "model_name": "GT"
   },
   {
     "id": "d9914e6a-3ba9-440d-a4c8-1d66b1826f5a",
@@ -18130,6 +19138,13 @@
     "model_name": "308 SW"
   },
   {
+    "id": "50c528a5-f92b-5a2d-9ed6-1c774255529c",
+    "brand_id": "13ff8898-4063-4aad-9375-d88187d61119",
+    "brand_name": "Peugeot",
+    "brand_slug": "peugeot",
+    "model_name": "309"
+  },
+  {
     "id": "20441ea0-2bdb-4fde-b71d-a2ca24c63338",
     "brand_id": "13ff8898-4063-4aad-9375-d88187d61119",
     "brand_name": "Peugeot",
@@ -18284,6 +19299,13 @@
     "model_name": "807"
   },
   {
+    "id": "2ba0413b-6aa6-597a-88d9-17e8028e2c60",
+    "brand_id": "13ff8898-4063-4aad-9375-d88187d61119",
+    "brand_name": "Peugeot",
+    "brand_slug": "peugeot",
+    "model_name": "Bipper"
+  },
+  {
     "id": "9a802b5e-b4bd-40c3-a054-176b8555e349",
     "brand_id": "13ff8898-4063-4aad-9375-d88187d61119",
     "brand_name": "Peugeot",
@@ -18296,6 +19318,13 @@
     "brand_name": "Peugeot",
     "brand_slug": "peugeot",
     "model_name": "e-208"
+  },
+  {
+    "id": "c3bd4bfe-fe30-5ea4-b1b8-4438025f6d00",
+    "brand_id": "13ff8898-4063-4aad-9375-d88187d61119",
+    "brand_name": "Peugeot",
+    "brand_slug": "peugeot",
+    "model_name": "Expert"
   },
   {
     "id": "f8361208-f87a-49d5-ba38-b408b0da1d6f",
@@ -18856,6 +19885,13 @@
     "brand_name": "Porsche",
     "brand_slug": "porsche",
     "model_name": "718 Boxster T"
+  },
+  {
+    "id": "56aa9f41-137c-5bc1-9d1a-ba102a99b32d",
+    "brand_id": "cab994d8-42be-47ea-87bc-121fadc5d4f1",
+    "brand_name": "Porsche",
+    "brand_slug": "porsche",
+    "model_name": "718 Cayman"
   },
   {
     "id": "2b75787c-16d2-4de0-94e7-f5dddb325f0e",
@@ -19656,6 +20692,13 @@
     "model_name": "Iriz"
   },
   {
+    "id": "937dc925-ff88-5001-96a7-ad3c42c7f5aa",
+    "brand_id": "e9174447-a9c4-4d9a-adea-4559a88c9134",
+    "brand_name": "Proton",
+    "brand_slug": "proton",
+    "model_name": "Perdana"
+  },
+  {
     "id": "175f9a9f-78f5-48d8-9f27-a11b85a3c8df",
     "brand_id": "e9174447-a9c4-4d9a-adea-4559a88c9134",
     "brand_name": "Proton",
@@ -19682,6 +20725,13 @@
     "brand_name": "Proton",
     "brand_slug": "proton",
     "model_name": "Waja"
+  },
+  {
+    "id": "264bd8a1-0d16-52aa-810f-1d39c08902ff",
+    "brand_id": "e9174447-a9c4-4d9a-adea-4559a88c9134",
+    "brand_name": "Proton",
+    "brand_slug": "proton",
+    "model_name": "Wira"
   },
   {
     "id": "135715f5-c5df-4e59-9f0a-4f4ee2a192da",
@@ -19929,6 +20979,13 @@
     "model_name": "Avantime"
   },
   {
+    "id": "983f1333-c96a-5c6d-a41b-1c2c0f03e2a9",
+    "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
+    "brand_name": "Renault",
+    "brand_slug": "renault",
+    "model_name": "Boreal"
+  },
+  {
     "id": "54b5bfaa-a5b5-446d-9ade-cfd0000e342b",
     "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
     "brand_name": "Renault",
@@ -19976,6 +21033,13 @@
     "brand_name": "Renault",
     "brand_slug": "renault",
     "model_name": "Clio Williams"
+  },
+  {
+    "id": "3c7ee08f-a3f2-584b-8003-37d1b9a97434",
+    "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
+    "brand_name": "Renault",
+    "brand_slug": "renault",
+    "model_name": "Duster"
   },
   {
     "id": "f040b435-b719-43fb-9cc4-004304241788",
@@ -20153,13 +21217,6 @@
     "model_name": "Megane E-Tech"
   },
   {
-    "id": "ef3c57f1-632c-44da-a6d9-c1d1ae4808e5",
-    "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
-    "brand_name": "Renault",
-    "brand_slug": "renault",
-    "model_name": "Mégane Hatch"
-  },
-  {
     "id": "9f3de700-efa7-4806-93b3-7fdfb1396281",
     "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
     "brand_name": "Renault",
@@ -20195,6 +21252,13 @@
     "model_name": "Modus"
   },
   {
+    "id": "ef3c57f1-632c-44da-a6d9-c1d1ae4808e5",
+    "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
+    "brand_name": "Renault",
+    "brand_slug": "renault",
+    "model_name": "Mégane Hatch"
+  },
+  {
     "id": "d0438633-71d8-4d34-bd21-a8e9016a4559",
     "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
     "brand_name": "Renault",
@@ -20214,6 +21278,41 @@
     "brand_name": "Renault",
     "brand_slug": "renault",
     "model_name": "R 9 Broadway"
+  },
+  {
+    "id": "88104aef-f408-596f-b4e3-1133e00f44b6",
+    "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
+    "brand_name": "Renault",
+    "brand_slug": "renault",
+    "model_name": "R11"
+  },
+  {
+    "id": "18a1a273-d8e2-5fa0-8816-999f4c9e2d80",
+    "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
+    "brand_name": "Renault",
+    "brand_slug": "renault",
+    "model_name": "R19 Europa"
+  },
+  {
+    "id": "a25df9e2-2f94-5327-b944-35ebea21f6c3",
+    "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
+    "brand_name": "Renault",
+    "brand_slug": "renault",
+    "model_name": "R21"
+  },
+  {
+    "id": "e364064c-a5b3-513e-a933-46303e7a9b0a",
+    "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
+    "brand_name": "Renault",
+    "brand_slug": "renault",
+    "model_name": "R25"
+  },
+  {
+    "id": "d6066d77-1104-5e68-86d2-65e1b9d5a354",
+    "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
+    "brand_name": "Renault",
+    "brand_slug": "renault",
+    "model_name": "R5 E-Tech"
   },
   {
     "id": "2bb9d913-8627-45a8-b694-60b2f6c71d8a",
@@ -20284,6 +21383,13 @@
     "brand_name": "Renault",
     "brand_slug": "renault",
     "model_name": "Symbioz"
+  },
+  {
+    "id": "4ac81a5d-204b-547a-a57b-a2bedebc86ee",
+    "brand_id": "2e8974f8-fdae-43c6-987d-c9a12d26a428",
+    "brand_name": "Renault",
+    "brand_slug": "renault",
+    "model_name": "Symbol"
   },
   {
     "id": "195b8226-7032-49d6-a503-f12b565557ce",
@@ -21021,6 +22127,20 @@
     "model_name": "Toledo"
   },
   {
+    "id": "d251bbb7-ee6b-541b-815d-6b3ce1449c56",
+    "brand_id": "e1ee7b83-601d-5bd7-8a4c-c9225a166f76",
+    "brand_name": "Seres",
+    "brand_slug": "seres",
+    "model_name": "3"
+  },
+  {
+    "id": "38dec67e-6291-561a-a5b0-c9ab37670f61",
+    "brand_id": "e1ee7b83-601d-5bd7-8a4c-c9225a166f76",
+    "brand_name": "Seres",
+    "brand_slug": "seres",
+    "model_name": "5"
+  },
+  {
     "id": "dd499a48-2b36-4dd6-8e48-0c8e692e29d4",
     "brand_id": "ca6a2c8f-702a-440f-8390-0d1b2ddb3b9c",
     "brand_name": "Skoda",
@@ -21054,6 +22174,20 @@
     "brand_name": "Skoda",
     "brand_slug": "skoda",
     "model_name": "Citigo-e IV"
+  },
+  {
+    "id": "5f9b1e4c-7291-5fbf-a9d2-57684d0aa9de",
+    "brand_id": "ca6a2c8f-702a-440f-8390-0d1b2ddb3b9c",
+    "brand_name": "Skoda",
+    "brand_slug": "skoda",
+    "model_name": "Elroq"
+  },
+  {
+    "id": "29d65c39-7d7b-5dc1-a8af-3d33f82ee3d6",
+    "brand_id": "ca6a2c8f-702a-440f-8390-0d1b2ddb3b9c",
+    "brand_name": "Skoda",
+    "brand_slug": "skoda",
+    "model_name": "Enyaq"
   },
   {
     "id": "4523ddc9-b035-4a5d-a057-27f42bba4349",
@@ -21096,6 +22230,13 @@
     "brand_name": "Skoda",
     "brand_slug": "skoda",
     "model_name": "Felicia"
+  },
+  {
+    "id": "201b37b9-bd31-56db-a939-a2b7a9565a7c",
+    "brand_id": "ca6a2c8f-702a-440f-8390-0d1b2ddb3b9c",
+    "brand_name": "Skoda",
+    "brand_slug": "skoda",
+    "model_name": "Forman"
   },
   {
     "id": "32c8f5c8-b3a3-44d6-b2ef-31a1f7c20261",
@@ -21259,6 +22400,13 @@
     "model_name": "Yeti"
   },
   {
+    "id": "56fa902c-0441-5487-9d8f-a0104cb1c7ba",
+    "brand_id": "50edfc0e-bd1c-53b3-be2f-fc71629e6312",
+    "brand_name": "Skywell",
+    "brand_slug": "skywell",
+    "model_name": "ET5"
+  },
+  {
     "id": "f08e9984-cef1-4768-88a2-728b9e409b28",
     "brand_id": "4edfcaf9-1a3e-448e-bfe5-ecf4c3d4ca2c",
     "brand_name": "Smart",
@@ -21320,6 +22468,13 @@
     "brand_name": "SsangYong",
     "brand_slug": "ssangyong",
     "model_name": "Actyon"
+  },
+  {
+    "id": "d73ec405-906f-5781-b7e8-4b9f48cd82b9",
+    "brand_id": "5843868b-e4de-460f-ab9f-bc302d68e3c0",
+    "brand_name": "SsangYong",
+    "brand_slug": "ssangyong",
+    "model_name": "Actyon Sports"
   },
   {
     "id": "360ed0b0-d9c4-4575-bf0f-e0a4e03e64b9",
@@ -21658,6 +22813,13 @@
     "model_name": "Baleno"
   },
   {
+    "id": "6867c081-4386-5bfb-817d-241a165fc37a",
+    "brand_id": "13969807-d937-4573-ad59-d1796d1de016",
+    "brand_name": "Suzuki",
+    "brand_slug": "suzuki",
+    "model_name": "Carry"
+  },
+  {
     "id": "2d0cc4e0-f122-4c8a-be0a-0c26c81b8cfc",
     "brand_id": "13969807-d937-4573-ad59-d1796d1de016",
     "brand_name": "Suzuki",
@@ -21756,6 +22918,13 @@
     "model_name": "Kizashi"
   },
   {
+    "id": "841dfb47-4f7f-524c-a6d2-5fa5d3446aca",
+    "brand_id": "13969807-d937-4573-ad59-d1796d1de016",
+    "brand_name": "Suzuki",
+    "brand_slug": "suzuki",
+    "model_name": "Liana"
+  },
+  {
     "id": "7c416b69-de0b-4b37-9520-48857b3d8b82",
     "brand_id": "13969807-d937-4573-ad59-d1796d1de016",
     "brand_name": "Suzuki",
@@ -21768,6 +22937,13 @@
     "brand_name": "Suzuki",
     "brand_slug": "suzuki",
     "model_name": "S-Cross"
+  },
+  {
+    "id": "19786744-7431-5174-b525-741b42032bb6",
+    "brand_id": "13969807-d937-4573-ad59-d1796d1de016",
+    "brand_name": "Suzuki",
+    "brand_slug": "suzuki",
+    "model_name": "SJ"
   },
   {
     "id": "ecc8a57b-f32d-4825-93cc-abb937b97765",
@@ -21861,6 +23037,20 @@
     "model_name": "XL7"
   },
   {
+    "id": "e485a3b1-86f2-5697-8057-3a66f0a87aa3",
+    "brand_id": "15dff738-52e6-5baa-8172-f63d63cba080",
+    "brand_name": "SWM",
+    "brand_slug": "swm",
+    "model_name": "G01"
+  },
+  {
+    "id": "051acf06-e16a-5b1d-b5f8-8dfdf2907eb3",
+    "brand_id": "15dff738-52e6-5baa-8172-f63d63cba080",
+    "brand_name": "SWM",
+    "brand_slug": "swm",
+    "model_name": "G05"
+  },
+  {
     "id": "8a6ba6a3-5b08-4fab-afe8-9d323e2a1051",
     "brand_id": "b67e0b8b-3777-45b6-9d9b-30553c5c354f",
     "brand_name": "Tata",
@@ -21880,6 +23070,13 @@
     "brand_name": "Tata",
     "brand_slug": "tata",
     "model_name": "Indigo"
+  },
+  {
+    "id": "ccf83e4a-9f3a-5856-bf7d-4d8db74807b5",
+    "brand_id": "b67e0b8b-3777-45b6-9d9b-30553c5c354f",
+    "brand_name": "Tata",
+    "brand_slug": "tata",
+    "model_name": "Manza"
   },
   {
     "id": "418de7d2-2fb7-44ed-a93f-4ce12697b77d",
@@ -21908,6 +23105,13 @@
     "brand_name": "Tata",
     "brand_slug": "tata",
     "model_name": "Telcoline"
+  },
+  {
+    "id": "39ed9707-b20e-5b48-b1c2-2fdaac77fc07",
+    "brand_id": "b67e0b8b-3777-45b6-9d9b-30553c5c354f",
+    "brand_name": "Tata",
+    "brand_slug": "tata",
+    "model_name": "Vista"
   },
   {
     "id": "10bbb0ae-024d-4c0c-9ac7-22665130b9c4",
@@ -22085,18 +23289,18 @@
     "model_name": "Aqua"
   },
   {
-    "id": "a97f7dfe-74b0-46ed-9ba4-382e7b8add5c",
-    "brand_id": "c6d60903-3c67-47a7-a5b3-b9404c2b17f9",
-    "brand_name": "Toyota",
-    "brand_slug": "toyota",
-    "model_name": "AURIS"
-  },
-  {
     "id": "18a057b1-8789-4840-b430-1876755afd59",
     "brand_id": "c6d60903-3c67-47a7-a5b3-b9404c2b17f9",
     "brand_name": "Toyota",
     "brand_slug": "toyota",
     "model_name": "Aurion"
+  },
+  {
+    "id": "a97f7dfe-74b0-46ed-9ba4-382e7b8add5c",
+    "brand_id": "c6d60903-3c67-47a7-a5b3-b9404c2b17f9",
+    "brand_name": "Toyota",
+    "brand_slug": "toyota",
+    "model_name": "AURIS"
   },
   {
     "id": "dbc4836c-10fd-48b8-abaa-cb6c8da1e803",
@@ -22211,6 +23415,13 @@
     "model_name": "Camry XV50"
   },
   {
+    "id": "9824a503-7299-5eda-9b61-534bd44aefec",
+    "brand_id": "c6d60903-3c67-47a7-a5b3-b9404c2b17f9",
+    "brand_name": "Toyota",
+    "brand_slug": "toyota",
+    "model_name": "Carina"
+  },
+  {
     "id": "f292ae2f-ad58-49cf-abee-e671bae473bf",
     "brand_id": "c6d60903-3c67-47a7-a5b3-b9404c2b17f9",
     "brand_name": "Toyota",
@@ -22279,6 +23490,13 @@
     "brand_name": "Toyota",
     "brand_slug": "toyota",
     "model_name": "Corolla Wagon"
+  },
+  {
+    "id": "eb976845-bbc7-54ea-980e-fa7c297feea3",
+    "brand_id": "c6d60903-3c67-47a7-a5b3-b9404c2b17f9",
+    "brand_name": "Toyota",
+    "brand_slug": "toyota",
+    "model_name": "Corona"
   },
   {
     "id": "e4d07bf1-b211-4075-a4f3-2aab8683a6aa",
@@ -22379,11 +23597,25 @@
     "model_name": "Harrier"
   },
   {
+    "id": "231b8c91-96d3-5439-9816-918fc3ae934b",
+    "brand_id": "c6d60903-3c67-47a7-a5b3-b9404c2b17f9",
+    "brand_name": "Toyota",
+    "brand_slug": "toyota",
+    "model_name": "Hiace"
+  },
+  {
     "id": "9b2b5519-16a2-4b32-a855-c2fe7e8344e0",
     "brand_id": "c6d60903-3c67-47a7-a5b3-b9404c2b17f9",
     "brand_name": "Toyota",
     "brand_slug": "toyota",
     "model_name": "Highlander"
+  },
+  {
+    "id": "4321cc05-c5e0-5901-9e2e-75e7aa3339bb",
+    "brand_id": "c6d60903-3c67-47a7-a5b3-b9404c2b17f9",
+    "brand_name": "Toyota",
+    "brand_slug": "toyota",
+    "model_name": "Hilux"
   },
   {
     "id": "11a3cfef-ec01-47ba-a707-d9edb4cf9dba",
@@ -23604,6 +24836,20 @@
     "model_name": "Caddy"
   },
   {
+    "id": "c43f38bb-47be-5459-bfe0-ad41d2ee0604",
+    "brand_id": "605d87dc-9a21-4f1f-b282-9917179aa56a",
+    "brand_name": "Volkswagen",
+    "brand_slug": "volkswagen",
+    "model_name": "California"
+  },
+  {
+    "id": "c2336a91-c74e-59b5-a282-95f51fc21781",
+    "brand_id": "605d87dc-9a21-4f1f-b282-9917179aa56a",
+    "brand_name": "Volkswagen",
+    "brand_slug": "volkswagen",
+    "model_name": "Caravelle"
+  },
+  {
     "id": "2a6f06d1-847c-463c-9b40-12e78e4239fe",
     "brand_id": "605d87dc-9a21-4f1f-b282-9917179aa56a",
     "brand_name": "Volkswagen",
@@ -24241,6 +25487,13 @@
     "model_name": "Taos"
   },
   {
+    "id": "55599b32-d7f3-51b7-979b-03131b24b295",
+    "brand_id": "605d87dc-9a21-4f1f-b282-9917179aa56a",
+    "brand_name": "Volkswagen",
+    "brand_slug": "volkswagen",
+    "model_name": "Tayron"
+  },
+  {
     "id": "33b86f51-fc95-466a-9e7f-79aacd2eb43e",
     "brand_id": "605d87dc-9a21-4f1f-b282-9917179aa56a",
     "brand_name": "Volkswagen",
@@ -24281,6 +25534,13 @@
     "brand_name": "Volkswagen",
     "brand_slug": "volkswagen",
     "model_name": "Touran"
+  },
+  {
+    "id": "19f0b7a6-4cf9-50b0-b9e3-76c850836884",
+    "brand_id": "605d87dc-9a21-4f1f-b282-9917179aa56a",
+    "brand_name": "Volkswagen",
+    "brand_slug": "volkswagen",
+    "model_name": "Transporter"
   },
   {
     "id": "cf0a7440-5be1-4485-80cc-4cda52ff092d",
@@ -24479,6 +25739,13 @@
     "model_name": "C30"
   },
   {
+    "id": "7ad7b998-e9e1-5946-ac86-8897b4742e7c",
+    "brand_id": "e9283832-a1f9-4892-b74f-34352519b682",
+    "brand_name": "Volvo",
+    "brand_slug": "volvo",
+    "model_name": "C40"
+  },
+  {
     "id": "93aa7f61-a8d0-4bff-a587-518a8dc4c2ee",
     "brand_id": "e9283832-a1f9-4892-b74f-34352519b682",
     "brand_name": "Volvo",
@@ -24505,6 +25772,13 @@
     "brand_name": "Volvo",
     "brand_slug": "volvo",
     "model_name": "EX30"
+  },
+  {
+    "id": "3381787c-9e97-56d9-b420-9cc77527e7c1",
+    "brand_id": "e9283832-a1f9-4892-b74f-34352519b682",
+    "brand_name": "Volvo",
+    "brand_slug": "volvo",
+    "model_name": "EX40"
   },
   {
     "id": "0b2fea0e-5591-4fe7-a9ed-22be64387f0e",
@@ -24701,6 +25975,20 @@
     "brand_name": "Volvo",
     "brand_slug": "volvo",
     "model_name": "XC90"
+  },
+  {
+    "id": "6f9f47fc-e49d-59fc-8d72-372882528624",
+    "brand_id": "382f0049-4255-5257-bb10-a0d5af594b01",
+    "brand_name": "Voyah",
+    "brand_slug": "voyah",
+    "model_name": "Dream"
+  },
+  {
+    "id": "6aba720d-5fba-530e-965b-0b9bbb4955f8",
+    "brand_id": "382f0049-4255-5257-bb10-a0d5af594b01",
+    "brand_name": "Voyah",
+    "brand_slug": "voyah",
+    "model_name": "Free"
   },
   {
     "id": "bf107bc5-b1bc-4908-8cd2-f733ea54e1b1",

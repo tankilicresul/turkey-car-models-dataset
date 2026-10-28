@@ -10,10 +10,18 @@
   {
     "id": "bdf0a7ab-bfdc-4fa2-9048-f671ef0928d5",
     "name": "Alfa Romeo",
-    "slug": "alfa-repo",
+    "slug": "alfa-romeo",
     "category": "premium",
     "country": "İtalya",
-    "logo_url": "https://s1.cdn.autoevolution.com/images/producers/alfa-romeo-sm.jpg"
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/alfa-romeo.png"
+  },
+  {
+    "id": "a253c2ee-5819-57e5-8f96-e625a3a10c79",
+    "name": "Alpine",
+    "slug": "alpine",
+    "category": "premium",
+    "country": "Fransa",
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/alpine.png"
   },
   {
     "id": "e234023e-6fc5-4f46-9e52-03230d067c11",
@@ -240,12 +248,28 @@
     "logo_url": "https://s1.cdn.autoevolution.com/images/producers/honda-sm.jpg"
   },
   {
+    "id": "32e0deba-9a1a-5778-92f2-11113f7fb6bd",
+    "name": "Hongqi",
+    "slug": "hongqi",
+    "category": "luxury",
+    "country": "Çin",
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/hongqi.png"
+  },
+  {
     "id": "c605d04f-002a-4a35-ae3b-3c5d69f6bb81",
     "name": "Hyundai",
     "slug": "hyundai",
     "category": "standard",
     "country": "Güney Kore",
     "logo_url": "https://s1.cdn.autoevolution.com/images/producers/hyundai-sm.jpg"
+  },
+  {
+    "id": "8f4c3c5f-72db-5446-8396-ada7a53b5744",
+    "name": "IKCO",
+    "slug": "ikco",
+    "category": "standard",
+    "country": "İran",
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/ikco.png"
   },
   {
     "id": "22251f7a-9dc6-488a-826f-6f42384d7652",
@@ -632,12 +656,28 @@
     "logo_url": "https://s1.cdn.autoevolution.com/images/producers/seat-sm.jpg"
   },
   {
+    "id": "e1ee7b83-601d-5bd7-8a4c-c9225a166f76",
+    "name": "Seres",
+    "slug": "seres",
+    "category": "standard",
+    "country": "Çin",
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/seres.png"
+  },
+  {
     "id": "ca6a2c8f-702a-440f-8390-0d1b2ddb3b9c",
     "name": "Skoda",
     "slug": "skoda",
     "category": "standard",
     "country": "Çekya",
     "logo_url": "https://s1.cdn.autoevolution.com/images/producers/skoda-sm.jpg"
+  },
+  {
+    "id": "50edfc0e-bd1c-53b3-be2f-fc71629e6312",
+    "name": "Skywell",
+    "slug": "skywell",
+    "category": "standard",
+    "country": "Çin",
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/skywell.png"
   },
   {
     "id": "4edfcaf9-1a3e-448e-bfe5-ecf4c3d4ca2c",
@@ -670,6 +710,14 @@
     "category": "standard",
     "country": "Japonya",
     "logo_url": "https://s1.cdn.autoevolution.com/images/producers/suzuki-sm.jpg"
+  },
+  {
+    "id": "15dff738-52e6-5baa-8172-f63d63cba080",
+    "name": "SWM",
+    "slug": "swm",
+    "category": "standard",
+    "country": "Çin",
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/swm.png"
   },
   {
     "id": "b67e0b8b-3777-45b6-9d9b-30553c5c354f",
@@ -734,6 +782,14 @@
     "category": "premium",
     "country": "İsveç",
     "logo_url": "https://s1.cdn.autoevolution.com/images/producers/volvo-sm.jpg"
+  },
+  {
+    "id": "382f0049-4255-5257-bb10-a0d5af594b01",
+    "name": "Voyah",
+    "slug": "voyah",
+    "category": "premium",
+    "country": "Çin",
+    "logo_url": "https://cdn.jsdelivr.net/gh/filippofilip95/car-logos-dataset@master/logos/optimized/voyah.png"
   },
   {
     "id": "8d07504f-b2b5-466f-9695-5e1c0e1ed4f3",
